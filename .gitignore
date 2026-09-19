@@ -1,4 +1,7 @@
-# Raw API cache: large and fully reproducible via scripts/p1_fetch.py
+# Raw API cache: large (~135 MB) and reproducible via scripts/p1_fetch.py
 data/raw/promoter/
 data/raw/public/
+data/raw/pro129/
+data/raw/pub129/
+scan.log
 __pycache__/

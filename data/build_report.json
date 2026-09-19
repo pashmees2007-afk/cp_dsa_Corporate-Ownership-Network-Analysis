@@ -1,0 +1,35 @@
+{
+  "quarters_used": {
+    "130.00": "June 2026",
+    "129.00": "March 2026"
+  },
+  "companies_in_scope": 46,
+  "companies_by_group": {
+    "Aditya Birla": 11,
+    "Murugappa": 10,
+    "Tata": 25
+  },
+  "companies_by_quarter": {
+    "June 2026": 45,
+    "March 2026": 1
+  },
+  "skipped_zero_share_rows": 7886,
+  "skipped_public_any_other_rows": 196,
+  "skipped_duplicates": 1,
+  "rows_by_role": {
+    "Promoter": 189,
+    "Promoter Group": 525,
+    "Public (>1%)": 232
+  },
+  "rows_by_group": {
+    "Aditya Birla": 236,
+    "Murugappa": 431,
+    "Tata": 279
+  },
+  "rows_by_entity_type": {
+    "corporate": 618,
+    "individual": 328
+  },
+  "public_files_missing": [],
+  "total_relations": 946
+}

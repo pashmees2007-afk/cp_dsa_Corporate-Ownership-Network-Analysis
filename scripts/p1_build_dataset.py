@@ -2,7 +2,8 @@
 
     python scripts/p1_build_dataset.py
 
-Reads  data/raw/promoter/*.json (+ data/raw/public/*.json for in-scope companies)
+Reads  the cached promoter + public registers of every in-scope company
+       (scope and quarter selection live in p1_fetch.in_scope)
 Writes data/ownership_relations.csv and data/build_report.json
 
 Cleaning rules (deliberately minimal - name normalisation is Phase 2, entity
@@ -13,19 +14,24 @@ from whitespace collapsing):
      group membership, not an ownership stake).
   3. Collapse runs of whitespace in names; strip ends.
   4. Drop exact duplicate (holder, held, role) rows.
+  5. Public register: drop the "Any Other" buckets. Their named rows are
+     category labels ("Trusts", "Clearing Members", "FII", "HUF", ...), not
+     identifiable holders, and would become false nodes in the graph.
 """
 import csv
 import json
 import re
+import sys
 from datetime import datetime
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import p1_fetch as fetch
+
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw"
-GROUP_ANCHOR = "tata sons"
-
 FIELDS = ["holder_name", "held_name", "stake_pct", "filing_date", "entity_type",
-          "holder_role", "shares_held", "held_scrip_code", "as_on_date"]
+          "holder_role", "shares_held", "held_scrip_code", "as_on_date", "group"]
 
 # Promoter-register filing categories (SEBI shareholding-pattern format).
 INDIVIDUAL_PROMOTER_CODES = {"A1a", "A2a"}
@@ -49,15 +55,21 @@ def filing_date(payload):
 
 
 def build():
-    quarter = json.loads((RAW / "quarter.json").read_text("utf-8"))
-    as_on = datetime.strptime(quarter["fld_enddate"], "%d %b %Y").date().isoformat()
+    quarters = json.loads((RAW / "quarter.json").read_text("utf-8"))
+    as_on = {q: datetime.strptime(v["fld_enddate"], "%d %b %Y").date().isoformat()
+             for q, v in quarters.items()}
 
     out, seen = [], set()
-    report = {"quarter": quarter["fld_quartername"], "as_on_date": as_on,
-              "companies_in_scope": 0, "skipped_zero_share_rows": 0,
-              "skipped_duplicates": 0, "rows_by_role": {}, "public_files_missing": []}
+    report = {"quarters_used": {q: v["fld_quartername"] for q, v in quarters.items()},
+              "companies_in_scope": 0, "companies_by_group": {}, "companies_by_quarter": {},
+              "skipped_zero_share_rows": 0, "skipped_public_any_other_rows": 0,
+              "skipped_duplicates": 0, "rows_by_role": {}, "rows_by_group": {},
+              "rows_by_entity_type": {}, "public_files_missing": []}
 
-    def add(holder, held, pct, fdate, etype, role, shares, scrip):
+    def bump(key, sub):
+        report[key][sub] = report[key].get(sub, 0) + 1
+
+    def add(holder, held, pct, fdate, etype, role, shares, scrip, qtr, group):
         key = (holder.lower(), held.lower(), role)
         if key in seen:
             report["skipped_duplicates"] += 1
@@ -65,17 +77,19 @@ def build():
         seen.add(key)
         out.append({"holder_name": holder, "held_name": held, "stake_pct": pct,
                     "filing_date": fdate, "entity_type": etype, "holder_role": role,
-                    "shares_held": shares, "held_scrip_code": scrip, "as_on_date": as_on})
-        report["rows_by_role"][role] = report["rows_by_role"].get(role, 0) + 1
+                    "shares_held": shares, "held_scrip_code": scrip,
+                    "as_on_date": as_on[qtr], "group": group})
+        bump("rows_by_role", role)
+        bump("rows_by_group", group)
+        bump("rows_by_entity_type", etype)
 
-    for f in sorted((RAW / "promoter").glob("*.json")):
-        payload = json.loads(f.read_text("utf-8"))
-        if not any(GROUP_ANCHOR in clean(r["Fld_ShareHolderName"]).lower() for r in rows_of(payload)):
-            continue
-        scrip = f.stem
+    for scrip, qtr, path, group in fetch.in_scope():
+        payload = json.loads(path.read_text("utf-8"))
         held = clean(payload["Table2"][0]["sLongName"])
         fdate = filing_date(payload)
         report["companies_in_scope"] += 1
+        bump("companies_by_group", group)
+        bump("companies_by_quarter", quarters[qtr]["fld_quartername"])
 
         for r in rows_of(payload):
             shares = r["Fld_TotalNoOfShares"]
@@ -85,9 +99,9 @@ def build():
             etype = "individual" if r["Fld_Code"] in INDIVIDUAL_PROMOTER_CODES else "corporate"
             add(clean(r["Fld_ShareHolderName"]), held, r["Fld_TotalPercentageOf_A_B_C2"],
                 fdate, etype, (r.get("FLd_ShareholderType") or "Promoter Group").strip(),
-                shares, scrip)
+                shares, scrip, qtr, group)
 
-        pub = RAW / "public" / f"{scrip}.json"
+        pub = fetch.PUBLIC_DIR[qtr] / f"{scrip}.json"
         if not pub.exists():
             report["public_files_missing"].append(scrip)
             continue
@@ -98,12 +112,15 @@ def build():
                 report["skipped_zero_share_rows"] += 1
                 continue
             level = r.get("Fld_Level") or ""
+            if "Any Other" in level:
+                report["skipped_public_any_other_rows"] += 1
+                continue
             etype = "individual" if INDIVIDUAL_PUBLIC_LEVEL.search(
                 (r.get("Fld_SubCategory") or "") + " " + level) else "corporate"
             add(clean(r["Fld_ShareHolderName"]), held, r["Fld_TotalPercentageOf_A_B_C2"],
-                filing_date(ppayload), etype, "Public (>1%)", shares, scrip)
+                filing_date(ppayload), etype, "Public (>1%)", shares, scrip, qtr, group)
 
-    out.sort(key=lambda r: (r["held_name"], -r["stake_pct"], r["holder_name"]))
+    out.sort(key=lambda r: (r["group"], r["held_name"], -r["stake_pct"], r["holder_name"]))
     with open(ROOT / "data" / "ownership_relations.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS)
         w.writeheader()
