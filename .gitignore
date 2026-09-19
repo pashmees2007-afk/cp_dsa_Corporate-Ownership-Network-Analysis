@@ -1,0 +1,4 @@
+# Raw API cache: large and fully reproducible via scripts/p1_fetch.py
+data/raw/promoter/
+data/raw/public/
+__pycache__/
