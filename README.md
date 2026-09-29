@@ -10,7 +10,8 @@ Follows `CP_Implementation_Plan.docx`.
 | 1. Data acquisition and schema design | **Done** |
 | 2. Ingestion and parsing module | **Done** |
 | 3. Entity resolution | **Done** |
-| 4–8 | Not started |
+| 4. Graph construction and chain traversal | **Done** — first end-to-end build |
+| 5–8 | Not started |
 
 ### Phase 1 deliverable
 
@@ -41,6 +42,18 @@ python -m ownership.resolve    # build the entity index
 python -m ownership.er_eval    # precision / recall, ablation, blocking benchmark
 ```
 
+### Phase 4 deliverable
+
+- Query interface: `python -m ownership.query "<company name>"` prints the company's ownership chains ranked by effective stake, its ultimate owners, and any circular holdings on its chains.
+- Graph: [`ownership/graph.py`](ownership/graph.py) (adjacency lists). Traversal: [`ownership/chains.py`](ownership/chains.py) (DFS with an explicit stack).
+- All chains of all 46 listed companies: [`data/ownership_chains.csv`](data/ownership_chains.csv) (1,570 at the default 0.01% threshold; 313,822 with none), summary in [`data/chains_report.json`](data/chains_report.json).
+- Method and findings: [`docs/chains.md`](docs/chains.md).
+
+```
+python -m ownership.query "tata steel"
+python -m ownership.query --report     # regenerate the chain files
+```
+
 ## Reproducing
 
 ```
@@ -51,4 +64,4 @@ python scripts/p1_fetch.py public
 python scripts/p1_build_dataset.py    # writes data/ownership_relations.csv
 ```
 
-Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–3 use only the Python 3.11 standard library.
+Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–4 use only the Python 3.11 standard library.
