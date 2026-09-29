@@ -17,6 +17,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from .chains import MIN_EFFECTIVE, iter_chains, ownership_chains, ultimate_owners
+from .control import ControlModel
 from .graph import OwnershipGraph
 from .ingest import read_records
 from .resolve import build_index
@@ -102,8 +103,9 @@ def describe(p, query, top=10, min_effective=MIN_EFFECTIVE, out=sys.stdout):
     if owners:
         levels = bfs_levels(g, entity.id)
         ent = owners[0][0]
+        exact = ControlModel(g).integrated(entity.id).get(ent, 0.0)
         print(f"Controller: {g.nodes[ent].name}, {levels[ent]} ownership layer{'s' if levels[ent] > 1 else ''} "
-              f"away (BFS minimum)", file=out)
+              f"away (BFS minimum); integrated stake including loops {pct(exact)}", file=out)
     group = next((c for c in circular_groups(g) if entity.id in c), None)
     if group:
         others = [g.nodes[n].name for n in group if n != entity.id]

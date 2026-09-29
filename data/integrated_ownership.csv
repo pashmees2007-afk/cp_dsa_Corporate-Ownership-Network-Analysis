@@ -1,0 +1,2022 @@
+company,owner,owner_type,same_family,integrated_pct,simple_chains_pct,loop_pct
+Aditya Birla Capital Ltd,Birla Group Holdings Private Limited,corporate,True,22.145456,22.122587,0.022869
+Aditya Birla Capital Ltd,Life Insurance Corporation Of India,corporate,False,5.15762,5.151436,0.006185
+Aditya Birla Capital Ltd,IGH Holdings Private Limited,corporate,True,4.114431,4.107512,0.006919
+Aditya Birla Capital Ltd,PI OPPORTUNITIES FUND I,corporate,False,2.9,2.9,0.0
+Aditya Birla Capital Ltd,P.T. Indo Bharat Rayon,corporate,True,2.600316,2.597658,0.002658
+Aditya Birla Capital Ltd,MOTILAL OSWAL NIFTY 200 MOMENTUM 30 INDEX FUND,corporate,False,2.08,2.08,0.0
+Aditya Birla Capital Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,1.963287,1.963284,4e-06
+Aditya Birla Capital Ltd,Surya Kiran Investments Pte Limited,corporate,True,1.38,1.38,0.0
+Aditya Birla Capital Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,1.34612,1.343856,0.002264
+Aditya Birla Capital Ltd,Sbi Nifty 50 Etf,corporate,False,0.936776,0.935201,0.001575
+Aditya Birla Capital Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,0.776812,0.775506,0.001306
+Aditya Birla Capital Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.766171,0.764882,0.001288
+Aditya Birla Capital Ltd,Shamyak Investment Private Limited,corporate,False,0.76085,0.759571,0.00128
+Aditya Birla Capital Ltd,Padmavati Investment Private Limited,corporate,True,0.700577,0.699796,0.000781
+Aditya Birla Capital Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.639943,0.63923,0.000714
+Aditya Birla Capital Ltd,Theleme Master Fund Limited,corporate,False,0.622514,0.621467,0.001047
+Aditya Birla Capital Ltd,ICICI Prudential Nifty ETF,corporate,False,0.537384,0.53648,0.000904
+Aditya Birla Capital Ltd,Thai Rayon Public Company Limited,corporate,True,0.472444,0.471818,0.000626
+Aditya Birla Capital Ltd,Anatole Investments Pte Ltd,corporate,True,0.351162,0.350571,0.000591
+Aditya Birla Capital Ltd,Kumar Mangalam Birla,individual,True,0.220576,0.22034,0.000236
+Aditya Birla Capital Ltd,Suryaja Investments Pte. Ltd,corporate,True,0.21,0.21,0.0
+Aditya Birla Capital Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.209662,0.209428,0.000234
+Aditya Birla Capital Ltd,P T Sunrise Bumi Textiles,corporate,True,0.165944,0.165766,0.000178
+Aditya Birla Capital Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.164369,0.164186,0.000183
+Aditya Birla Capital Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,0.156021,0.155758,0.000262
+Aditya Birla Capital Ltd,Birla Institute of Technology and Science,corporate,True,0.119039,0.118889,0.00015
+Aditya Birla Capital Ltd,P T Elegant Textile Industry,corporate,True,0.106834,0.106721,0.000112
+Aditya Birla Capital Ltd,Governement of Singapore,corporate,False,0.098913,0.098746,0.000166
+Aditya Birla Capital Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.09406,0.093902,0.000158
+Aditya Birla Capital Ltd,Rajashree Birla,individual,True,0.073685,0.073611,7.3e-05
+Aditya Birla Capital Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,0.050389,0.050305,8.5e-05
+Aditya Birla Capital Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,0.041431,0.041362,7e-05
+Aditya Birla Capital Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.027248,0.027202,4.6e-05
+Aditya Birla Capital Ltd,Renuka Ventures Limited,corporate,True,0.021283,0.021247,3.6e-05
+Aditya Birla Capital Ltd,Vasavadatta Bajaj,individual,True,0.021015,0.020996,1.9e-05
+Aditya Birla Capital Ltd,RENUKA INVESTMENTS AND FINANCE LIMITED,corporate,True,0.01,0.01,0.0
+Aditya Birla Capital Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.007671,0.007662,9e-06
+Aditya Birla Capital Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.00644,0.00643,1.1e-05
+Aditya Birla Capital Ltd,Neerja Birla,individual,True,0.005694,0.005684,1e-05
+Aditya Birla Capital Ltd,Advaitesha Birla,individual,True,0.005321,0.005312,9e-06
+Aditya Birla Capital Ltd,Ananyashree Birla,individual,True,0.005321,0.005312,9e-06
+Aditya Birla Capital Ltd,Aryaman Vikram Birla,individual,True,0.005321,0.005312,9e-06
+Aditya Birla Capital Ltd,Birla Consultants Limited,corporate,True,0.005321,0.005312,9e-06
+Aditya Birla Capital Ltd,Birla Industrial Finance India Limited,corporate,True,0.005321,0.005312,9e-06
+Aditya Birla Fashion and Retail Ltd,Birla Group Holdings Private Limited,corporate,True,21.918436,21.914146,0.00429
+Aditya Birla Fashion and Retail Ltd,IGH Holdings Private Limited,corporate,True,12.419375,12.41729,0.002084
+Aditya Birla Fashion and Retail Ltd,Caladium Investment Pte. Ltd,corporate,False,3.29,3.29,0.0
+Aditya Birla Fashion and Retail Ltd,Theleme India Master Fund Limited,corporate,False,3.19,3.19,0.0
+Aditya Birla Fashion and Retail Ltd,Quant Mutual Fund - Quant Small Cap Fund,corporate,False,2.0,2.0,0.0
+Aditya Birla Fashion and Retail Ltd,Bandhan Large & Mid Cap Fund,corporate,False,1.77,1.77,0.0
+Aditya Birla Fashion and Retail Ltd,Sachin Bansal,individual,False,1.4,1.4,0.0
+Aditya Birla Fashion and Retail Ltd,Padmavati Investment Private Limited,corporate,True,1.168844,1.168707,0.000137
+Aditya Birla Fashion and Retail Ltd,Hn Safal Infra Developers Private Limited,corporate,False,1.16,1.16,0.0
+Aditya Birla Fashion and Retail Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,1.067682,1.067557,0.000125
+Aditya Birla Fashion and Retail Ltd,Peanence Commercial Pvt Limited,corporate,False,1.05,1.05,0.0
+Aditya Birla Fashion and Retail Ltd,Life Insurance Corporation Of India,corporate,False,0.743955,0.742704,0.001251
+Aditya Birla Fashion and Retail Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.3498,0.349759,4.1e-05
+Aditya Birla Fashion and Retail Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.274233,0.274201,3.2e-05
+Aditya Birla Fashion and Retail Ltd,P.T. Indo Bharat Rayon,corporate,True,0.259577,0.25914,0.000437
+Aditya Birla Fashion and Retail Ltd,Sbi Nifty 50 Etf,corporate,False,0.233183,0.232791,0.000392
+Aditya Birla Fashion and Retail Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,0.206834,0.206486,0.000348
+Aditya Birla Fashion and Retail Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,0.186876,0.186562,0.000314
+Aditya Birla Fashion and Retail Ltd,Kumar Mangalam Birla,individual,True,0.123938,0.123898,4e-05
+Aditya Birla Fashion and Retail Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,0.119359,0.119158,0.000201
+Aditya Birla Fashion and Retail Ltd,Governement of Singapore,corporate,False,0.118474,0.118275,0.000199
+Aditya Birla Fashion and Retail Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.117724,0.117526,0.000198
+Aditya Birla Fashion and Retail Ltd,Shamyak Investment Private Limited,corporate,False,0.116906,0.11671,0.000197
+Aditya Birla Fashion and Retail Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.112662,0.112473,0.000189
+Aditya Birla Fashion and Retail Ltd,Theleme Master Fund Limited,corporate,False,0.09565,0.09549,0.000161
+Aditya Birla Fashion and Retail Ltd,ICICI Prudential Nifty ETF,corporate,False,0.08257,0.082431,0.000139
+Aditya Birla Fashion and Retail Ltd,Rajashree Birla,individual,True,0.077881,0.077868,1.3e-05
+Aditya Birla Fashion and Retail Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,0.060355,0.060253,0.000101
+Aditya Birla Fashion and Retail Ltd,Thai Rayon Public Company Limited,corporate,True,0.057227,0.057131,9.6e-05
+Aditya Birla Fashion and Retail Ltd,Anatole Investments Pte Ltd,corporate,True,0.053957,0.053866,9.1e-05
+Aditya Birla Fashion and Retail Ltd,Birla Institute of Technology and Science,corporate,True,0.051094,0.051008,8.6e-05
+Aditya Birla Fashion and Retail Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,0.049625,0.049542,8.3e-05
+Aditya Birla Fashion and Retail Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.032636,0.032581,5.5e-05
+Aditya Birla Fashion and Retail Ltd,Aryaman Vikram Birla,individual,True,0.030818,0.030816,1e-06
+Aditya Birla Fashion and Retail Ltd,P T Sunrise Bumi Textiles,corporate,True,0.021345,0.021309,3.6e-05
+Aditya Birla Fashion and Retail Ltd,P T Elegant Textile Industry,corporate,True,0.013387,0.013364,2.3e-05
+Aditya Birla Fashion and Retail Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.012798,0.012796,1e-06
+Aditya Birla Fashion and Retail Ltd,Birla Consultants Limited,corporate,True,0.010818,0.010816,1e-06
+Aditya Birla Fashion and Retail Ltd,Birla Industrial Finance India Limited,corporate,True,0.010818,0.010816,1e-06
+Aditya Birla Fashion and Retail Ltd,ABNL Investment Limited,corporate,True,0.01,0.01,0.0
+Aditya Birla Fashion and Retail Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.005485,0.005484,1e-06
+Aditya Birla Fashion and Retail Ltd,Renuka Ventures Limited,corporate,True,0.00327,0.003265,5e-06
+Aditya Birla Fashion and Retail Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.002159,0.002155,4e-06
+Aditya Birla Fashion and Retail Ltd,Vasavadatta Bajaj,individual,True,0.002082,0.002079,4e-06
+Aditya Birla Fashion and Retail Ltd,Neerja Birla,individual,True,0.001265,0.001262,2e-06
+Aditya Birla Fashion and Retail Ltd,Advaitesha Birla,individual,True,0.000818,0.000816,1e-06
+Aditya Birla Fashion and Retail Ltd,Ananyashree Birla,individual,True,0.000818,0.000816,1e-06
+Aditya Birla Lifestyle Brands Ltd,Birla Group Holdings Private Limited,corporate,True,20.057386,20.053096,0.00429
+Aditya Birla Lifestyle Brands Ltd,IGH Holdings Private Limited,corporate,True,12.419375,12.41729,0.002084
+Aditya Birla Lifestyle Brands Ltd,Caladium Investment Pte. Ltd,corporate,False,5.39,5.39,0.0
+Aditya Birla Lifestyle Brands Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,5.34,5.34,0.0
+Aditya Birla Lifestyle Brands Ltd,Quant Mutual Fund - Quant Small Cap Fund,corporate,False,4.6,4.6,0.0
+Aditya Birla Lifestyle Brands Ltd,ICICI Prudential India Opportunities Fund,corporate,False,4.29,4.29,0.0
+Aditya Birla Lifestyle Brands Ltd,SBI Life Insurance Co. Ltd,corporate,False,3.78,3.78,0.0
+Aditya Birla Lifestyle Brands Ltd,Amansa Holdings Private Limited,corporate,False,2.47,2.47,0.0
+Aditya Birla Lifestyle Brands Ltd,Padmavati Investment Private Limited,corporate,True,1.715474,1.715337,0.000137
+Aditya Birla Lifestyle Brands Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,1.567002,1.566877,0.000125
+Aditya Birla Lifestyle Brands Ltd,Peanence Commercial Pvt Limited,corporate,False,1.01,1.01,0.0
+Aditya Birla Lifestyle Brands Ltd,Life Insurance Corporation Of India,corporate,False,0.743955,0.742704,0.001251
+Aditya Birla Lifestyle Brands Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.51339,0.513349,4.1e-05
+Aditya Birla Lifestyle Brands Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.402483,0.402451,3.2e-05
+Aditya Birla Lifestyle Brands Ltd,P.T. Indo Bharat Rayon,corporate,True,0.259577,0.25914,0.000437
+Aditya Birla Lifestyle Brands Ltd,Sbi Nifty 50 Etf,corporate,False,0.233183,0.232791,0.000392
+Aditya Birla Lifestyle Brands Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,0.206834,0.206486,0.000348
+Aditya Birla Lifestyle Brands Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,0.186876,0.186562,0.000314
+Aditya Birla Lifestyle Brands Ltd,Kumar Mangalam Birla,individual,True,0.123938,0.123898,4e-05
+Aditya Birla Lifestyle Brands Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,0.119359,0.119158,0.000201
+Aditya Birla Lifestyle Brands Ltd,Governement of Singapore,corporate,False,0.118474,0.118275,0.000199
+Aditya Birla Lifestyle Brands Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.117724,0.117526,0.000198
+Aditya Birla Lifestyle Brands Ltd,Shamyak Investment Private Limited,corporate,False,0.116906,0.11671,0.000197
+Aditya Birla Lifestyle Brands Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.112662,0.112473,0.000189
+Aditya Birla Lifestyle Brands Ltd,Theleme Master Fund Limited,corporate,False,0.09565,0.09549,0.000161
+Aditya Birla Lifestyle Brands Ltd,ICICI Prudential Nifty ETF,corporate,False,0.08257,0.082431,0.000139
+Aditya Birla Lifestyle Brands Ltd,Rajashree Birla,individual,True,0.077881,0.077868,1.3e-05
+Aditya Birla Lifestyle Brands Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,0.060355,0.060253,0.000101
+Aditya Birla Lifestyle Brands Ltd,Thai Rayon Public Company Limited,corporate,True,0.057227,0.057131,9.6e-05
+Aditya Birla Lifestyle Brands Ltd,Anatole Investments Pte Ltd,corporate,True,0.053957,0.053866,9.1e-05
+Aditya Birla Lifestyle Brands Ltd,Birla Institute of Technology and Science,corporate,True,0.051094,0.051008,8.6e-05
+Aditya Birla Lifestyle Brands Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,0.049625,0.049542,8.3e-05
+Aditya Birla Lifestyle Brands Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.032636,0.032581,5.5e-05
+Aditya Birla Lifestyle Brands Ltd,P T Sunrise Bumi Textiles,corporate,True,0.021345,0.021309,3.6e-05
+Aditya Birla Lifestyle Brands Ltd,Aryaman Vikram Birla,individual,True,0.020818,0.020816,1e-06
+Aditya Birla Lifestyle Brands Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.018783,0.018781,1e-06
+Aditya Birla Lifestyle Brands Ltd,P T Elegant Textile Industry,corporate,True,0.013387,0.013364,2.3e-05
+Aditya Birla Lifestyle Brands Ltd,Birla Consultants Limited,corporate,True,0.010818,0.010816,1e-06
+Aditya Birla Lifestyle Brands Ltd,Birla Industrial Finance India Limited,corporate,True,0.010818,0.010816,1e-06
+Aditya Birla Lifestyle Brands Ltd,ABNL Investment Limited,corporate,True,0.01,0.01,0.0
+Aditya Birla Lifestyle Brands Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.00805,0.008049,1e-06
+Aditya Birla Lifestyle Brands Ltd,Renuka Ventures Limited,corporate,True,0.00327,0.003265,5e-06
+Aditya Birla Lifestyle Brands Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.002159,0.002155,4e-06
+Aditya Birla Lifestyle Brands Ltd,Vasavadatta Bajaj,individual,True,0.002082,0.002079,4e-06
+Aditya Birla Lifestyle Brands Ltd,Neerja Birla,individual,True,0.001265,0.001262,2e-06
+Aditya Birla Lifestyle Brands Ltd,Advaitesha Birla,individual,True,0.000818,0.000816,1e-06
+Aditya Birla Lifestyle Brands Ltd,Ananyashree Birla,individual,True,0.000818,0.000816,1e-06
+Aditya Birla Real Estate Ltd,Birla Group Holdings Private Limited,corporate,True,18.32163,18.32163,0.0
+Aditya Birla Real Estate Ltd,IGH Holdings Private Limited,corporate,True,9.98,9.98,0.0
+Aditya Birla Real Estate Ltd,Padmavati Investment Private Limited,corporate,True,6.395022,6.395022,0.0
+Aditya Birla Real Estate Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,5.832408,5.832408,0.0
+Aditya Birla Real Estate Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,2.93,2.93,0.0
+Aditya Birla Real Estate Ltd,INVESCO INDIA FOCUSED FUND,corporate,False,2.57,2.57,0.0
+Aditya Birla Real Estate Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Elss Tax Saver Fund,corporate,False,2.11,2.11,0.0
+Aditya Birla Real Estate Ltd,Bandhan Small Cap Fund,corporate,False,1.97,1.97,0.0
+Aditya Birla Real Estate Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,1.910846,1.910846,0.0
+Aditya Birla Real Estate Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1.63,1.63,0.0
+Aditya Birla Real Estate Ltd,Birla Corporation Limited,corporate,False,1.62,1.62,0.0
+Aditya Birla Real Estate Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,1.60805,1.60805,0.0
+Aditya Birla Real Estate Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,1.52,1.52,0.0
+Aditya Birla Real Estate Ltd,Goldman Sachs Funds - Goldman Sachs India Equity Portfolio,corporate,False,1.4,1.4,0.0
+Aditya Birla Real Estate Ltd,Hsbc Mutual Fund - Hsbc Value Fund,corporate,False,1.0,1.0,0.0
+Aditya Birla Real Estate Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.109909,0.109909,0.0
+Aditya Birla Real Estate Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.029961,0.029961,0.0
+Automobile Corporation of Goa Ltd-$,Tata Sons Private Limited,corporate,True,19.774217,19.774137,8e-05
+Automobile Corporation of Goa Ltd-$,Edc Limited,corporate,False,6.66,6.66,0.0
+Automobile Corporation of Goa Ltd-$,Arun Nahar,individual,False,4.13,4.13,0.0
+Automobile Corporation of Goa Ltd-$,Investor Education And Protection Fund Authority Ministry Of Corporate Affairs,corporate,False,2.13,2.13,0.0
+Automobile Corporation of Goa Ltd-$,Life Insurance Corporation Of India,corporate,False,2.101687,2.101686,0.0
+Automobile Corporation of Goa Ltd-$,Icici Prudential Value Fund,corporate,False,1.749643,1.749642,1e-06
+Automobile Corporation of Goa Ltd-$,SBI Large Cap Fund,corporate,False,1.351848,1.351848,0.0
+Automobile Corporation of Goa Ltd-$,Rachna Credit Capital Private Limited,corporate,False,1.25,1.25,0.0
+Automobile Corporation of Goa Ltd-$,Pankaj Rakyan,individual,False,1.21,1.21,0.0
+Automobile Corporation of Goa Ltd-$,Diana Dhun Ratnagar,individual,False,1.08,1.08,0.0
+Automobile Corporation of Goa Ltd-$,Dhanesh S Shah,individual,False,1.06,1.06,0.0
+Automobile Corporation of Goa Ltd-$,Tata Industries Limited,corporate,True,0.960027,0.960027,0.0
+Automobile Corporation of Goa Ltd-$,Rekha Jhunjhunwala,individual,False,0.646536,0.646536,0.0
+Automobile Corporation of Goa Ltd-$,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.61225,0.61225,0.0
+Automobile Corporation of Goa Ltd-$,Governement of Singapore,corporate,False,0.499596,0.499596,0.0
+Automobile Corporation of Goa Ltd-$,Ewart Investments Limited,corporate,True,0.046452,0.04645,2e-06
+Automobile Corporation of Goa Ltd-$,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.002382,0.002381,1e-06
+Automobile Corporation of Goa Ltd-$,Kotak Flexicap Fund,corporate,False,0.000699,0.000698,0.0
+Automobile Corporation of Goa Ltd-$,"Acacia Partners, Lp",corporate,False,0.000351,0.00035,0.0
+Automobile Corporation of Goa Ltd-$,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000153,0.000153,0.0
+Automobile Corporation of Goa Ltd-$,NPS TRUST A/C,corporate,False,0.000105,0.000105,0.0
+Automobile Corporation of Goa Ltd-$,Franklin India Flexi Cap Fund,corporate,False,8e-05,8e-05,0.0
+Automobile Corporation of Goa Ltd-$,Nahar Retail Trading Services Limited,corporate,True,4.5e-05,4.5e-05,0.0
+Automobile Corporation of Goa Ltd-$,Sbi Nifty 50 Etf,corporate,False,3.9e-05,3.9e-05,0.0
+Automobile Corporation of Goa Ltd-$,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,1.6e-05,1.6e-05,0.0
+Automobile Corporation of Goa Ltd-$,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,1.4e-05,1.4e-05,0.0
+Automobile Corporation of Goa Ltd-$,Uti Nifty 50 Etf,corporate,False,1.2e-05,1.2e-05,0.0
+Automobile Corporation of Goa Ltd-$,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,1.2e-05,1.2e-05,0.0
+Automobile Corporation of Goa Ltd-$,SBI Life Insurance Co. Ltd,corporate,False,8e-06,8e-06,0.0
+Automobile Corporation of Goa Ltd-$,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,7e-06,7e-06,0.0
+Automobile Corporation of Goa Ltd-$,Siddhartha Yog,individual,False,4e-06,4e-06,0.0
+Automobile Corporation of Goa Ltd-$,Icici Prudential Balanced Advantage Fund,corporate,False,2e-06,2e-06,0.0
+Automobile Corporation of Goa Ltd-$,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,1e-06,1e-06,0.0
+Automobile Corporation of Goa Ltd-$,Nippon Life India Trustee Ltd,corporate,False,1e-06,1e-06,0.0
+Automobile Corporation of Goa Ltd-$,Rujuvalika Investments Limited,corporate,True,1e-06,1e-06,0.0
+Automobile Corporation of Goa Ltd-$,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Automobile Corporation of Goa Ltd-$,Tata International Limited,corporate,True,0.0,0.0,0.0
+Automotive Stampings and Assemblies Ltd,Tata AutoComp Systems Limited,corporate,True,75.0,75.0,0.0
+Benares Hotels Ltd,Tata Sons Private Limited,corporate,True,18.249778,18.246255,0.003524
+Benares Hotels Ltd,Piem Hotels Limited,corporate,True,4.160609,4.160609,0.0
+Benares Hotels Ltd,Aditya Deorah,individual,False,2.87,2.87,0.0
+Benares Hotels Ltd,Investor Education And Protection Fund Authority Ministry Of Corporate Affairs,corporate,False,2.37,2.37,0.0
+Benares Hotels Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,2.348143,2.347741,0.000402
+Benares Hotels Ltd,All India Kashiraj Trust,corporate,True,2.31,2.31,0.0
+Benares Hotels Ltd,Anant Narain Singh,individual,True,1.85,1.85,0.0
+Benares Hotels Ltd,Vinodchandra Mansukhlal Parekh,individual,False,1.55,1.55,0.0
+Benares Hotels Ltd,Brajraj Singh,individual,False,1.54,1.54,0.0
+Benares Hotels Ltd,Arjun Ramani,individual,False,1.45,1.45,0.0
+Benares Hotels Ltd,Shrivarad Narayan Singh,individual,True,1.38,1.38,0.0
+Benares Hotels Ltd,Maharaj Kumari Hari Priya,individual,True,1.35,1.35,0.0
+Benares Hotels Ltd,Life Insurance Corporation Of India,corporate,False,1.308706,1.308481,0.000225
+Benares Hotels Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,1.253324,1.253109,0.000215
+Benares Hotels Ltd,Raghubirsingh R Gohil,individual,False,1.23,1.23,0.0
+Benares Hotels Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,1.169108,1.168908,0.0002
+Benares Hotels Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND A/C AXIS MIDCAP FUND,corporate,False,1.089847,1.08966,0.000187
+Benares Hotels Ltd,Maharaja Kumari Krishna Priya,individual,True,0.97,0.97,0.0
+Benares Hotels Ltd,HDFC MUTUAL FUND - HDFC MID-CAP FUND,corporate,False,0.748031,0.747903,0.000128
+Benares Hotels Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,0.743087,0.74296,0.000127
+Benares Hotels Ltd,Anamika Kunwar,individual,True,0.55,0.55,0.0
+Benares Hotels Ltd,Rekha Jhunjhunwala,individual,False,0.495385,0.4953,8.5e-05
+Benares Hotels Ltd,Maharaj Kumari Vishnupriya,individual,True,0.39,0.39,0.0
+Benares Hotels Ltd,Ewart Investments Limited,corporate,True,0.084656,0.084634,2.2e-05
+Benares Hotels Ltd,Imlak Varanasi Developments Private Limited,corporate,True,0.08,0.08,0.0
+Benares Hotels Ltd,TAJ MADURAI LIMITED,corporate,True,0.039643,0.039636,7e-06
+Benares Hotels Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.038553,0.038526,2.7e-05
+Benares Hotels Ltd,Tata Industries Limited,corporate,True,0.024913,0.024909,4e-06
+Benares Hotels Ltd,Icici Prudential Value Fund,corporate,False,0.016885,0.016874,1.2e-05
+Benares Hotels Ltd,Kotak Flexicap Fund,corporate,False,0.011307,0.011299,8e-06
+Benares Hotels Ltd,Northern India Hotels Limited,corporate,True,0.01,0.01,0.0
+Benares Hotels Ltd,"Acacia Partners, Lp",corporate,False,0.005674,0.005671,4e-06
+Benares Hotels Ltd,TAIDA TRADING AND INDUSTRIES LIMITED,corporate,True,0.004954,0.004953,1e-06
+Benares Hotels Ltd,PRAMOD RANJAN,individual,True,0.002378,0.002377,0.0
+Benares Hotels Ltd,IHOCO B.V,corporate,True,0.00156,0.00156,0.0
+Benares Hotels Ltd,D. VARADA REDDY,individual,True,0.0011,0.0011,0.0
+Benares Hotels Ltd,RAMESH DOULATRAM HARIANI,individual,True,0.000636,0.000636,0.0
+Benares Hotels Ltd,DODLA AMIT REDDY,individual,True,0.000499,0.000499,0.0
+Benares Hotels Ltd,GIRIJA GOLLAMUDI REDDY,individual,True,0.000446,0.000446,0.0
+Benares Hotels Ltd,D. VIJAYAGOPAL REDDY,individual,True,0.000431,0.000431,0.0
+Benares Hotels Ltd,CHILAMILIKA LALINI HARIANI,individual,True,0.000422,0.000422,0.0
+Benares Hotels Ltd,ROHIT REDDY D,individual,True,0.000369,0.000369,0.0
+Benares Hotels Ltd,Quant Mutual Fund - Quant Small Cap Fund,corporate,False,0.000339,0.000339,0.0
+Benares Hotels Ltd,DODLA PREMALEELA REDDY,individual,True,0.000336,0.000336,0.0
+Benares Hotels Ltd,TAJ TRADE AND TRANSPORT COMPANY LIMITED,corporate,True,0.000276,0.000276,0.0
+Benares Hotels Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000222,0.000222,0.0
+Benares Hotels Ltd,D NAVEEN REDDY,individual,True,0.00022,0.00022,0.0
+Benares Hotels Ltd,DODLA PRAKASH REDDY,individual,True,0.000217,0.000217,0.0
+Benares Hotels Ltd,D. ARUNA REDDY,individual,True,0.000214,0.000214,0.0
+Benares Hotels Ltd,GOLLAMUDI VENKA REDDY,individual,True,0.000208,0.000208,0.0
+Benares Hotels Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000195,0.000195,0.0
+Benares Hotels Ltd,P. SHOBA REDDY,individual,True,0.000181,0.000181,0.0
+Benares Hotels Ltd,JAKKA SUREKHA REDDY,individual,True,0.000172,0.000172,0.0
+Benares Hotels Ltd,Sbi Nifty 50 Etf,corporate,False,0.000162,0.000162,0.0
+Benares Hotels Ltd,DODLA POORNIMA REDDY,individual,True,0.000149,0.000149,0.0
+Benares Hotels Ltd,NPS TRUST A/C,corporate,False,0.000148,0.000148,0.0
+Benares Hotels Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000112,0.000112,0.0
+Benares Hotels Ltd,M KALA REDDY,individual,True,0.000104,0.000104,0.0
+Benares Hotels Ltd,C HEMALATHA REDDY,individual,True,8.3e-05,8.3e-05,0.0
+Benares Hotels Ltd,PIEM INTERNATIONAL (H.K.) LIMITED,corporate,True,8e-05,8e-05,0.0
+Benares Hotels Ltd,D NITYA REDDY,individual,True,7.7e-05,7.7e-05,0.0
+Benares Hotels Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,6.5e-05,6.5e-05,0.0
+Benares Hotels Ltd,PRAVIN RANJAN,individual,True,6.2e-05,6.2e-05,0.0
+Benares Hotels Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,5.8e-05,5.8e-05,0.0
+Benares Hotels Ltd,D RAHUL REDDY,individual,True,5.4e-05,5.3e-05,0.0
+Benares Hotels Ltd,LATE SUDHAKAR REDDY,individual,True,5.4e-05,5.3e-05,0.0
+Benares Hotels Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,5.2e-05,5.2e-05,0.0
+Benares Hotels Ltd,C LEENAJA REDDY,individual,True,5.1e-05,5.1e-05,0.0
+Benares Hotels Ltd,Uti Nifty 50 Etf,corporate,False,5e-05,5e-05,0.0
+Benares Hotels Ltd,DODLA VENKATARAMANI,individual,True,4.5e-05,4.5e-05,0.0
+Benares Hotels Ltd,DODLA SHILPA,individual,True,4.2e-05,4.2e-05,0.0
+Benares Hotels Ltd,SBI Life Insurance Co. Ltd,corporate,False,4.1e-05,4.1e-05,0.0
+Benares Hotels Ltd,PEDDINENIKALVA VIDYAREDDY,individual,True,3.3e-05,3.3e-05,0.0
+Benares Hotels Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,3e-05,3e-05,0.0
+Benares Hotels Ltd,NEETHA REDDY,individual,True,3e-05,3e-05,0.0
+Benares Hotels Ltd,D. SUDHA REDDY,individual,True,2.7e-05,2.7e-05,0.0
+Benares Hotels Ltd,M V SURESHREDDY,individual,True,2.7e-05,2.7e-05,0.0
+Benares Hotels Ltd,Nippon Life India Trustee Ltd,corporate,False,1.9e-05,1.9e-05,0.0
+Benares Hotels Ltd,LATE D SUNDER NISCHAL,individual,True,1.8e-05,1.8e-05,0.0
+Benares Hotels Ltd,Siddhartha Yog,individual,False,1.8e-05,1.8e-05,0.0
+Benares Hotels Ltd,DWARAKNATH REDDY HUF,individual,True,1.5e-05,1.5e-05,0.0
+Benares Hotels Ltd,D K PAVAN,individual,True,1.2e-05,1.2e-05,0.0
+Benares Hotels Ltd,D V SHARAN,individual,True,1.2e-05,1.2e-05,0.0
+Benares Hotels Ltd,KIRAN REDDY JAKKA,individual,True,9e-06,9e-06,0.0
+Benares Hotels Ltd,Kotak Midcap Fund,corporate,False,8e-06,8e-06,0.0
+Benares Hotels Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,6e-06,6e-06,0.0
+Benares Hotels Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,5e-06,5e-06,0.0
+Benares Hotels Ltd,SBI LARGE & MIDCAP FUND,corporate,False,5e-06,5e-06,0.0
+Benares Hotels Ltd,DSP Midcap Fund,corporate,False,4e-06,4e-06,0.0
+Benares Hotels Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,3e-06,3e-06,0.0
+Benares Hotels Ltd,Vanguard Total International Stock Index Fund,corporate,False,3e-06,3e-06,0.0
+Benares Hotels Ltd,D KARTHIK REDDY,individual,True,3e-06,3e-06,0.0
+Benares Hotels Ltd,DODLA ABISHEK,individual,True,3e-06,3e-06,0.0
+Benares Hotels Ltd,DODLA PRASANNA REDDY,individual,True,3e-06,3e-06,0.0
+Benares Hotels Ltd,G V K RANJAN,individual,True,3e-06,3e-06,0.0
+Benares Hotels Ltd,J CHAITANYA REDDY,individual,True,3e-06,3e-06,0.0
+Benares Hotels Ltd,Rujuvalika Investments Limited,corporate,True,3e-06,3e-06,0.0
+Benares Hotels Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Benares Hotels Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Benares Hotels Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Benares Hotels Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Benares Hotels Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Carborundum Universal Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,29.43,29.43,0.0
+Carborundum Universal Ltd,SBI MIDCAP FUND,corporate,False,9.66,9.66,0.0
+Carborundum Universal Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA NIF,corporate,False,5.16,5.16,0.0
+Carborundum Universal Ltd,KOTAK SMALL CAP FUND,corporate,False,2.33,2.33,0.0
+Carborundum Universal Ltd,ICICI PRUDENTIAL MUTUAL FUND - ICICI PRUDENTIAL,corporate,False,2.21,2.21,0.0
+Carborundum Universal Ltd,KOTAK FUNDS - INDIA MIDCAP FUND,corporate,False,2.05,2.05,0.0
+Carborundum Universal Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,2.0,2.0,0.0
+Carborundum Universal Ltd,HDFC LARGE AND MID CAP FUND,corporate,False,1.7,1.7,0.0
+Carborundum Universal Ltd,TATA ETHICAL FUND,corporate,False,1.52,1.52,0.0
+Carborundum Universal Ltd,INVESCO INDIA BALANCED ADVANTAGE FUND,corporate,False,1.51,1.51,0.0
+Carborundum Universal Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND,corporate,False,1.36,1.36,0.0
+Carborundum Universal Ltd,SOUTHERN ENERGY DEVELOPMENT CORPORATION LTD,corporate,True,0.76,0.76,0.0
+Carborundum Universal Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,0.58,0.58,0.0
+Carborundum Universal Ltd,R.MUTHATHA,individual,True,0.54,0.54,0.0
+Carborundum Universal Ltd,M A M ARUNACHALAM,individual,True,0.53,0.53,0.0
+Carborundum Universal Ltd,M.A.ALAGAPPAN,individual,True,0.41,0.41,0.0
+Carborundum Universal Ltd,A VENKATACHALAM,individual,True,0.38,0.38,0.0
+Carborundum Universal Ltd,ARUN ALAGAPPAN,individual,True,0.25,0.25,0.0
+Carborundum Universal Ltd,MEENAKSHI MURUGAPPAN,individual,True,0.25,0.25,0.0
+Carborundum Universal Ltd,V NARAYANAN,individual,True,0.22,0.22,0.0
+Carborundum Universal Ltd,V ARUNACHALAM,individual,True,0.21,0.21,0.0
+Carborundum Universal Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.2,0.2,0.0
+Carborundum Universal Ltd,Saraswathi Trust,corporate,True,0.2,0.2,0.0
+Carborundum Universal Ltd,Arun Murugappan Children's Trust,corporate,True,0.18,0.18,0.0
+Carborundum Universal Ltd,M A Alagappan Grand Children Trust,corporate,True,0.18,0.18,0.0
+Carborundum Universal Ltd,M M MURUGAPPAN,individual,True,0.18,0.18,0.0
+Carborundum Universal Ltd,M M Muthiah Family Trust,corporate,True,0.18,0.18,0.0
+Carborundum Universal Ltd,M M Muthiah HUF,individual,True,0.18,0.18,0.0
+Carborundum Universal Ltd,M M Veerappan Family Trust,corporate,True,0.18,0.18,0.0
+Carborundum Universal Ltd,AMM Arunachalam HUF,individual,True,0.16,0.16,0.0
+Carborundum Universal Ltd,M.M.MUTHIAH SONS PRIVATE LTD,corporate,True,0.16,0.16,0.0
+Carborundum Universal Ltd,Shambho Trust,corporate,True,0.15,0.15,0.0
+Carborundum Universal Ltd,M V Muthiah Family Trust,corporate,True,0.14,0.14,0.0
+Carborundum Universal Ltd,M V Subramanian Family Trust,corporate,True,0.14,0.14,0.0
+Carborundum Universal Ltd,VALLI ANNAMALAI,individual,True,0.14,0.14,0.0
+Carborundum Universal Ltd,M M Venkatachalam Family Trust,corporate,True,0.12,0.12,0.0
+Carborundum Universal Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.11,0.11,0.0
+Carborundum Universal Ltd,ARUN VENKATACHALAM,individual,True,0.1,0.1,0.0
+Carborundum Universal Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.1,0.1,0.0
+Carborundum Universal Ltd,M A ALAGAPPAN HUF,individual,True,0.1,0.1,0.0
+Carborundum Universal Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.08,0.08,0.0
+Carborundum Universal Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.08,0.08,0.0
+Carborundum Universal Ltd,LALITHA VELLAYAN,individual,True,0.06,0.06,0.0
+Carborundum Universal Ltd,M A Murugappan HUF,individual,True,0.05,0.05,0.0
+Carborundum Universal Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.05,0.05,0.0
+Carborundum Universal Ltd,M V SUBBIAH HUF,individual,True,0.04,0.04,0.0
+Carborundum Universal Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.03,0.03,0.0
+Carborundum Universal Ltd,A M MEYYAMMAI,individual,True,0.01,0.01,0.0
+Carborundum Universal Ltd,M M MURUGAPPAN HUF,individual,True,0.01,0.01,0.0
+Carborundum Universal Ltd,VALLI ALAGAPPAN,individual,True,0.01,0.01,0.0
+Century Enka Ltd,Birla Group Holdings Private Limited,corporate,True,17.807165,17.807165,0.0
+Century Enka Ltd,Quant Mutual Fund - Quant Multi Cap Fund,corporate,False,7.87,7.87,0.0
+Century Enka Ltd,Hitesh Ramji Javeri,individual,False,3.39,3.39,0.0
+Century Enka Ltd,Harsha Hitesh Javeri,individual,False,2.52,2.52,0.0
+Century Enka Ltd,Zen Securities Ltd,corporate,False,2.27,2.27,0.0
+Century Enka Ltd,Larsin Enterprises Corp,corporate,False,2.06,2.06,0.0
+Century Enka Ltd,Malingos International Holdings Limited,corporate,False,2.06,2.06,0.0
+Century Enka Ltd,Icici Prudential Smallcap Fund,corporate,False,1.97,1.97,0.0
+Century Enka Ltd,Investor Education And Protection Fund Authority Ministry Of Corporate Affairs,corporate,False,1.54,1.54,0.0
+Century Enka Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,1.378117,1.378117,0.0
+Century Enka Ltd,Ramesh Chimanlal Shah,individual,False,1.28,1.28,0.0
+Century Enka Ltd,French Wilbert Ltd,corporate,False,1.14,1.14,0.0
+Century Enka Ltd,IGH Holdings Private Limited,corporate,True,0.57884,0.57884,0.0
+Century Enka Ltd,Padmavati Investment Private Limited,corporate,True,0.564205,0.564205,0.0
+Century Enka Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.396096,0.396096,0.0
+Century Enka Ltd,BIRLA EDUCATION TRUST,corporate,True,0.34,0.34,0.0
+Century Enka Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,0.16994,0.16994,0.0
+Century Enka Ltd,INVESCO INDIA FOCUSED FUND,corporate,False,0.14906,0.14906,0.0
+Century Enka Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.14,0.14,0.0
+Century Enka Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.129771,0.129771,0.0
+Century Enka Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Elss Tax Saver Fund,corporate,False,0.12238,0.12238,0.0
+Century Enka Ltd,Rajashree Birla,individual,True,0.12,0.12,0.0
+Century Enka Ltd,Bandhan Small Cap Fund,corporate,False,0.11426,0.11426,0.0
+Century Enka Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.09454,0.09454,0.0
+Century Enka Ltd,Birla Corporation Limited,corporate,False,0.09396,0.09396,0.0
+Century Enka Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,0.08816,0.08816,0.0
+Century Enka Ltd,Goldman Sachs Funds - Goldman Sachs India Equity Portfolio,corporate,False,0.0812,0.0812,0.0
+Century Enka Ltd,B. K. Birla Foundation,corporate,True,0.07,0.07,0.0
+Century Enka Ltd,Hsbc Mutual Fund - Hsbc Value Fund,corporate,False,0.058,0.058,0.0
+Century Enka Ltd,Vasavadatta Bajaj,individual,True,0.04,0.04,0.0
+Century Enka Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.007068,0.007068,0.0
+Century Enka Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.002035,0.002035,0.0
+CG Power and Industrial Solutions Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,20.056127,20.056127,0.0
+CG Power and Industrial Solutions Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,3.51,3.51,0.0
+CG Power and Industrial Solutions Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,3.261536,3.261536,0.0
+CG Power and Industrial Solutions Ltd,"SMALLCAP WORLD FUND, INC",corporate,False,2.426099,2.426099,0.0
+CG Power and Industrial Solutions Ltd,MOTILAL OSWAL LARGE AND MIDCAP FUND,corporate,False,1.62,1.62,0.0
+CG Power and Industrial Solutions Ltd,AXIS ELSS TAX SAVER FUND,corporate,False,1.57,1.57,0.0
+CG Power and Industrial Solutions Ltd,MOTILAL OSWAL NIFTY MIDCAP 100 ETF,corporate,False,1.289041,1.289041,0.0
+CG Power and Industrial Solutions Ltd,GOVERNMENT PENSION FUND GLOBAL,corporate,False,1.1,1.1,0.0
+CG Power and Industrial Solutions Ltd,Life Insurance Corporation Of India,corporate,False,1.041365,1.041365,0.0
+CG Power and Industrial Solutions Ltd,DSP FLEXI CAP FUND,corporate,False,0.664222,0.664222,0.0
+CG Power and Industrial Solutions Ltd,FRANKLIN ASIAN EQUITY FUND,corporate,False,0.652964,0.652964,0.0
+CG Power and Industrial Solutions Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.613561,0.613561,0.0
+CG Power and Industrial Solutions Ltd,UTI NIFTY500 SHARIAH INDEX FUND,corporate,False,0.613561,0.613561,0.0
+CG Power and Industrial Solutions Ltd,NPS TRUST- A/C HDFC PENSION FUND MANAGEMENT LIMITE,corporate,False,0.574158,0.574158,0.0
+CG Power and Industrial Solutions Ltd,M A M ARUNACHALAM,individual,True,0.257676,0.257676,0.0
+CG Power and Industrial Solutions Ltd,ARUN ALAGAPPAN,individual,True,0.219531,0.219531,0.0
+CG Power and Industrial Solutions Ltd,M.A.ALAGAPPAN,individual,True,0.218273,0.218273,0.0
+CG Power and Industrial Solutions Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,0.213902,0.213902,0.0
+CG Power and Industrial Solutions Ltd,V ARUNACHALAM,individual,True,0.213902,0.213902,0.0
+CG Power and Industrial Solutions Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.202644,0.202644,0.0
+CG Power and Industrial Solutions Ltd,V NARAYANAN,individual,True,0.197015,0.197015,0.0
+CG Power and Industrial Solutions Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.177612,0.177612,0.0
+CG Power and Industrial Solutions Ltd,A VENKATACHALAM,individual,True,0.16887,0.16887,0.0
+CG Power and Industrial Solutions Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.163241,0.163241,0.0
+CG Power and Industrial Solutions Ltd,Shambho Trust,corporate,True,0.163241,0.163241,0.0
+CG Power and Industrial Solutions Ltd,Saraswathi Trust,corporate,True,0.157612,0.157612,0.0
+CG Power and Industrial Solutions Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.146354,0.146354,0.0
+CG Power and Industrial Solutions Ltd,M M Muthiah Family Trust,corporate,True,0.140725,0.140725,0.0
+CG Power and Industrial Solutions Ltd,M M Veerappan Family Trust,corporate,True,0.135096,0.135096,0.0
+CG Power and Industrial Solutions Ltd,M V Muthiah Family Trust,corporate,True,0.135096,0.135096,0.0
+CG Power and Industrial Solutions Ltd,M V Subramanian Family Trust,corporate,True,0.135096,0.135096,0.0
+CG Power and Industrial Solutions Ltd,ARUN VENKATACHALAM,individual,True,0.129467,0.129467,0.0
+CG Power and Industrial Solutions Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.129467,0.129467,0.0
+CG Power and Industrial Solutions Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.11258,0.11258,0.0
+CG Power and Industrial Solutions Ltd,M M Venkatachalam Family Trust,corporate,True,0.11258,0.11258,0.0
+CG Power and Industrial Solutions Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.106951,0.106951,0.0
+CG Power and Industrial Solutions Ltd,VALLI ANNAMALAI,individual,True,0.106951,0.106951,0.0
+CG Power and Industrial Solutions Ltd,M M MURUGAPPAN HUF,individual,True,0.101322,0.101322,0.0
+CG Power and Industrial Solutions Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.095693,0.095693,0.0
+CG Power and Industrial Solutions Ltd,R.MUTHATHA,individual,True,0.095693,0.095693,0.0
+CG Power and Industrial Solutions Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,0.084435,0.084435,0.0
+CG Power and Industrial Solutions Ltd,M M Muthiah HUF,individual,True,0.078806,0.078806,0.0
+CG Power and Industrial Solutions Ltd,Arun Murugappan Children's Trust,corporate,True,0.071919,0.071919,0.0
+CG Power and Industrial Solutions Ltd,SIGAPI ARUNACHALAM,individual,True,0.067548,0.067548,0.0
+CG Power and Industrial Solutions Ltd,M A Alagappan Grand Children Trust,corporate,True,0.061919,0.061919,0.0
+CG Power and Industrial Solutions Ltd,Murugappan Arunachalam Children Trust,corporate,True,0.061919,0.061919,0.0
+CG Power and Industrial Solutions Ltd,M M Murugappan Family Trust,corporate,True,0.05629,0.05629,0.0
+CG Power and Industrial Solutions Ltd,M M MURUGAPPAN,individual,True,0.050661,0.050661,0.0
+CG Power and Industrial Solutions Ltd,M V SUBBIAH HUF,individual,True,0.050661,0.050661,0.0
+CG Power and Industrial Solutions Ltd,M A Murugappan HUF,individual,True,0.045032,0.045032,0.0
+CG Power and Industrial Solutions Ltd,M A ALAGAPPAN HUF,individual,True,0.039403,0.039403,0.0
+CG Power and Industrial Solutions Ltd,M V SUBBIAH,individual,True,0.039403,0.039403,0.0
+CG Power and Industrial Solutions Ltd,A M MEYYAMMAI,individual,True,0.022516,0.022516,0.0
+CG Power and Industrial Solutions Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.011258,0.011258,0.0
+CG Power and Industrial Solutions Ltd,M V SEETHA SUBBIAH,individual,True,0.011258,0.011258,0.0
+CG Power and Industrial Solutions Ltd,M A M ARUNACHALAM HUF,individual,True,0.01,0.01,0.0
+CG Power and Industrial Solutions Ltd,DHRUV M ARUNACHALAM,individual,True,0.005629,0.005629,0.0
+CG Power and Industrial Solutions Ltd,M V Seetha Subbiah Benefit Trust,corporate,True,0.005629,0.005629,0.0
+CG Power and Industrial Solutions Ltd,PRANAV ALAGAPPAN,individual,True,0.005629,0.005629,0.0
+CG Power and Industrial Solutions Ltd,Valli Subbiah Benefit Trust,corporate,True,0.005629,0.005629,0.0
+CG Power and Industrial Solutions Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.005629,0.005629,0.0
+Cholamandalam Financial Holdings Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,37.69,37.69,0.0
+Cholamandalam Financial Holdings Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA NIF,corporate,False,4.78,4.78,0.0
+Cholamandalam Financial Holdings Ltd,SBI LARGE & MIDCAP FUND,corporate,False,4.12,4.12,0.0
+Cholamandalam Financial Holdings Ltd,BANDHAN MULTI CAP FUND,corporate,False,3.01,3.01,0.0
+Cholamandalam Financial Holdings Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL F,corporate,False,2.13,2.13,0.0
+Cholamandalam Financial Holdings Ltd,HDFC MUTUAL FUND - HDFC BSE 500 ETF,corporate,False,2.13,2.13,0.0
+Cholamandalam Financial Holdings Ltd,INVESCO INDIA MIDCAP FUND,corporate,False,1.18,1.18,0.0
+Cholamandalam Financial Holdings Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO EQUITY,corporate,False,1.17,1.17,0.0
+Cholamandalam Financial Holdings Ltd,PI OPPORTUNITIES AIF V LLP,corporate,False,1.01,1.01,0.0
+Cholamandalam Financial Holdings Ltd,M A M ARUNACHALAM,individual,True,0.45,0.45,0.0
+Cholamandalam Financial Holdings Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.4,0.4,0.0
+Cholamandalam Financial Holdings Ltd,V ARUNACHALAM,individual,True,0.4,0.4,0.0
+Cholamandalam Financial Holdings Ltd,ARUN ALAGAPPAN,individual,True,0.39,0.39,0.0
+Cholamandalam Financial Holdings Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,0.39,0.39,0.0
+Cholamandalam Financial Holdings Ltd,M.A.ALAGAPPAN,individual,True,0.38,0.38,0.0
+Cholamandalam Financial Holdings Ltd,V NARAYANAN,individual,True,0.37,0.37,0.0
+Cholamandalam Financial Holdings Ltd,A VENKATACHALAM,individual,True,0.31,0.31,0.0
+Cholamandalam Financial Holdings Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.29,0.29,0.0
+Cholamandalam Financial Holdings Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.29,0.29,0.0
+Cholamandalam Financial Holdings Ltd,Shambho Trust,corporate,True,0.29,0.29,0.0
+Cholamandalam Financial Holdings Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.28,0.28,0.0
+Cholamandalam Financial Holdings Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.27,0.27,0.0
+Cholamandalam Financial Holdings Ltd,Saraswathi Trust,corporate,True,0.27,0.27,0.0
+Cholamandalam Financial Holdings Ltd,M M Muthiah Family Trust,corporate,True,0.25,0.25,0.0
+Cholamandalam Financial Holdings Ltd,M M Veerappan Family Trust,corporate,True,0.25,0.25,0.0
+Cholamandalam Financial Holdings Ltd,ARUN VENKATACHALAM,individual,True,0.24,0.24,0.0
+Cholamandalam Financial Holdings Ltd,M V Muthiah Family Trust,corporate,True,0.24,0.24,0.0
+Cholamandalam Financial Holdings Ltd,M V Subramanian Family Trust,corporate,True,0.24,0.24,0.0
+Cholamandalam Financial Holdings Ltd,M M Venkatachalam Family Trust,corporate,True,0.22,0.22,0.0
+Cholamandalam Financial Holdings Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.21,0.21,0.0
+Cholamandalam Financial Holdings Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.2,0.2,0.0
+Cholamandalam Financial Holdings Ltd,M M MURUGAPPAN HUF,individual,True,0.19,0.19,0.0
+Cholamandalam Financial Holdings Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.19,0.19,0.0
+Cholamandalam Financial Holdings Ltd,VALLI ANNAMALAI,individual,True,0.19,0.19,0.0
+Cholamandalam Financial Holdings Ltd,Muthatha Ramanathan,individual,True,0.18,0.18,0.0
+Cholamandalam Financial Holdings Ltd,M M Muthiah HUF,individual,True,0.15,0.15,0.0
+Cholamandalam Financial Holdings Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,0.15,0.15,0.0
+Cholamandalam Financial Holdings Ltd,Arun Murugappan Children's Trust,corporate,True,0.12,0.12,0.0
+Cholamandalam Financial Holdings Ltd,M A Alagappan Grand Children Trust,corporate,True,0.12,0.12,0.0
+Cholamandalam Financial Holdings Ltd,M M Murugappan Family Trust,corporate,True,0.12,0.12,0.0
+Cholamandalam Financial Holdings Ltd,SIGAPI ARUNACHALAM,individual,True,0.12,0.12,0.0
+Cholamandalam Financial Holdings Ltd,M M MURUGAPPAN,individual,True,0.11,0.11,0.0
+Cholamandalam Financial Holdings Ltd,Murugappan Arunachalam Children Trust,corporate,True,0.11,0.11,0.0
+Cholamandalam Financial Holdings Ltd,M V SUBBIAH HUF,individual,True,0.09,0.09,0.0
+Cholamandalam Financial Holdings Ltd,M A M ARUNACHALAM HUF,individual,True,0.08,0.08,0.0
+Cholamandalam Financial Holdings Ltd,M A ALAGAPPAN HUF,individual,True,0.07,0.07,0.0
+Cholamandalam Financial Holdings Ltd,A M MEYYAMMAI,individual,True,0.05,0.05,0.0
+Cholamandalam Financial Holdings Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.02,0.02,0.0
+Cholamandalam Financial Holdings Ltd,DHRUV M ARUNACHALAM,individual,True,0.01,0.01,0.0
+Cholamandalam Financial Holdings Ltd,M V Seetha Subbiah Benefit Trust,corporate,True,0.01,0.01,0.0
+Cholamandalam Financial Holdings Ltd,PRANAV ALAGAPPAN,individual,True,0.01,0.01,0.0
+Cholamandalam Financial Holdings Ltd,Valli Subbiah Benefit Trust,corporate,True,0.01,0.01,0.0
+Cholamandalam Financial Holdings Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.01,0.01,0.0
+Cholamandalam Investment and Finance Company Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,20.445606,20.445606,0.0
+Cholamandalam Investment and Finance Company Ltd,NPS TRUST A/C,corporate,False,2.77,2.77,0.0
+Cholamandalam Investment and Finance Company Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA NIF,corporate,False,2.090772,2.090772,0.0
+Cholamandalam Investment and Finance Company Ltd,SBI NIFTY 500 INDEX FUND A/C,corporate,False,2.01,2.01,0.0
+Cholamandalam Investment and Finance Company Ltd,AXIS MUTUAL FUND TRUSTEE LTD. A/C,corporate,False,1.98,1.98,0.0
+Cholamandalam Investment and Finance Company Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1.802088,1.802088,0.0
+Cholamandalam Investment and Finance Company Ltd,KOTAK MAHINDRA TRUSTEE CO LTD A/C,corporate,False,1.39,1.39,0.0
+Cholamandalam Investment and Finance Company Ltd,GOVERNMENT PENSION FUND GLOBAL,corporate,False,1.38,1.38,0.0
+Cholamandalam Investment and Finance Company Ltd,BANDHAN MULTI CAP FUND,corporate,False,1.316574,1.316574,0.0
+Cholamandalam Investment and Finance Company Ltd,ICICI PRUDENTIAL MUTUAL FUND A/C,corporate,False,1.28,1.28,0.0
+Cholamandalam Investment and Finance Company Ltd,HDFC TRUSTEE COMPANY LTD A/C,corporate,False,1.22,1.22,0.0
+Cholamandalam Investment and Finance Company Ltd,INVESCO INDIA FOCUSED FUND,corporate,False,1.06,1.06,0.0
+Cholamandalam Investment and Finance Company Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL F,corporate,False,0.931662,0.931662,0.0
+Cholamandalam Investment and Finance Company Ltd,HDFC MUTUAL FUND - HDFC BSE 500 ETF,corporate,False,0.931662,0.931662,0.0
+Cholamandalam Investment and Finance Company Ltd,INVESCO INDIA MIDCAP FUND,corporate,False,0.516132,0.516132,0.0
+Cholamandalam Investment and Finance Company Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO EQUITY,corporate,False,0.511758,0.511758,0.0
+Cholamandalam Investment and Finance Company Ltd,M.A.ALAGAPPAN,individual,True,0.456212,0.456212,0.0
+Cholamandalam Investment and Finance Company Ltd,PI OPPORTUNITIES AIF V LLP,corporate,False,0.441774,0.441774,0.0
+Cholamandalam Investment and Finance Company Ltd,Shambho Trust,corporate,True,0.286846,0.286846,0.0
+Cholamandalam Investment and Finance Company Ltd,ARUN ALAGAPPAN,individual,True,0.270586,0.270586,0.0
+Cholamandalam Investment and Finance Company Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.23496,0.23496,0.0
+Cholamandalam Investment and Finance Company Ltd,V ARUNACHALAM,individual,True,0.22496,0.22496,0.0
+Cholamandalam Investment and Finance Company Ltd,M A M ARUNACHALAM,individual,True,0.21683,0.21683,0.0
+Cholamandalam Investment and Finance Company Ltd,V NARAYANAN,individual,True,0.211838,0.211838,0.0
+Cholamandalam Investment and Finance Company Ltd,Saraswathi Trust,corporate,True,0.208098,0.208098,0.0
+Cholamandalam Investment and Finance Company Ltd,A VENKATACHALAM,individual,True,0.195594,0.195594,0.0
+Cholamandalam Investment and Finance Company Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,0.170586,0.170586,0.0
+Cholamandalam Investment and Finance Company Ltd,ARUN VENKATACHALAM,individual,True,0.154976,0.154976,0.0
+Cholamandalam Investment and Finance Company Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.151854,0.151854,0.0
+Cholamandalam Investment and Finance Company Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.136846,0.136846,0.0
+Cholamandalam Investment and Finance Company Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.136846,0.136846,0.0
+Cholamandalam Investment and Finance Company Ltd,M V Muthiah Family Trust,corporate,True,0.134976,0.134976,0.0
+Cholamandalam Investment and Finance Company Ltd,M V Subramanian Family Trust,corporate,True,0.134976,0.134976,0.0
+Cholamandalam Investment and Finance Company Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.132472,0.132472,0.0
+Cholamandalam Investment and Finance Company Ltd,M M Muthiah Family Trust,corporate,True,0.11935,0.11935,0.0
+Cholamandalam Investment and Finance Company Ltd,M M Veerappan Family Trust,corporate,True,0.11935,0.11935,0.0
+Cholamandalam Investment and Finance Company Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.118098,0.118098,0.0
+Cholamandalam Investment and Finance Company Ltd,VALLI ANNAMALAI,individual,True,0.113106,0.113106,0.0
+Cholamandalam Investment and Finance Company Ltd,M M Venkatachalam Family Trust,corporate,True,0.096228,0.096228,0.0
+Cholamandalam Investment and Finance Company Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.093106,0.093106,0.0
+Cholamandalam Investment and Finance Company Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.08748,0.08748,0.0
+Cholamandalam Investment and Finance Company Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,0.08561,0.08561,0.0
+Cholamandalam Investment and Finance Company Ltd,M M MURUGAPPAN HUF,individual,True,0.083106,0.083106,0.0
+Cholamandalam Investment and Finance Company Ltd,Muthatha Ramanathan,individual,True,0.078732,0.078732,0.0
+Cholamandalam Investment and Finance Company Ltd,Arun Murugappan Children's Trust,corporate,True,0.072488,0.072488,0.0
+Cholamandalam Investment and Finance Company Ltd,M A Alagappan Grand Children Trust,corporate,True,0.072488,0.072488,0.0
+Cholamandalam Investment and Finance Company Ltd,M M Murugappan Family Trust,corporate,True,0.072488,0.072488,0.0
+Cholamandalam Investment and Finance Company Ltd,M M Muthiah HUF,individual,True,0.06561,0.06561,0.0
+Cholamandalam Investment and Finance Company Ltd,SIGAPI ARUNACHALAM,individual,True,0.062488,0.062488,0.0
+Cholamandalam Investment and Finance Company Ltd,Murugappan Arunachalam Children Trust,corporate,True,0.058114,0.058114,0.0
+Cholamandalam Investment and Finance Company Ltd,M M MURUGAPPAN,individual,True,0.048114,0.048114,0.0
+Cholamandalam Investment and Finance Company Ltd,PRANAV ALAGAPPAN,individual,True,0.044374,0.044374,0.0
+Cholamandalam Investment and Finance Company Ltd,Kadamane Estates Company,corporate,True,0.04,0.04,0.0
+Cholamandalam Investment and Finance Company Ltd,M V SUBBIAH HUF,individual,True,0.039366,0.039366,0.0
+Cholamandalam Investment and Finance Company Ltd,M A M ARUNACHALAM HUF,individual,True,0.034992,0.034992,0.0
+Cholamandalam Investment and Finance Company Ltd,M V Seetha Subbiah Benefit Trust,corporate,True,0.034374,0.034374,0.0
+Cholamandalam Investment and Finance Company Ltd,M A ALAGAPPAN HUF,individual,True,0.030618,0.030618,0.0
+Cholamandalam Investment and Finance Company Ltd,Ambadi Enterprises Ltd,corporate,True,0.03,0.03,0.0
+Cholamandalam Investment and Finance Company Ltd,Valli Subbiah Benefit Trust,corporate,True,0.024374,0.024374,0.0
+Cholamandalam Investment and Finance Company Ltd,A M MEYYAMMAI,individual,True,0.02187,0.02187,0.0
+Cholamandalam Investment and Finance Company Ltd,K S Shambhavi Trust,corporate,True,0.02,0.02,0.0
+Cholamandalam Investment and Finance Company Ltd,LALITHA VELLAYAN,individual,True,0.02,0.02,0.0
+Cholamandalam Investment and Finance Company Ltd,V S Bhairavi Trust,corporate,True,0.02,0.02,0.0
+Cholamandalam Investment and Finance Company Ltd,DHRUV M ARUNACHALAM,individual,True,0.014374,0.014374,0.0
+Cholamandalam Investment and Finance Company Ltd,A.KEERTIKA UNNAMALAI,individual,True,0.01,0.01,0.0
+Cholamandalam Investment and Finance Company Ltd,KANIKA SUBBIAH,individual,True,0.01,0.01,0.0
+Cholamandalam Investment and Finance Company Ltd,R.MUTHATHA,individual,True,0.01,0.01,0.0
+Cholamandalam Investment and Finance Company Ltd,VEDHIKA MEYYAMMAI ARUNACHALAM,individual,True,0.01,0.01,0.0
+Cholamandalam Investment and Finance Company Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.008748,0.008748,0.0
+Cholamandalam Investment and Finance Company Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.004374,0.004374,0.0
+Coromandel International Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,21.253792,21.253792,0.0
+Coromandel International Ltd,KOTAK MAHINDRA TRUSTEE CO LTD A/C KOTAK NIFTY CHEM,corporate,False,4.02,4.02,0.0
+Coromandel International Ltd,SBI NIFTY 500 INDEX FUND A/C,corporate,False,3.951738,3.951738,0.0
+Coromandel International Ltd,PARAG PARIKH FLEXI CAP FUND,corporate,False,3.273662,3.273662,0.0
+Coromandel International Ltd,DSP NIFTY 500 INDEX FUND,corporate,False,2.53,2.53,0.0
+Coromandel International Ltd,HDFC LARGE AND MID CAP FUND,corporate,False,1.87,1.87,0.0
+Coromandel International Ltd,GROUPE CHIMIQUE TUNISIEN,corporate,False,1.63,1.63,0.0
+Coromandel International Ltd,AXIS ELSS TAX SAVER FUND,corporate,False,1.6,1.6,0.0
+Coromandel International Ltd,INVESTOR EDUCATION & PROTECTION FUND,corporate,False,1.43,1.43,0.0
+Coromandel International Ltd,GOVINDLAL M PARIKH,individual,False,1.406174,1.406174,0.0
+Coromandel International Ltd,NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT,corporate,False,1.33,1.33,0.0
+Coromandel International Ltd,LICI MARKET PLUS 1 GROWTH FUND,corporate,False,1.31,1.31,0.0
+Coromandel International Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,1.228318,1.228318,0.0
+Coromandel International Ltd,CANARA ROBECO MUTUAL FUND A/C GAD,corporate,False,0.63917,0.63917,0.0
+Coromandel International Ltd,V NARAYANAN,individual,True,0.214508,0.214508,0.0
+Coromandel International Ltd,V ARUNACHALAM,individual,True,0.20895,0.20895,0.0
+Coromandel International Ltd,A VENKATACHALAM,individual,True,0.167834,0.167834,0.0
+Coromandel International Ltd,ARUN ALAGAPPAN,individual,True,0.167834,0.167834,0.0
+Coromandel International Ltd,ARUN VENKATACHALAM,individual,True,0.16116,0.16116,0.0
+Coromandel International Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.140044,0.140044,0.0
+Coromandel International Ltd,M M Muthiah Family Trust,corporate,True,0.131138,0.131138,0.0
+Coromandel International Ltd,M M Veerappan Family Trust,corporate,True,0.131138,0.131138,0.0
+Coromandel International Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.091138,0.091138,0.0
+Coromandel International Ltd,Saraswathi Trust,corporate,True,0.090022,0.090022,0.0
+Coromandel International Ltd,M.A.ALAGAPPAN,individual,True,0.076696,0.076696,0.0
+Coromandel International Ltd,Shambho Trust,corporate,True,0.076696,0.076696,0.0
+Coromandel International Ltd,SIGAPI ARUNACHALAM,individual,True,0.07558,0.07558,0.0
+Coromandel International Ltd,M A M ARUNACHALAM,individual,True,0.06779,0.06779,0.0
+Coromandel International Ltd,M V Muthiah Family Trust,corporate,True,0.064464,0.064464,0.0
+Coromandel International Ltd,M V Subramanian Family Trust,corporate,True,0.064464,0.064464,0.0
+Coromandel International Ltd,VALLI ANNAMALAI,individual,True,0.064464,0.064464,0.0
+Coromandel International Ltd,M M Venkatachalam Family Trust,corporate,True,0.048906,0.048906,0.0
+Coromandel International Ltd,LALITHA VELLAYAN,individual,True,0.045558,0.045558,0.0
+Coromandel International Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.044464,0.044464,0.0
+Coromandel International Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.038906,0.038906,0.0
+Coromandel International Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.038906,0.038906,0.0
+Coromandel International Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.03779,0.03779,0.0
+Coromandel International Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.033348,0.033348,0.0
+Coromandel International Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.032232,0.032232,0.0
+Coromandel International Ltd,Arun Murugappan Children's Trust,corporate,True,0.021116,0.021116,0.0
+Coromandel International Ltd,M A Alagappan Grand Children Trust,corporate,True,0.021116,0.021116,0.0
+Coromandel International Ltd,M M MURUGAPPAN,individual,True,0.011116,0.011116,0.0
+Coromandel International Ltd,R.MUTHATHA,individual,True,0.011116,0.011116,0.0
+Coromandel International Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.005558,0.005558,0.0
+Coromandel International Ltd,A M MEYYAMMAI,individual,True,0.005558,0.005558,0.0
+Coromandel International Ltd,DHRUV M ARUNACHALAM,individual,True,0.005558,0.005558,0.0
+Coromandel International Ltd,Kadamane Estates Company,corporate,True,0.005558,0.005558,0.0
+Coromandel International Ltd,M M Murugappan Family Trust,corporate,True,0.005558,0.005558,0.0
+Coromandel International Ltd,M M MURUGAPPAN HUF,individual,True,0.005558,0.005558,0.0
+Coromandel International Ltd,PRANAV ALAGAPPAN,individual,True,0.005558,0.005558,0.0
+Coromandel International Ltd,SOLACHI RAMANATHAN,individual,True,0.005558,0.005558,0.0
+Coromandel International Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.005558,0.005558,0.0
+EID Parry India Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,38.24,38.24,0.0
+EID Parry India Ltd,SBI NIFTY 500 INDEX FUND A/C,corporate,False,7.11,7.11,0.0
+EID Parry India Ltd,PARAG PARIKH FLEXI CAP FUND,corporate,False,5.89,5.89,0.0
+EID Parry India Ltd,GOVINDLAL M PARIKH,individual,False,2.53,2.53,0.0
+EID Parry India Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,2.21,2.21,0.0
+EID Parry India Ltd,CANARA ROBECO MUTUAL FUND A/C GAD,corporate,False,1.15,1.15,0.0
+EID Parry India Ltd,V NARAYANAN,individual,True,0.26,0.26,0.0
+EID Parry India Ltd,V ARUNACHALAM,individual,True,0.25,0.25,0.0
+EID Parry India Ltd,A VENKATACHALAM,individual,True,0.23,0.23,0.0
+EID Parry India Ltd,ARUN ALAGAPPAN,individual,True,0.23,0.23,0.0
+EID Parry India Ltd,ARUN VENKATACHALAM,individual,True,0.2,0.2,0.0
+EID Parry India Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.18,0.18,0.0
+EID Parry India Ltd,M.A.ALAGAPPAN,individual,True,0.12,0.12,0.0
+EID Parry India Ltd,Shambho Trust,corporate,True,0.12,0.12,0.0
+EID Parry India Ltd,M M Muthiah Family Trust,corporate,True,0.11,0.11,0.0
+EID Parry India Ltd,M M Veerappan Family Trust,corporate,True,0.11,0.11,0.0
+EID Parry India Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.11,0.11,0.0
+EID Parry India Ltd,SIGAPI ARUNACHALAM,individual,True,0.1,0.1,0.0
+EID Parry India Ltd,Saraswathi Trust,corporate,True,0.09,0.09,0.0
+EID Parry India Ltd,M V Muthiah Family Trust,corporate,True,0.08,0.08,0.0
+EID Parry India Ltd,M V Subramanian Family Trust,corporate,True,0.08,0.08,0.0
+EID Parry India Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.08,0.08,0.0
+EID Parry India Ltd,VALLI ANNAMALAI,individual,True,0.08,0.08,0.0
+EID Parry India Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.07,0.07,0.0
+EID Parry India Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.07,0.07,0.0
+EID Parry India Ltd,M M Venkatachalam Family Trust,corporate,True,0.07,0.07,0.0
+EID Parry India Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.06,0.06,0.0
+EID Parry India Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.05,0.05,0.0
+EID Parry India Ltd,M A M ARUNACHALAM,individual,True,0.05,0.05,0.0
+EID Parry India Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.04,0.04,0.0
+EID Parry India Ltd,Arun Murugappan Children's Trust,corporate,True,0.02,0.02,0.0
+EID Parry India Ltd,M A Alagappan Grand Children Trust,corporate,True,0.02,0.02,0.0
+EID Parry India Ltd,M M MURUGAPPAN,individual,True,0.02,0.02,0.0
+EID Parry India Ltd,R.MUTHATHA,individual,True,0.02,0.02,0.0
+EID Parry India Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.01,0.01,0.0
+EID Parry India Ltd,A M MEYYAMMAI,individual,True,0.01,0.01,0.0
+EID Parry India Ltd,DHRUV M ARUNACHALAM,individual,True,0.01,0.01,0.0
+EID Parry India Ltd,Kadamane Estates Company,corporate,True,0.01,0.01,0.0
+EID Parry India Ltd,LALITHA VELLAYAN,individual,True,0.01,0.01,0.0
+EID Parry India Ltd,M M Murugappan Family Trust,corporate,True,0.01,0.01,0.0
+EID Parry India Ltd,M M MURUGAPPAN HUF,individual,True,0.01,0.01,0.0
+EID Parry India Ltd,PRANAV ALAGAPPAN,individual,True,0.01,0.01,0.0
+EID Parry India Ltd,SOLACHI RAMANATHAN,individual,True,0.01,0.01,0.0
+EID Parry India Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.01,0.01,0.0
+Grasim Industries Ltd,Birla Group Holdings Private Limited,corporate,True,25.235621,25.235621,0.0
+Grasim Industries Ltd,IGH Holdings Private Limited,corporate,True,7.308382,7.308382,0.0
+Grasim Industries Ltd,Life Insurance Corporation Of India,corporate,False,6.786911,6.786911,0.0
+Grasim Industries Ltd,P.T. Indo Bharat Rayon,corporate,True,2.958447,2.958447,0.0
+Grasim Industries Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,2.53,2.53,0.0
+Grasim Industries Ltd,Sbi Nifty 50 Etf,corporate,False,1.698241,1.698241,0.0
+Grasim Industries Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,1.46,1.46,0.0
+Grasim Industries Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,1.44,1.44,0.0
+Grasim Industries Ltd,Shamyak Investment Private Limited,corporate,False,1.43,1.43,0.0
+Grasim Industries Ltd,Theleme Master Fund Limited,corporate,False,1.17,1.17,0.0
+Grasim Industries Ltd,ICICI Prudential Nifty ETF,corporate,False,1.01,1.01,0.0
+Grasim Industries Ltd,Padmavati Investment Private Limited,corporate,True,0.866372,0.866372,0.0
+Grasim Industries Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.791388,0.791388,0.0
+Grasim Industries Ltd,Thai Rayon Public Company Limited,corporate,True,0.7,0.7,0.0
+Grasim Industries Ltd,Anatole Investments Pte Ltd,corporate,True,0.66,0.66,0.0
+Grasim Industries Ltd,Kumar Mangalam Birla,individual,True,0.262574,0.262574,0.0
+Grasim Industries Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.259279,0.259279,0.0
+Grasim Industries Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.203268,0.203268,0.0
+Grasim Industries Ltd,P T Sunrise Bumi Textiles,corporate,True,0.195577,0.195577,0.0
+Grasim Industries Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,0.179322,0.179322,0.0
+Grasim Industries Ltd,Birla Institute of Technology and Science,corporate,True,0.141184,0.141184,0.0
+Grasim Industries Ltd,P T Elegant Textile Industry,corporate,True,0.123432,0.123432,0.0
+Grasim Industries Ltd,Governement of Singapore,corporate,False,0.113685,0.113685,0.0
+Grasim Industries Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.108108,0.108108,0.0
+Grasim Industries Ltd,Rajashree Birla,individual,True,0.081287,0.081287,0.0
+Grasim Industries Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,0.057915,0.057915,0.0
+Grasim Industries Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,0.047619,0.047619,0.0
+Grasim Industries Ltd,Renuka Ventures Limited,corporate,True,0.04,0.04,0.0
+Grasim Industries Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.031317,0.031317,0.0
+Grasim Industries Ltd,Vasavadatta Bajaj,individual,True,0.020429,0.020429,0.0
+Grasim Industries Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.011287,0.011287,0.0
+Grasim Industries Ltd,Neerja Birla,individual,True,0.010429,0.010429,0.0
+Grasim Industries Ltd,Advaitesha Birla,individual,True,0.01,0.01,0.0
+Grasim Industries Ltd,Ananyashree Birla,individual,True,0.01,0.01,0.0
+Grasim Industries Ltd,Aryaman Vikram Birla,individual,True,0.01,0.01,0.0
+Grasim Industries Ltd,Birla Consultants Limited,corporate,True,0.01,0.01,0.0
+Grasim Industries Ltd,Birla Industrial Finance India Limited,corporate,True,0.01,0.01,0.0
+Grasim Industries Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.009486,0.009486,0.0
+Grasim Industries Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.004065,0.004065,0.0
+Hindalco Industries Ltd,IGH Holdings Private Limited,corporate,True,15.840288,15.840288,0.0
+Hindalco Industries Ltd,Birla Group Holdings Private Limited,corporate,True,12.810833,12.810833,0.0
+Hindalco Industries Ltd,Life Insurance Corporation Of India,corporate,False,4.848328,4.848328,0.0
+Hindalco Industries Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,4.18,4.18,0.0
+Hindalco Industries Ltd,Governement of Singapore,corporate,False,2.65,2.65,0.0
+Hindalco Industries Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,2.52,2.52,0.0
+Hindalco Industries Ltd,Sbi Nifty 50 Etf,corporate,False,2.35272,2.35272,0.0
+Hindalco Industries Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,1.35,1.35,0.0
+Hindalco Industries Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,1.11,1.11,0.0
+Hindalco Industries Ltd,Birla Institute of Technology and Science,corporate,True,0.96392,0.96392,0.0
+Hindalco Industries Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.73,0.73,0.0
+Hindalco Industries Ltd,P.T. Indo Bharat Rayon,corporate,True,0.545248,0.545248,0.0
+Hindalco Industries Ltd,Padmavati Investment Private Limited,corporate,True,0.288627,0.288627,0.0
+Hindalco Industries Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.263647,0.263647,0.0
+Hindalco Industries Ltd,P T Sunrise Bumi Textiles,corporate,True,0.137448,0.137448,0.0
+Hindalco Industries Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,0.099176,0.099176,0.0
+Hindalco Industries Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.086377,0.086377,0.0
+Hindalco Industries Ltd,P T Elegant Textile Industry,corporate,True,0.084704,0.084704,0.0
+Hindalco Industries Ltd,Kumar Mangalam Birla,individual,True,0.070192,0.070192,0.0
+Hindalco Industries Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.067717,0.067717,0.0
+Hindalco Industries Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,0.057232,0.057232,0.0
+Hindalco Industries Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.056448,0.056448,0.0
+Hindalco Industries Ltd,Shamyak Investment Private Limited,corporate,False,0.056056,0.056056,0.0
+Hindalco Industries Ltd,Theleme Master Fund Limited,corporate,False,0.045864,0.045864,0.0
+Hindalco Industries Ltd,ICICI Prudential Nifty ETF,corporate,False,0.039592,0.039592,0.0
+Hindalco Industries Ltd,Rajashree Birla,individual,True,0.033136,0.033136,0.0
+Hindalco Industries Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.030392,0.030392,0.0
+Hindalco Industries Ltd,Thai Rayon Public Company Limited,corporate,True,0.02744,0.02744,0.0
+Hindalco Industries Ltd,Anatole Investments Pte Ltd,corporate,True,0.025872,0.025872,0.0
+Hindalco Industries Ltd,Vasavadatta Bajaj,individual,True,0.010784,0.010784,0.0
+Hindalco Industries Ltd,Neerja Birla,individual,True,0.010392,0.010392,0.0
+Hindalco Industries Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.00316,0.00316,0.0
+Hindalco Industries Ltd,Renuka Ventures Limited,corporate,True,0.001568,0.001568,0.0
+Hindalco Industries Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.001354,0.001354,0.0
+Hindalco Industries Ltd,Advaitesha Birla,individual,True,0.000392,0.000392,0.0
+Hindalco Industries Ltd,Ananyashree Birla,individual,True,0.000392,0.000392,0.0
+Hindalco Industries Ltd,Aryaman Vikram Birla,individual,True,0.000392,0.000392,0.0
+Hindalco Industries Ltd,Birla Consultants Limited,corporate,True,0.000392,0.000392,0.0
+Hindalco Industries Ltd,Birla Industrial Finance India Limited,corporate,True,0.000392,0.000392,0.0
+Indian Hotels Company Ltd,Tata Sons Private Limited,corporate,True,36.839598,36.838794,0.000805
+Indian Hotels Company Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,4.740039,4.740039,0.0
+Indian Hotels Company Ltd,Life Insurance Corporation Of India,corporate,False,2.641797,2.641795,1e-06
+Indian Hotels Company Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,2.53,2.53,0.0
+Indian Hotels Company Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,2.36,2.36,0.0
+Indian Hotels Company Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND A/C AXIS MIDCAP FUND,corporate,False,2.2,2.2,0.0
+Indian Hotels Company Ltd,HDFC MUTUAL FUND - HDFC MID-CAP FUND,corporate,False,1.51,1.51,0.0
+Indian Hotels Company Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,1.50002,1.50002,0.0
+Indian Hotels Company Ltd,Rekha Jhunjhunwala,individual,False,1.0,1.0,0.0
+Indian Hotels Company Ltd,Ewart Investments Limited,corporate,True,0.17089,0.170875,1.5e-05
+Indian Hotels Company Ltd,TAJ MADURAI LIMITED,corporate,True,0.080024,0.080024,0.0
+Indian Hotels Company Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.077824,0.077783,4.1e-05
+Indian Hotels Company Ltd,Tata Industries Limited,corporate,True,0.05029,0.05029,0.0
+Indian Hotels Company Ltd,Icici Prudential Value Fund,corporate,False,0.034086,0.034068,1.8e-05
+Indian Hotels Company Ltd,Kotak Flexicap Fund,corporate,False,0.022825,0.022813,1.2e-05
+Indian Hotels Company Ltd,"Acacia Partners, Lp",corporate,False,0.011455,0.011449,6e-06
+Indian Hotels Company Ltd,TAIDA TRADING AND INDUSTRIES LIMITED,corporate,True,0.01,0.01,0.0
+Indian Hotels Company Ltd,PRAMOD RANJAN,individual,True,0.0048,0.0048,0.0
+Indian Hotels Company Ltd,IHOCO B.V,corporate,True,0.00315,0.00315,0.0
+Indian Hotels Company Ltd,D. VARADA REDDY,individual,True,0.00222,0.00222,0.0
+Indian Hotels Company Ltd,RAMESH DOULATRAM HARIANI,individual,True,0.001284,0.001284,0.0
+Indian Hotels Company Ltd,Piem Hotels Limited,corporate,True,0.00123,0.00123,0.0
+Indian Hotels Company Ltd,DODLA AMIT REDDY,individual,True,0.001008,0.001008,0.0
+Indian Hotels Company Ltd,GIRIJA GOLLAMUDI REDDY,individual,True,0.0009,0.0009,0.0
+Indian Hotels Company Ltd,D. VIJAYAGOPAL REDDY,individual,True,0.00087,0.00087,0.0
+Indian Hotels Company Ltd,CHILAMILIKA LALINI HARIANI,individual,True,0.000852,0.000852,0.0
+Indian Hotels Company Ltd,ROHIT REDDY D,individual,True,0.000744,0.000744,0.0
+Indian Hotels Company Ltd,Quant Mutual Fund - Quant Small Cap Fund,corporate,False,0.000684,0.000684,0.0
+Indian Hotels Company Ltd,DODLA PREMALEELA REDDY,individual,True,0.000678,0.000678,0.0
+Indian Hotels Company Ltd,TAJ TRADE AND TRANSPORT COMPANY LIMITED,corporate,True,0.000558,0.000558,0.0
+Indian Hotels Company Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000449,0.000448,0.0
+Indian Hotels Company Ltd,D NAVEEN REDDY,individual,True,0.000444,0.000444,0.0
+Indian Hotels Company Ltd,DODLA PRAKASH REDDY,individual,True,0.000438,0.000438,0.0
+Indian Hotels Company Ltd,D. ARUNA REDDY,individual,True,0.000432,0.000432,0.0
+Indian Hotels Company Ltd,GOLLAMUDI VENKA REDDY,individual,True,0.00042,0.00042,0.0
+Indian Hotels Company Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000393,0.000393,0.0
+Indian Hotels Company Ltd,P. SHOBA REDDY,individual,True,0.000366,0.000366,0.0
+Indian Hotels Company Ltd,JAKKA SUREKHA REDDY,individual,True,0.000348,0.000348,0.0
+Indian Hotels Company Ltd,Sbi Nifty 50 Etf,corporate,False,0.000326,0.000326,0.0
+Indian Hotels Company Ltd,DODLA POORNIMA REDDY,individual,True,0.0003,0.0003,0.0
+Indian Hotels Company Ltd,NPS TRUST A/C,corporate,False,0.000298,0.000298,0.0
+Indian Hotels Company Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000226,0.000226,0.0
+Indian Hotels Company Ltd,M KALA REDDY,individual,True,0.00021,0.00021,0.0
+Indian Hotels Company Ltd,C HEMALATHA REDDY,individual,True,0.000168,0.000168,0.0
+Indian Hotels Company Ltd,PIEM INTERNATIONAL (H.K.) LIMITED,corporate,True,0.000162,0.000162,0.0
+Indian Hotels Company Ltd,D NITYA REDDY,individual,True,0.000156,0.000156,0.0
+Indian Hotels Company Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.00013,0.00013,0.0
+Indian Hotels Company Ltd,PRAVIN RANJAN,individual,True,0.000126,0.000126,0.0
+Indian Hotels Company Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.000116,0.000116,0.0
+Indian Hotels Company Ltd,D RAHUL REDDY,individual,True,0.000108,0.000108,0.0
+Indian Hotels Company Ltd,LATE SUDHAKAR REDDY,individual,True,0.000108,0.000108,0.0
+Indian Hotels Company Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.000105,0.000105,0.0
+Indian Hotels Company Ltd,C LEENAJA REDDY,individual,True,0.000102,0.000102,0.0
+Indian Hotels Company Ltd,Uti Nifty 50 Etf,corporate,False,0.0001,0.0001,0.0
+Indian Hotels Company Ltd,DODLA VENKATARAMANI,individual,True,9e-05,9e-05,0.0
+Indian Hotels Company Ltd,DODLA SHILPA,individual,True,8.4e-05,8.4e-05,0.0
+Indian Hotels Company Ltd,SBI Life Insurance Co. Ltd,corporate,False,8.3e-05,8.3e-05,0.0
+Indian Hotels Company Ltd,PEDDINENIKALVA VIDYAREDDY,individual,True,6.6e-05,6.6e-05,0.0
+Indian Hotels Company Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,6.1e-05,6.1e-05,0.0
+Indian Hotels Company Ltd,NEETHA REDDY,individual,True,6e-05,6e-05,0.0
+Indian Hotels Company Ltd,D. SUDHA REDDY,individual,True,5.4e-05,5.4e-05,0.0
+Indian Hotels Company Ltd,M V SURESHREDDY,individual,True,5.4e-05,5.4e-05,0.0
+Indian Hotels Company Ltd,Nippon Life India Trustee Ltd,corporate,False,3.9e-05,3.9e-05,0.0
+Indian Hotels Company Ltd,LATE D SUNDER NISCHAL,individual,True,3.6e-05,3.6e-05,0.0
+Indian Hotels Company Ltd,Siddhartha Yog,individual,False,3.6e-05,3.6e-05,0.0
+Indian Hotels Company Ltd,DWARAKNATH REDDY HUF,individual,True,3e-05,3e-05,0.0
+Indian Hotels Company Ltd,D K PAVAN,individual,True,2.4e-05,2.4e-05,0.0
+Indian Hotels Company Ltd,D V SHARAN,individual,True,2.4e-05,2.4e-05,0.0
+Indian Hotels Company Ltd,KIRAN REDDY JAKKA,individual,True,1.8e-05,1.8e-05,0.0
+Indian Hotels Company Ltd,Kotak Midcap Fund,corporate,False,1.5e-05,1.5e-05,0.0
+Indian Hotels Company Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,1.3e-05,1.3e-05,0.0
+Indian Hotels Company Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,1.1e-05,1.1e-05,0.0
+Indian Hotels Company Ltd,SBI LARGE & MIDCAP FUND,corporate,False,9e-06,9e-06,0.0
+Indian Hotels Company Ltd,DSP Midcap Fund,corporate,False,9e-06,9e-06,0.0
+Indian Hotels Company Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,7e-06,7e-06,0.0
+Indian Hotels Company Ltd,Vanguard Total International Stock Index Fund,corporate,False,7e-06,7e-06,0.0
+Indian Hotels Company Ltd,D KARTHIK REDDY,individual,True,6e-06,6e-06,0.0
+Indian Hotels Company Ltd,DODLA ABISHEK,individual,True,6e-06,6e-06,0.0
+Indian Hotels Company Ltd,DODLA PRASANNA REDDY,individual,True,6e-06,6e-06,0.0
+Indian Hotels Company Ltd,G V K RANJAN,individual,True,6e-06,6e-06,0.0
+Indian Hotels Company Ltd,J CHAITANYA REDDY,individual,True,6e-06,6e-06,0.0
+Indian Hotels Company Ltd,Rujuvalika Investments Limited,corporate,True,6e-06,6e-06,0.0
+Indian Hotels Company Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Indian Hotels Company Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Indian Hotels Company Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Indian Hotels Company Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Indian Hotels Company Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Jay Shree Tea & Industries Ltd,JAYASHREE FINVEST PRIVATE LIMITED,corporate,True,23.09,23.09,0.0
+Jay Shree Tea & Industries Ltd,JPM MERCHANDISE AGENCIES LIMITED,corporate,True,21.17,21.17,0.0
+Jay Shree Tea & Industries Ltd,ARES DIVERSIFIED,corporate,False,4.85,4.85,0.0
+Jay Shree Tea & Industries Ltd,MRS.JAYASHREE MOHTA,individual,True,3.83,3.83,0.0
+Jay Shree Tea & Industries Ltd,LOK PRAKASHAN,corporate,False,2.96,2.96,0.0
+Jay Shree Tea & Industries Ltd,MR.VIKAS NAVNIT GANDHI,individual,False,1.3,1.3,0.0
+Jay Shree Tea & Industries Ltd,BIRLA EDUCATION TRUST,corporate,True,1.09,1.09,0.0
+Jay Shree Tea & Industries Ltd,INVESTOR EDUCATION & PROTECTION FUND,corporate,False,1.07,1.07,0.0
+Jay Shree Tea & Industries Ltd,Birla Group Holdings Private Limited,corporate,True,0.434015,0.434015,0.0
+Jay Shree Tea & Industries Ltd,BHARAT AROGYA AND GYAN MANDIR,corporate,True,0.13,0.13,0.0
+Jay Shree Tea & Industries Ltd,IGH Holdings Private Limited,corporate,True,0.103792,0.103792,0.0
+Jay Shree Tea & Industries Ltd,Padmavati Investment Private Limited,corporate,True,0.068426,0.068426,0.0
+Jay Shree Tea & Industries Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.062409,0.062409,0.0
+Jay Shree Tea & Industries Ltd,Vasavadatta Bajaj,individual,True,0.05,0.05,0.0
+Jay Shree Tea & Industries Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,0.030472,0.030472,0.0
+Jay Shree Tea & Industries Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.027174,0.027174,0.0
+Jay Shree Tea & Industries Ltd,INVESCO INDIA FOCUSED FUND,corporate,False,0.026728,0.026728,0.0
+Jay Shree Tea & Industries Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Elss Tax Saver Fund,corporate,False,0.021944,0.021944,0.0
+Jay Shree Tea & Industries Ltd,Bandhan Small Cap Fund,corporate,False,0.020488,0.020488,0.0
+Jay Shree Tea & Industries Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.020447,0.020447,0.0
+Jay Shree Tea & Industries Ltd,Kumar Mangalam Birla,individual,True,0.02,0.02,0.0
+Jay Shree Tea & Industries Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.016952,0.016952,0.0
+Jay Shree Tea & Industries Ltd,Birla Corporation Limited,corporate,False,0.016848,0.016848,0.0
+Jay Shree Tea & Industries Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,0.015808,0.015808,0.0
+Jay Shree Tea & Industries Ltd,Goldman Sachs Funds - Goldman Sachs India Equity Portfolio,corporate,False,0.01456,0.01456,0.0
+Jay Shree Tea & Industries Ltd,Hsbc Mutual Fund - Hsbc Value Fund,corporate,False,0.0104,0.0104,0.0
+Jay Shree Tea & Industries Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.001164,0.001164,0.0
+Jay Shree Tea & Industries Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.000321,0.000321,0.0
+Kartik Investments Trust Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,42.480272,42.480272,0.0
+Kartik Investments Trust Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,5.262615,5.262615,0.0
+Kartik Investments Trust Ltd,IGFT PRIVATE LIMITED,corporate,False,4.14,4.14,0.0
+Kartik Investments Trust Ltd,ANVIL FINTRADE PVT LTD,corporate,False,2.54,2.54,0.0
+Kartik Investments Trust Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,2.54,2.54,0.0
+Kartik Investments Trust Ltd,PRESCIENT WEALTH MANAGEMENT PRIVATE LIMITED,corporate,False,2.54,2.54,0.0
+Kartik Investments Trust Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,2.108369,2.108369,0.0
+Kartik Investments Trust Ltd,AR LAKSHMI ACHI TRUST,corporate,True,1.681864,1.681864,0.0
+Kartik Investments Trust Ltd,A M M VELLAYAN SONS P LTD,corporate,True,1.523737,1.523737,0.0
+Kartik Investments Trust Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA NIF,corporate,False,1.174418,1.174418,0.0
+Kartik Investments Trust Ltd,SBI MIDCAP FUND,corporate,False,0.959238,0.959238,0.0
+Kartik Investments Trust Ltd,SBI NIFTY 500 INDEX FUND A/C,corporate,False,0.687537,0.687537,0.0
+Kartik Investments Trust Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.57062,0.57062,0.0
+Kartik Investments Trust Ltd,PARAG PARIKH FLEXI CAP FUND,corporate,False,0.569563,0.569563,0.0
+Kartik Investments Trust Ltd,BANDHAN MULTI CAP FUND,corporate,False,0.416885,0.416885,0.0
+Kartik Investments Trust Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL F,corporate,False,0.295005,0.295005,0.0
+Kartik Investments Trust Ltd,HDFC MUTUAL FUND - HDFC BSE 500 ETF,corporate,False,0.295005,0.295005,0.0
+Kartik Investments Trust Ltd,GOVINDLAL M PARIKH,individual,False,0.244651,0.244651,0.0
+Kartik Investments Trust Ltd,KOTAK SMALL CAP FUND,corporate,False,0.231369,0.231369,0.0
+Kartik Investments Trust Ltd,CHOLA BUSINESS SERVICES LIMITED,corporate,True,0.23,0.23,0.0
+Kartik Investments Trust Ltd,ICICI PRUDENTIAL MUTUAL FUND - ICICI PRUDENTIAL,corporate,False,0.219453,0.219453,0.0
+Kartik Investments Trust Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,0.213707,0.213707,0.0
+Kartik Investments Trust Ltd,KOTAK FUNDS - INDIA MIDCAP FUND,corporate,False,0.203565,0.203565,0.0
+Kartik Investments Trust Ltd,HDFC LARGE AND MID CAP FUND,corporate,False,0.16881,0.16881,0.0
+Kartik Investments Trust Ltd,INVESCO INDIA MIDCAP FUND,corporate,False,0.16343,0.16343,0.0
+Kartik Investments Trust Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO EQUITY,corporate,False,0.162045,0.162045,0.0
+Kartik Investments Trust Ltd,TATA ETHICAL FUND,corporate,False,0.150936,0.150936,0.0
+Kartik Investments Trust Ltd,INVESCO INDIA BALANCED ADVANTAGE FUND,corporate,False,0.149943,0.149943,0.0
+Kartik Investments Trust Ltd,M.A.ALAGAPPAN,individual,True,0.144947,0.144947,0.0
+Kartik Investments Trust Ltd,PI OPPORTUNITIES AIF V LLP,corporate,False,0.139885,0.139885,0.0
+Kartik Investments Trust Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND,corporate,False,0.135048,0.135048,0.0
+Kartik Investments Trust Ltd,A VENKATACHALAM,individual,True,0.12291,0.12291,0.0
+Kartik Investments Trust Ltd,M A M ARUNACHALAM,individual,True,0.119789,0.119789,0.0
+Kartik Investments Trust Ltd,CANARA ROBECO MUTUAL FUND A/C GAD,corporate,False,0.111205,0.111205,0.0
+Kartik Investments Trust Ltd,V ARUNACHALAM,individual,True,0.110428,0.110428,0.0
+Kartik Investments Trust Ltd,V NARAYANAN,individual,True,0.108233,0.108233,0.0
+Kartik Investments Trust Ltd,ARUN ALAGAPPAN,individual,True,0.101081,0.101081,0.0
+Kartik Investments Trust Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.092666,0.092666,0.0
+Kartik Investments Trust Ltd,Murugappa & Sons,corporate,True,0.08,0.08,0.0
+Kartik Investments Trust Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.075505,0.075505,0.0
+Kartik Investments Trust Ltd,SOUTHERN ENERGY DEVELOPMENT CORPORATION LTD,corporate,True,0.075468,0.075468,0.0
+Kartik Investments Trust Ltd,M M MURUGAPPAN,individual,True,0.075043,0.075043,0.0
+Kartik Investments Trust Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.074878,0.074878,0.0
+Kartik Investments Trust Ltd,Shambho Trust,corporate,True,0.066664,0.066664,0.0
+Kartik Investments Trust Ltd,Saraswathi Trust,corporate,True,0.065958,0.065958,0.0
+Kartik Investments Trust Ltd,M M Muthiah Family Trust,corporate,True,0.063136,0.063136,0.0
+Kartik Investments Trust Ltd,M M Veerappan Family Trust,corporate,True,0.063136,0.063136,0.0
+Kartik Investments Trust Ltd,ARUN VENKATACHALAM,individual,True,0.06251,0.06251,0.0
+Kartik Investments Trust Ltd,R.MUTHATHA,individual,True,0.055556,0.055556,0.0
+Kartik Investments Trust Ltd,M V Muthiah Family Trust,corporate,True,0.054878,0.054878,0.0
+Kartik Investments Trust Ltd,M V Subramanian Family Trust,corporate,True,0.054878,0.054878,0.0
+Kartik Investments Trust Ltd,M M Venkatachalam Family Trust,corporate,True,0.049155,0.049155,0.0
+Kartik Investments Trust Ltd,VALLI ANNAMALAI,individual,True,0.047953,0.047953,0.0
+Kartik Investments Trust Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.045131,0.045131,0.0
+Kartik Investments Trust Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.044399,0.044399,0.0
+Kartik Investments Trust Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.044033,0.044033,0.0
+Kartik Investments Trust Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.041917,0.041917,0.0
+Kartik Investments Trust Ltd,M V SUBBIAH,individual,True,0.04,0.04,0.0
+Kartik Investments Trust Ltd,M M Muthiah HUF,individual,True,0.038649,0.038649,0.0
+Kartik Investments Trust Ltd,Arun Murugappan Children's Trust,corporate,True,0.036428,0.036428,0.0
+Kartik Investments Trust Ltd,M A Alagappan Grand Children Trust,corporate,True,0.036428,0.036428,0.0
+Kartik Investments Trust Ltd,M M MURUGAPPAN HUF,individual,True,0.028275,0.028275,0.0
+Kartik Investments Trust Ltd,SIGAPI ARUNACHALAM,individual,True,0.02629,0.02629,0.0
+Kartik Investments Trust Ltd,Muthatha Ramanathan,individual,True,0.02493,0.02493,0.0
+Kartik Investments Trust Ltd,MEENAKSHI MURUGAPPAN,individual,True,0.024825,0.024825,0.0
+Kartik Investments Trust Ltd,M A ALAGAPPAN HUF,individual,True,0.019625,0.019625,0.0
+Kartik Investments Trust Ltd,M M Murugappan Family Trust,corporate,True,0.017587,0.017587,0.0
+Kartik Investments Trust Ltd,M V SUBBIAH HUF,individual,True,0.016437,0.016437,0.0
+Kartik Investments Trust Ltd,AMM Arunachalam HUF,individual,True,0.015888,0.015888,0.0
+Kartik Investments Trust Ltd,M.M.MUTHIAH SONS PRIVATE LTD,corporate,True,0.015888,0.015888,0.0
+Kartik Investments Trust Ltd,Murugappan Arunachalam Children Trust,corporate,True,0.015235,0.015235,0.0
+Kartik Investments Trust Ltd,M A M ARUNACHALAM HUF,individual,True,0.01108,0.01108,0.0
+Kartik Investments Trust Ltd,PARRY ENTERPRISES INDIA LTD,corporate,True,0.01,0.01,0.0
+Kartik Investments Trust Ltd,A M MEYYAMMAI,individual,True,0.008885,0.008885,0.0
+Kartik Investments Trust Ltd,LALITHA VELLAYAN,individual,True,0.006925,0.006925,0.0
+Kartik Investments Trust Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.005331,0.005331,0.0
+Kartik Investments Trust Ltd,M A Murugappan HUF,individual,True,0.004965,0.004965,0.0
+Kartik Investments Trust Ltd,DHRUV M ARUNACHALAM,individual,True,0.002352,0.002352,0.0
+Kartik Investments Trust Ltd,PRANAV ALAGAPPAN,individual,True,0.002352,0.002352,0.0
+Kartik Investments Trust Ltd,M V Seetha Subbiah Benefit Trust,corporate,True,0.001385,0.001385,0.0
+Kartik Investments Trust Ltd,Valli Subbiah Benefit Trust,corporate,True,0.001385,0.001385,0.0
+Kartik Investments Trust Ltd,VALLI ALAGAPPAN,individual,True,0.000993,0.000993,0.0
+Kartik Investments Trust Ltd,Kadamane Estates Company,corporate,True,0.000967,0.000967,0.0
+Kartik Investments Trust Ltd,SOLACHI RAMANATHAN,individual,True,0.000967,0.000967,0.0
+NACL Industries Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,11.409036,11.409036,0.0
+NACL Industries Ltd,KRISHI RASAYAN EXPORTS PRIVATE LIMITED,corporate,False,7.84,7.84,0.0
+NACL Industries Ltd,RAJESH KUMAR AGARWAL,individual,False,7.84,7.84,0.0
+NACL Industries Ltd,KLR PRODUCTS LIMITED,corporate,False,3.34,3.34,0.0
+NACL Industries Ltd,INVESTOR EDUCATION & PROTECTION FUND,corporate,False,2.167624,2.167624,0.0
+NACL Industries Ltd,KOTAK MAHINDRA TRUSTEE CO LTD A/C KOTAK NIFTY CHEM,corporate,False,2.157936,2.157936,0.0
+NACL Industries Ltd,SBI NIFTY 500 INDEX FUND A/C,corporate,False,2.121293,2.121293,0.0
+NACL Industries Ltd,PARAG PARIKH FLEXI CAP FUND,corporate,False,1.757302,1.757302,0.0
+NACL Industries Ltd,DSP NIFTY 500 INDEX FUND,corporate,False,1.358104,1.358104,0.0
+NACL Industries Ltd,HDFC LARGE AND MID CAP FUND,corporate,False,1.003816,1.003816,0.0
+NACL Industries Ltd,GROUPE CHIMIQUE TUNISIEN,corporate,False,0.874984,0.874984,0.0
+NACL Industries Ltd,AXIS ELSS TAX SAVER FUND,corporate,False,0.85888,0.85888,0.0
+NACL Industries Ltd,GOVINDLAL M PARIKH,individual,False,0.754834,0.754834,0.0
+NACL Industries Ltd,NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT,corporate,False,0.713944,0.713944,0.0
+NACL Industries Ltd,LICI MARKET PLUS 1 GROWTH FUND,corporate,False,0.703208,0.703208,0.0
+NACL Industries Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,0.659361,0.659361,0.0
+NACL Industries Ltd,CANARA ROBECO MUTUAL FUND A/C GAD,corporate,False,0.343106,0.343106,0.0
+NACL Industries Ltd,V NARAYANAN,individual,True,0.115148,0.115148,0.0
+NACL Industries Ltd,V ARUNACHALAM,individual,True,0.112164,0.112164,0.0
+NACL Industries Ltd,A VENKATACHALAM,individual,True,0.090093,0.090093,0.0
+NACL Industries Ltd,ARUN ALAGAPPAN,individual,True,0.090093,0.090093,0.0
+NACL Industries Ltd,ARUN VENKATACHALAM,individual,True,0.086511,0.086511,0.0
+NACL Industries Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.075176,0.075176,0.0
+NACL Industries Ltd,M M Muthiah Family Trust,corporate,True,0.070395,0.070395,0.0
+NACL Industries Ltd,M M Veerappan Family Trust,corporate,True,0.070395,0.070395,0.0
+NACL Industries Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.048923,0.048923,0.0
+NACL Industries Ltd,Saraswathi Trust,corporate,True,0.048324,0.048324,0.0
+NACL Industries Ltd,M.A.ALAGAPPAN,individual,True,0.04117,0.04117,0.0
+NACL Industries Ltd,Shambho Trust,corporate,True,0.04117,0.04117,0.0
+NACL Industries Ltd,SIGAPI ARUNACHALAM,individual,True,0.040571,0.040571,0.0
+NACL Industries Ltd,M A M ARUNACHALAM,individual,True,0.03639,0.03639,0.0
+NACL Industries Ltd,M V Muthiah Family Trust,corporate,True,0.034604,0.034604,0.0
+NACL Industries Ltd,M V Subramanian Family Trust,corporate,True,0.034604,0.034604,0.0
+NACL Industries Ltd,VALLI ANNAMALAI,individual,True,0.034604,0.034604,0.0
+NACL Industries Ltd,M M Venkatachalam Family Trust,corporate,True,0.026253,0.026253,0.0
+NACL Industries Ltd,LALITHA VELLAYAN,individual,True,0.024456,0.024456,0.0
+NACL Industries Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.023868,0.023868,0.0
+NACL Industries Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.020885,0.020885,0.0
+NACL Industries Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.020885,0.020885,0.0
+NACL Industries Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.020286,0.020286,0.0
+NACL Industries Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.017901,0.017901,0.0
+NACL Industries Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.017302,0.017302,0.0
+NACL Industries Ltd,Arun Murugappan Children's Trust,corporate,True,0.011335,0.011335,0.0
+NACL Industries Ltd,M A Alagappan Grand Children Trust,corporate,True,0.011335,0.011335,0.0
+NACL Industries Ltd,M M MURUGAPPAN,individual,True,0.005967,0.005967,0.0
+NACL Industries Ltd,R.MUTHATHA,individual,True,0.005967,0.005967,0.0
+NACL Industries Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.002984,0.002984,0.0
+NACL Industries Ltd,A M MEYYAMMAI,individual,True,0.002984,0.002984,0.0
+NACL Industries Ltd,DHRUV M ARUNACHALAM,individual,True,0.002984,0.002984,0.0
+NACL Industries Ltd,Kadamane Estates Company,corporate,True,0.002984,0.002984,0.0
+NACL Industries Ltd,M M Murugappan Family Trust,corporate,True,0.002984,0.002984,0.0
+NACL Industries Ltd,M M MURUGAPPAN HUF,individual,True,0.002984,0.002984,0.0
+NACL Industries Ltd,PRANAV ALAGAPPAN,individual,True,0.002984,0.002984,0.0
+NACL Industries Ltd,SOLACHI RAMANATHAN,individual,True,0.002984,0.002984,0.0
+NACL Industries Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.002984,0.002984,0.0
+Nelco Ltd,Tata Sons Private Limited,corporate,True,22.893103,22.892278,0.000825
+Nelco Ltd,SCHLUMBERGER LIMITED,corporate,False,3.8,3.8,0.0
+Nelco Ltd,Life Insurance Corporation Of India,corporate,False,2.50613,2.506046,8.5e-05
+Nelco Ltd,Quadrature Capital Vector Sp Limited,corporate,False,1.19,1.19,0.0
+Nelco Ltd,Investor Education And Protection Fund Authority Ministry Of Corporate Affairs,corporate,False,1.05,1.05,0.0
+Nelco Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,1.045873,1.045838,3.5e-05
+Nelco Ltd,NPS TRUST A/C,corporate,False,0.725604,0.72558,2.4e-05
+Nelco Ltd,Franklin India Flexi Cap Fund,corporate,False,0.550459,0.55044,1.9e-05
+Nelco Ltd,Tata Industries Limited,corporate,True,0.0706,0.070598,2e-06
+Nelco Ltd,Aftaab Investment Company Limited,corporate,True,0.04,0.04,0.0
+Nelco Ltd,Ewart Investments Limited,corporate,True,0.037838,0.037836,2e-06
+Nelco Ltd,Sbi Nifty 50 Etf,corporate,False,0.024385,0.024384,1e-06
+Nelco Ltd,Icici Prudential Value Fund,corporate,False,0.014228,0.014228,1e-06
+Nelco Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.012953,0.012952,1e-06
+Nelco Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.011548,0.011547,1e-06
+Nelco Ltd,Uti Nifty 50 Etf,corporate,False,0.008921,0.008921,0.0
+Nelco Ltd,Rujuvalika Investments Limited,corporate,True,0.00055,0.00055,0.0
+Nelco Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,8.6e-05,8.6e-05,0.0
+Nelco Ltd,Rekha Jhunjhunwala,individual,False,3.6e-05,3.6e-05,0.0
+Nelco Ltd,Nahar Retail Trading Services Limited,corporate,True,3.2e-05,3.2e-05,0.0
+Nelco Ltd,Kotak Flexicap Fund,corporate,False,2.5e-05,2.5e-05,0.0
+Nelco Ltd,Tmf Holdings Limited,corporate,True,1.3e-05,1.3e-05,0.0
+Nelco Ltd,"Acacia Partners, Lp",corporate,False,1.3e-05,1.3e-05,0.0
+Nelco Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,9e-06,9e-06,0.0
+Nelco Ltd,SBI Life Insurance Co. Ltd,corporate,False,6e-06,6e-06,0.0
+Nelco Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,5e-06,5e-06,0.0
+Nelco Ltd,Siddhartha Yog,individual,False,3e-06,3e-06,0.0
+Nelco Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,2e-06,2e-06,0.0
+Nelco Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Nelco Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Nelco Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Nelco Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Nelco Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Nelco Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Nelco Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Nelco Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Nelco Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Nelco Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Nelco Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Nelco Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Nelco Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Oriental Hotels Ltd,Tata Sons Private Limited,corporate,True,11.44154,11.440728,0.000812
+Oriental Hotels Ltd,PRAMOD RANJAN,individual,True,8.0,8.0,0.0
+Oriental Hotels Ltd,IHOCO B.V,corporate,True,5.25,5.25,0.0
+Oriental Hotels Ltd,D. VARADA REDDY,individual,True,3.7,3.7,0.0
+Oriental Hotels Ltd,RAMESH DOULATRAM HARIANI,individual,True,2.14,2.14,0.0
+Oriental Hotels Ltd,Piem Hotels Limited,corporate,True,2.05,2.05,0.0
+Oriental Hotels Ltd,DODLA AMIT REDDY,individual,True,1.68,1.68,0.0
+Oriental Hotels Ltd,GIRIJA GOLLAMUDI REDDY,individual,True,1.5,1.5,0.0
+Oriental Hotels Ltd,D. VIJAYAGOPAL REDDY,individual,True,1.45,1.45,0.0
+Oriental Hotels Ltd,CHILAMILIKA LALINI HARIANI,individual,True,1.42,1.42,0.0
+Oriental Hotels Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,1.352873,1.352873,0.0
+Oriental Hotels Ltd,ROHIT REDDY D,individual,True,1.24,1.24,0.0
+Oriental Hotels Ltd,Quant Mutual Fund - Quant Small Cap Fund,corporate,False,1.14,1.14,0.0
+Oriental Hotels Ltd,DODLA PREMALEELA REDDY,individual,True,1.13,1.13,0.0
+Oriental Hotels Ltd,TAJ TRADE AND TRANSPORT COMPANY LIMITED,corporate,True,0.93,0.93,0.0
+Oriental Hotels Ltd,Life Insurance Corporation Of India,corporate,False,0.754967,0.754966,1e-06
+Oriental Hotels Ltd,D NAVEEN REDDY,individual,True,0.74,0.74,0.0
+Oriental Hotels Ltd,DODLA PRAKASH REDDY,individual,True,0.73,0.73,0.0
+Oriental Hotels Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,0.722062,0.722062,0.0
+Oriental Hotels Ltd,D. ARUNA REDDY,individual,True,0.72,0.72,0.0
+Oriental Hotels Ltd,GOLLAMUDI VENKA REDDY,individual,True,0.7,0.7,0.0
+Oriental Hotels Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,0.673544,0.673544,0.0
+Oriental Hotels Ltd,AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND A/C AXIS MIDCAP FUND,corporate,False,0.62788,0.62788,0.0
+Oriental Hotels Ltd,P. SHOBA REDDY,individual,True,0.61,0.61,0.0
+Oriental Hotels Ltd,JAKKA SUREKHA REDDY,individual,True,0.58,0.58,0.0
+Oriental Hotels Ltd,DODLA POORNIMA REDDY,individual,True,0.5,0.5,0.0
+Oriental Hotels Ltd,HDFC MUTUAL FUND - HDFC MID-CAP FUND,corporate,False,0.430954,0.430954,0.0
+Oriental Hotels Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,0.428116,0.428116,0.0
+Oriental Hotels Ltd,M KALA REDDY,individual,True,0.35,0.35,0.0
+Oriental Hotels Ltd,Rekha Jhunjhunwala,individual,False,0.2854,0.2854,0.0
+Oriental Hotels Ltd,C HEMALATHA REDDY,individual,True,0.28,0.28,0.0
+Oriental Hotels Ltd,PIEM INTERNATIONAL (H.K.) LIMITED,corporate,True,0.27,0.27,0.0
+Oriental Hotels Ltd,D NITYA REDDY,individual,True,0.26,0.26,0.0
+Oriental Hotels Ltd,PRAVIN RANJAN,individual,True,0.21,0.21,0.0
+Oriental Hotels Ltd,D RAHUL REDDY,individual,True,0.18,0.18,0.0
+Oriental Hotels Ltd,LATE SUDHAKAR REDDY,individual,True,0.18,0.18,0.0
+Oriental Hotels Ltd,C LEENAJA REDDY,individual,True,0.17,0.17,0.0
+Oriental Hotels Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.153023,0.152943,8e-05
+Oriental Hotels Ltd,DODLA VENKATARAMANI,individual,True,0.15,0.15,0.0
+Oriental Hotels Ltd,DODLA SHILPA,individual,True,0.14,0.14,0.0
+Oriental Hotels Ltd,PEDDINENIKALVA VIDYAREDDY,individual,True,0.11,0.11,0.0
+Oriental Hotels Ltd,NEETHA REDDY,individual,True,0.1,0.1,0.0
+Oriental Hotels Ltd,D. SUDHA REDDY,individual,True,0.09,0.09,0.0
+Oriental Hotels Ltd,M V SURESHREDDY,individual,True,0.09,0.09,0.0
+Oriental Hotels Ltd,Icici Prudential Value Fund,corporate,False,0.066856,0.066821,3.5e-05
+Oriental Hotels Ltd,TAJ MADURAI LIMITED,corporate,True,0.062832,0.062832,0.0
+Oriental Hotels Ltd,LATE D SUNDER NISCHAL,individual,True,0.06,0.06,0.0
+Oriental Hotels Ltd,Ewart Investments Limited,corporate,True,0.059686,0.059674,1.2e-05
+Oriental Hotels Ltd,DWARAKNATH REDDY HUF,individual,True,0.05,0.05,0.0
+Oriental Hotels Ltd,Kotak Flexicap Fund,corporate,False,0.04488,0.044857,2.3e-05
+Oriental Hotels Ltd,D K PAVAN,individual,True,0.04,0.04,0.0
+Oriental Hotels Ltd,D V SHARAN,individual,True,0.04,0.04,0.0
+Oriental Hotels Ltd,KIRAN REDDY JAKKA,individual,True,0.03,0.03,0.0
+Oriental Hotels Ltd,"Acacia Partners, Lp",corporate,False,0.022523,0.022511,1.2e-05
+Oriental Hotels Ltd,Tata Industries Limited,corporate,True,0.014797,0.014797,0.0
+Oriental Hotels Ltd,D KARTHIK REDDY,individual,True,0.01,0.01,0.0
+Oriental Hotels Ltd,DODLA ABISHEK,individual,True,0.01,0.01,0.0
+Oriental Hotels Ltd,DODLA PRASANNA REDDY,individual,True,0.01,0.01,0.0
+Oriental Hotels Ltd,G V K RANJAN,individual,True,0.01,0.01,0.0
+Oriental Hotels Ltd,J CHAITANYA REDDY,individual,True,0.01,0.01,0.0
+Oriental Hotels Ltd,TAIDA TRADING AND INDUSTRIES LIMITED,corporate,True,0.002854,0.002854,0.0
+Oriental Hotels Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000362,0.000362,0.0
+Oriental Hotels Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000318,0.000317,0.0
+Oriental Hotels Ltd,Sbi Nifty 50 Etf,corporate,False,0.000264,0.000263,0.0
+Oriental Hotels Ltd,NPS TRUST A/C,corporate,False,0.000241,0.000241,0.0
+Oriental Hotels Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000183,0.000183,0.0
+Oriental Hotels Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000105,0.000105,0.0
+Oriental Hotels Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,9.4e-05,9.4e-05,0.0
+Oriental Hotels Ltd,SBI Life Insurance Co. Ltd,corporate,False,8.5e-05,8.5e-05,0.0
+Oriental Hotels Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,8.5e-05,8.5e-05,0.0
+Oriental Hotels Ltd,Uti Nifty 50 Etf,corporate,False,8.1e-05,8.1e-05,0.0
+Oriental Hotels Ltd,Nippon Life India Trustee Ltd,corporate,False,7.6e-05,7.6e-05,0.0
+Oriental Hotels Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,4.9e-05,4.9e-05,0.0
+Oriental Hotels Ltd,Kotak Midcap Fund,corporate,False,3e-05,3e-05,0.0
+Oriental Hotels Ltd,Siddhartha Yog,individual,False,2.9e-05,2.9e-05,0.0
+Oriental Hotels Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,2.5e-05,2.5e-05,0.0
+Oriental Hotels Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,2.1e-05,2.1e-05,0.0
+Oriental Hotels Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1.8e-05,1.8e-05,0.0
+Oriental Hotels Ltd,DSP Midcap Fund,corporate,False,1.7e-05,1.7e-05,0.0
+Oriental Hotels Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,1.4e-05,1.4e-05,0.0
+Oriental Hotels Ltd,Vanguard Total International Stock Index Fund,corporate,False,1.4e-05,1.4e-05,0.0
+Oriental Hotels Ltd,Rujuvalika Investments Limited,corporate,True,4e-06,4e-06,0.0
+Oriental Hotels Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Oriental Hotels Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Oriental Hotels Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Oriental Hotels Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Oriental Hotels Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Pilani Investment and Industries Corporation Ltd,Birla Group Holdings Private Limited,corporate,True,34.7,34.7,0.0
+Pilani Investment and Industries Corporation Ltd,Padmavati Investment Private Limited,corporate,True,19.18,19.18,0.0
+Pilani Investment and Industries Corporation Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,17.52,17.52,0.0
+Pilani Investment and Industries Corporation Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,5.74,5.74,0.0
+Pilani Investment and Industries Corporation Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,4.5,4.5,0.0
+Pilani Investment and Industries Corporation Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.21,0.21,0.0
+Pilani Investment and Industries Corporation Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.09,0.09,0.0
+Rallis India Ltd,Tata Sons Private Limited,corporate,True,19.864015,19.853213,0.010802
+Rallis India Ltd,SBI MUTUAL FUND,corporate,False,8.3,8.3,0.0
+Rallis India Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,5.08834,5.085696,0.002644
+Rallis India Ltd,Icici Prudential Value Fund,corporate,False,2.219624,2.21847,0.001154
+Rallis India Ltd,Kotak Flexicap Fund,corporate,False,1.49236,1.491584,0.000776
+Rallis India Ltd,National Insurance Company Ltd,corporate,False,1.1,1.1,0.0
+Rallis India Ltd,"Acacia Partners, Lp",corporate,False,0.748933,0.748544,0.000389
+Rallis India Ltd,Ewart Investments Limited,corporate,True,0.092667,0.092629,3.8e-05
+Rallis India Ltd,Tata Industries Limited,corporate,True,0.016615,0.016607,9e-06
+Rallis India Ltd,Life Insurance Corporation Of India,corporate,False,0.00778,0.007775,5e-06
+Rallis India Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.002551,0.00255,1e-06
+Rallis India Ltd,Nippon Life India Trustee Ltd,corporate,False,0.002524,0.002523,1e-06
+Rallis India Ltd,SBI Life Insurance Co. Ltd,corporate,False,0.001167,0.001166,1e-06
+Rallis India Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.001127,0.001126,1e-06
+Rallis India Ltd,Kotak Midcap Fund,corporate,False,0.001009,0.001008,1e-06
+Rallis India Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000987,0.000986,1e-06
+Rallis India Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.000846,0.000845,0.0
+Rallis India Ltd,Sbi Nifty 50 Etf,corporate,False,0.000819,0.000818,1e-06
+Rallis India Ltd,NPS TRUST A/C,corporate,False,0.000749,0.000749,1e-06
+Rallis India Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.000709,0.000709,0.0
+Rallis India Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.000599,0.000599,0.0
+Rallis India Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000568,0.000568,0.0
+Rallis India Ltd,DSP Midcap Fund,corporate,False,0.000564,0.000564,0.0
+Rallis India Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.000449,0.000449,0.0
+Rallis India Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.000449,0.000449,0.0
+Rallis India Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000327,0.000327,0.0
+Rallis India Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.000292,0.000291,0.0
+Rallis India Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.000263,0.000263,0.0
+Rallis India Ltd,Uti Nifty 50 Etf,corporate,False,0.000251,0.000251,0.0
+Rallis India Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.000154,0.000153,0.0
+Rallis India Ltd,Siddhartha Yog,individual,False,8.9e-05,8.9e-05,0.0
+Rallis India Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,5.1e-05,5.1e-05,0.0
+Rallis India Ltd,Rujuvalika Investments Limited,corporate,True,1.4e-05,1.4e-05,0.0
+Rallis India Ltd,Rekha Jhunjhunwala,individual,False,1e-06,1e-06,0.0
+Rallis India Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Rallis India Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Rallis India Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Rallis India Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Rallis India Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Shanthi Gears Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,25.114898,25.114898,0.0
+Shanthi Gears Ltd,"SMALLCAP WORLD FUND, INC",corporate,False,3.036826,3.036826,0.0
+Shanthi Gears Ltd,Pacific Assets Trust PLC,corporate,False,2.9,2.9,0.0
+Shanthi Gears Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,2.705664,2.705664,0.0
+Shanthi Gears Ltd,MOTILAL OSWAL NIFTY MIDCAP 100 ETF,corporate,False,1.613534,1.613534,0.0
+Shanthi Gears Ltd,Life Insurance Corporation Of India,corporate,False,1.30351,1.30351,0.0
+Shanthi Gears Ltd,Dhanesh S Shah,individual,False,1.27,1.27,0.0
+Shanthi Gears Ltd,Durgesh S Shah,individual,False,1.27,1.27,0.0
+Shanthi Gears Ltd,Nimesh Sumatilal,individual,False,1.27,1.27,0.0
+Shanthi Gears Ltd,DSP FLEXI CAP FUND,corporate,False,0.831428,0.831428,0.0
+Shanthi Gears Ltd,FRANKLIN ASIAN EQUITY FUND,corporate,False,0.817336,0.817336,0.0
+Shanthi Gears Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.768014,0.768014,0.0
+Shanthi Gears Ltd,UTI NIFTY500 SHARIAH INDEX FUND,corporate,False,0.768014,0.768014,0.0
+Shanthi Gears Ltd,NPS TRUST- A/C HDFC PENSION FUND MANAGEMENT LIMITE,corporate,False,0.718692,0.718692,0.0
+Shanthi Gears Ltd,M A M ARUNACHALAM,individual,True,0.310024,0.310024,0.0
+Shanthi Gears Ltd,ARUN ALAGAPPAN,individual,True,0.274794,0.274794,0.0
+Shanthi Gears Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,0.267748,0.267748,0.0
+Shanthi Gears Ltd,V ARUNACHALAM,individual,True,0.267748,0.267748,0.0
+Shanthi Gears Ltd,M.A.ALAGAPPAN,individual,True,0.260702,0.260702,0.0
+Shanthi Gears Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.253656,0.253656,0.0
+Shanthi Gears Ltd,V NARAYANAN,individual,True,0.24661,0.24661,0.0
+Shanthi Gears Ltd,A VENKATACHALAM,individual,True,0.21138,0.21138,0.0
+Shanthi Gears Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.204334,0.204334,0.0
+Shanthi Gears Ltd,Shambho Trust,corporate,True,0.204334,0.204334,0.0
+Shanthi Gears Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.197288,0.197288,0.0
+Shanthi Gears Ltd,Saraswathi Trust,corporate,True,0.197288,0.197288,0.0
+Shanthi Gears Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.183196,0.183196,0.0
+Shanthi Gears Ltd,M M Muthiah Family Trust,corporate,True,0.17615,0.17615,0.0
+Shanthi Gears Ltd,M M Veerappan Family Trust,corporate,True,0.169104,0.169104,0.0
+Shanthi Gears Ltd,M V Muthiah Family Trust,corporate,True,0.169104,0.169104,0.0
+Shanthi Gears Ltd,M V Subramanian Family Trust,corporate,True,0.169104,0.169104,0.0
+Shanthi Gears Ltd,ARUN VENKATACHALAM,individual,True,0.162058,0.162058,0.0
+Shanthi Gears Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.162058,0.162058,0.0
+Shanthi Gears Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.14092,0.14092,0.0
+Shanthi Gears Ltd,M M Venkatachalam Family Trust,corporate,True,0.14092,0.14092,0.0
+Shanthi Gears Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.133874,0.133874,0.0
+Shanthi Gears Ltd,VALLI ANNAMALAI,individual,True,0.133874,0.133874,0.0
+Shanthi Gears Ltd,M M MURUGAPPAN HUF,individual,True,0.126828,0.126828,0.0
+Shanthi Gears Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.119782,0.119782,0.0
+Shanthi Gears Ltd,R.MUTHATHA,individual,True,0.119782,0.119782,0.0
+Shanthi Gears Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,0.10569,0.10569,0.0
+Shanthi Gears Ltd,M M Muthiah HUF,individual,True,0.098644,0.098644,0.0
+Shanthi Gears Ltd,SIGAPI ARUNACHALAM,individual,True,0.084552,0.084552,0.0
+Shanthi Gears Ltd,Arun Murugappan Children's Trust,corporate,True,0.077506,0.077506,0.0
+Shanthi Gears Ltd,M A Alagappan Grand Children Trust,corporate,True,0.077506,0.077506,0.0
+Shanthi Gears Ltd,Murugappan Arunachalam Children Trust,corporate,True,0.077506,0.077506,0.0
+Shanthi Gears Ltd,M M Murugappan Family Trust,corporate,True,0.07046,0.07046,0.0
+Shanthi Gears Ltd,M M MURUGAPPAN,individual,True,0.063414,0.063414,0.0
+Shanthi Gears Ltd,M V SUBBIAH HUF,individual,True,0.063414,0.063414,0.0
+Shanthi Gears Ltd,M A Murugappan HUF,individual,True,0.056368,0.056368,0.0
+Shanthi Gears Ltd,M A ALAGAPPAN HUF,individual,True,0.049322,0.049322,0.0
+Shanthi Gears Ltd,M V SUBBIAH,individual,True,0.049322,0.049322,0.0
+Shanthi Gears Ltd,A M MEYYAMMAI,individual,True,0.028184,0.028184,0.0
+Shanthi Gears Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.014092,0.014092,0.0
+Shanthi Gears Ltd,M V SEETHA SUBBIAH,individual,True,0.014092,0.014092,0.0
+Shanthi Gears Ltd,DHRUV M ARUNACHALAM,individual,True,0.007046,0.007046,0.0
+Shanthi Gears Ltd,M V Seetha Subbiah Benefit Trust,corporate,True,0.007046,0.007046,0.0
+Shanthi Gears Ltd,PRANAV ALAGAPPAN,individual,True,0.007046,0.007046,0.0
+Shanthi Gears Ltd,Valli Subbiah Benefit Trust,corporate,True,0.007046,0.007046,0.0
+Shanthi Gears Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.007046,0.007046,0.0
+Tata Capital Ltd,Tata Sons Private Limited,corporate,True,80.256429,80.25542,0.00101
+Tata Capital Ltd,Tmf Holdings Limited,corporate,True,4.39,4.39,0.0
+Tata Capital Ltd,Ewart Investments Limited,corporate,True,0.031347,0.031324,2.3e-05
+Tata Capital Ltd,Tata International Limited,corporate,True,0.02,0.02,0.0
+Tata Capital Ltd,Life Insurance Corporation Of India,corporate,False,0.010228,0.010226,2e-06
+Tata Capital Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.00897,0.008965,5e-06
+Tata Capital Ltd,Icici Prudential Value Fund,corporate,False,0.00771,0.007707,2e-06
+Tata Capital Ltd,SBI Large Cap Fund,corporate,False,0.00276,0.00276,0.0
+Tata Capital Ltd,Kotak Flexicap Fund,corporate,False,0.002631,0.002629,1e-06
+Tata Capital Ltd,Tata Industries Limited,corporate,True,0.002125,0.002125,0.0
+Tata Capital Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.001715,0.001715,1e-06
+Tata Capital Ltd,Rekha Jhunjhunwala,individual,False,0.001321,0.001321,0.0
+Tata Capital Ltd,"Acacia Partners, Lp",corporate,False,0.00132,0.00132,1e-06
+Tata Capital Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.00125,0.00125,0.0
+Tata Capital Ltd,NPS TRUST A/C,corporate,False,0.001171,0.00117,0.0
+Tata Capital Ltd,Governement of Singapore,corporate,False,0.00102,0.00102,0.0
+Tata Capital Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000888,0.000888,0.0
+Tata Capital Ltd,Sbi Nifty 50 Etf,corporate,False,0.000681,0.00068,0.0
+Tata Capital Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000587,0.000587,0.0
+Tata Capital Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.000398,0.000397,0.0
+Tata Capital Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.000252,0.000252,0.0
+Tata Capital Ltd,SBI Life Insurance Co. Ltd,corporate,False,0.000247,0.000247,0.0
+Tata Capital Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000208,0.000207,0.0
+Tata Capital Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.000185,0.000185,0.0
+Tata Capital Ltd,Uti Nifty 50 Etf,corporate,False,0.000158,0.000158,0.0
+Tata Capital Ltd,Siddhartha Yog,individual,False,5.3e-05,5.3e-05,0.0
+Tata Capital Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,3e-05,3e-05,0.0
+Tata Capital Ltd,Rujuvalika Investments Limited,corporate,True,9e-06,9e-06,0.0
+Tata Capital Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,5e-06,5e-06,0.0
+Tata Capital Ltd,Nippon Life India Trustee Ltd,corporate,False,5e-06,5e-06,0.0
+Tata Capital Ltd,Kotak Midcap Fund,corporate,False,2e-06,2e-06,0.0
+Tata Capital Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,2e-06,2e-06,0.0
+Tata Capital Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,1e-06,1e-06,0.0
+Tata Capital Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1e-06,1e-06,0.0
+Tata Capital Ltd,DSP Midcap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Capital Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,1e-06,1e-06,0.0
+Tata Capital Ltd,Vanguard Total International Stock Index Fund,corporate,False,1e-06,1e-06,0.0
+Tata Chemicals Ltd,Tata Sons Private Limited,corporate,True,36.071387,36.070517,0.00087
+Tata Chemicals Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,9.24,9.24,0.0
+Tata Chemicals Ltd,Icici Prudential Value Fund,corporate,False,4.030651,4.030651,0.0
+Tata Chemicals Ltd,Kotak Flexicap Fund,corporate,False,2.71,2.71,0.0
+Tata Chemicals Ltd,"Acacia Partners, Lp",corporate,False,1.36,1.36,0.0
+Tata Chemicals Ltd,Ewart Investments Limited,corporate,True,0.095639,0.095619,2e-05
+Tata Chemicals Ltd,Tata Industries Limited,corporate,True,0.030172,0.030172,0.0
+Tata Chemicals Ltd,Life Insurance Corporation Of India,corporate,False,0.014128,0.014127,2e-06
+Tata Chemicals Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.004632,0.004632,0.0
+Tata Chemicals Ltd,Nippon Life India Trustee Ltd,corporate,False,0.004584,0.004584,0.0
+Tata Chemicals Ltd,SBI Life Insurance Co. Ltd,corporate,False,0.002119,0.002119,0.0
+Tata Chemicals Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.002046,0.002046,0.0
+Tata Chemicals Ltd,Kotak Midcap Fund,corporate,False,0.001832,0.001832,0.0
+Tata Chemicals Ltd,Nahar Retail Trading Services Limited,corporate,True,0.001792,0.001792,0.0
+Tata Chemicals Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.001536,0.001536,0.0
+Tata Chemicals Ltd,Sbi Nifty 50 Etf,corporate,False,0.001487,0.001487,0.0
+Tata Chemicals Ltd,NPS TRUST A/C,corporate,False,0.001361,0.00136,0.0
+Tata Chemicals Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.001288,0.001288,0.0
+Tata Chemicals Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.001088,0.001088,0.0
+Tata Chemicals Ltd,Franklin India Flexi Cap Fund,corporate,False,0.001032,0.001032,0.0
+Tata Chemicals Ltd,DSP Midcap Fund,corporate,False,0.001024,0.001024,0.0
+Tata Chemicals Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.000816,0.000816,0.0
+Tata Chemicals Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.000816,0.000816,0.0
+Tata Chemicals Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000594,0.000594,0.0
+Tata Chemicals Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.00053,0.00053,0.0
+Tata Chemicals Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.000478,0.000478,0.0
+Tata Chemicals Ltd,Uti Nifty 50 Etf,corporate,False,0.000456,0.000456,0.0
+Tata Chemicals Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.000279,0.000279,0.0
+Tata Chemicals Ltd,Siddhartha Yog,individual,False,0.000162,0.000162,0.0
+Tata Chemicals Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,9.3e-05,9.3e-05,0.0
+Tata Chemicals Ltd,Rujuvalika Investments Limited,corporate,True,2.5e-05,2.5e-05,0.0
+Tata Chemicals Ltd,Rekha Jhunjhunwala,individual,False,2e-06,2e-06,0.0
+Tata Chemicals Ltd,Tmf Holdings Limited,corporate,True,1e-06,1e-06,0.0
+Tata Chemicals Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Chemicals Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Chemicals Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Chemicals Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Communications Ltd,Panatone Finvest Limited,corporate,True,44.79,44.79,0.0
+Tata Communications Ltd,Tata Sons Private Limited,corporate,True,14.07,14.07,0.0
+Tata Communications Ltd,HDFC MUTUAL FUND - HDFC MID-CAP FUND,corporate,False,4.94,4.94,0.0
+Tata Communications Ltd,Mirae Asset Large & Midcap Fund,corporate,False,4.19,4.19,0.0
+Tata Communications Ltd,Quant Mutual Fund - Quant Mid Cap Fund,corporate,False,1.81,1.81,0.0
+Tata Communications Ltd,Rekha Jhunjhunwala,individual,False,1.58,1.58,0.0
+Tata Communications Ltd,GOVERNMENT PENSION FUND GLOBAL,corporate,False,1.47,1.47,0.0
+Tata Communications Ltd,ICICI Prudential India Opportunities Fund,corporate,False,1.03,1.03,0.0
+Tata Consultancy Services Ltd,Tata Sons Private Limited,corporate,True,71.76094,71.760925,1.5e-05
+Tata Consultancy Services Ltd,LIC of India,corporate,False,5.52,5.52,0.0
+Tata Consultancy Services Ltd,Sbi Nifty 50 Etf,corporate,False,1.310007,1.310007,0.0
+Tata Consultancy Services Ltd,Icici Prudential Value Fund,corporate,False,1.060014,1.060014,0.0
+Tata Consultancy Services Ltd,Ewart Investments Limited,corporate,True,0.000478,0.000478,0.0
+Tata Consultancy Services Ltd,Life Insurance Corporation Of India,corporate,False,4e-05,4e-05,0.0
+Tata Consultancy Services Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,2.4e-05,2.4e-05,0.0
+Tata Consultancy Services Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,1e-05,1e-05,0.0
+Tata Consultancy Services Ltd,Nahar Retail Trading Services Limited,corporate,True,9e-06,9e-06,0.0
+Tata Consultancy Services Ltd,Kotak Flexicap Fund,corporate,False,7e-06,7e-06,0.0
+Tata Consultancy Services Ltd,NPS TRUST A/C,corporate,False,7e-06,7e-06,0.0
+Tata Consultancy Services Ltd,Franklin India Flexi Cap Fund,corporate,False,5e-06,5e-06,0.0
+Tata Consultancy Services Ltd,"Acacia Partners, Lp",corporate,False,4e-06,4e-06,0.0
+Tata Consultancy Services Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,3e-06,3e-06,0.0
+Tata Consultancy Services Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,3e-06,3e-06,0.0
+Tata Consultancy Services Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,2e-06,2e-06,0.0
+Tata Consultancy Services Ltd,Uti Nifty 50 Etf,corporate,False,2e-06,2e-06,0.0
+Tata Consultancy Services Ltd,SBI Life Insurance Co. Ltd,corporate,False,2e-06,2e-06,0.0
+Tata Consultancy Services Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Consultancy Services Ltd,Tata Industries Limited,corporate,True,1e-06,1e-06,0.0
+Tata Consultancy Services Ltd,Siddhartha Yog,individual,False,1e-06,1e-06,0.0
+Tata Consultancy Services Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Rujuvalika Investments Limited,corporate,True,0.0,0.0,0.0
+Tata Consultancy Services Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Rekha Jhunjhunwala,individual,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Tata Consultancy Services Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Consultancy Services Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Consultancy Services Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Consumer Products Ltd,Tata Sons Private Limited,corporate,True,31.927196,31.925269,0.001927
+Tata Consumer Products Ltd,Life Insurance Corporation Of India,corporate,False,8.236629,8.236626,3e-06
+Tata Consumer Products Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,2.410047,2.410047,0.0
+Tata Consumer Products Ltd,Sbi Nifty 50 Etf,corporate,False,1.690931,1.69093,1e-06
+Tata Consumer Products Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1.61,1.61,0.0
+Tata Consumer Products Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.430502,1.430502,0.0
+Tata Consumer Products Ltd,Ewart Investments Limited,corporate,True,0.464203,0.464159,4.4e-05
+Tata Consumer Products Ltd,Tata Industries Limited,corporate,True,0.090134,0.090134,0.0
+Tata Consumer Products Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.003741,0.003739,2e-06
+Tata Consumer Products Ltd,Icici Prudential Value Fund,corporate,False,0.002139,0.002137,1e-06
+Tata Consumer Products Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.001593,0.001592,1e-06
+Tata Consumer Products Ltd,Nahar Retail Trading Services Limited,corporate,True,0.001396,0.001395,1e-06
+Tata Consumer Products Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.00116,0.00116,0.0
+Tata Consumer Products Ltd,Nippon Life India Trustee Ltd,corporate,False,0.001148,0.001148,0.0
+Tata Consumer Products Ltd,Kotak Flexicap Fund,corporate,False,0.001097,0.001096,1e-06
+Tata Consumer Products Ltd,NPS TRUST A/C,corporate,False,0.00106,0.001059,1e-06
+Tata Consumer Products Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000804,0.000803,0.0
+Tata Consumer Products Ltd,"Acacia Partners, Lp",corporate,False,0.000551,0.00055,0.0
+Tata Consumer Products Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000463,0.000463,0.0
+Tata Consumer Products Ltd,Kotak Midcap Fund,corporate,False,0.000459,0.000459,0.0
+Tata Consumer Products Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.000413,0.000412,0.0
+Tata Consumer Products Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.000385,0.000385,0.0
+Tata Consumer Products Ltd,Uti Nifty 50 Etf,corporate,False,0.000355,0.000355,0.0
+Tata Consumer Products Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.000323,0.000323,0.0
+Tata Consumer Products Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.000272,0.000272,0.0
+Tata Consumer Products Ltd,DSP Midcap Fund,corporate,False,0.000256,0.000256,0.0
+Tata Consumer Products Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.000204,0.000204,0.0
+Tata Consumer Products Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.000204,0.000204,0.0
+Tata Consumer Products Ltd,Siddhartha Yog,individual,False,0.000126,0.000126,0.0
+Tata Consumer Products Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,7.2e-05,7.2e-05,0.0
+Tata Consumer Products Ltd,Rujuvalika Investments Limited,corporate,True,2e-05,2e-05,0.0
+Tata Consumer Products Ltd,Rekha Jhunjhunwala,individual,False,1e-06,1e-06,0.0
+Tata Consumer Products Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Tata Consumer Products Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Consumer Products Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Consumer Products Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Consumer Products Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Tata Sons Private Limited,corporate,True,43.389638,43.388778,0.00086
+Tata Elxsi Ltd,Life Insurance Corporation Of India,corporate,False,6.592251,6.59225,2e-06
+Tata Elxsi Ltd,General Insurance Corporation Of India,corporate,False,1.22,1.22,0.0
+Tata Elxsi Ltd,Ewart Investments Limited,corporate,True,0.026946,0.026926,2e-05
+Tata Elxsi Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.00136,0.001359,1e-06
+Tata Elxsi Ltd,Icici Prudential Value Fund,corporate,False,0.000777,0.000777,1e-06
+Tata Elxsi Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000579,0.000579,0.0
+Tata Elxsi Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000507,0.000507,0.0
+Tata Elxsi Ltd,Sbi Nifty 50 Etf,corporate,False,0.000421,0.000421,0.0
+Tata Elxsi Ltd,Kotak Flexicap Fund,corporate,False,0.000399,0.000398,0.0
+Tata Elxsi Ltd,NPS TRUST A/C,corporate,False,0.000385,0.000385,0.0
+Tata Elxsi Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000292,0.000292,0.0
+Tata Elxsi Ltd,"Acacia Partners, Lp",corporate,False,0.0002,0.0002,0.0
+Tata Elxsi Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000168,0.000168,0.0
+Tata Elxsi Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.00015,0.00015,0.0
+Tata Elxsi Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.000135,0.000135,0.0
+Tata Elxsi Ltd,Uti Nifty 50 Etf,corporate,False,0.000129,0.000129,0.0
+Tata Elxsi Ltd,SBI Life Insurance Co. Ltd,corporate,False,8.8e-05,8.8e-05,0.0
+Tata Elxsi Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,7.9e-05,7.9e-05,0.0
+Tata Elxsi Ltd,Tata Industries Limited,corporate,True,5.3e-05,5.3e-05,0.0
+Tata Elxsi Ltd,Siddhartha Yog,individual,False,4.6e-05,4.6e-05,0.0
+Tata Elxsi Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,2.6e-05,2.6e-05,0.0
+Tata Elxsi Ltd,Rujuvalika Investments Limited,corporate,True,7e-06,7e-06,0.0
+Tata Elxsi Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,1e-06,1e-06,0.0
+Tata Elxsi Ltd,Nippon Life India Trustee Ltd,corporate,False,1e-06,1e-06,0.0
+Tata Elxsi Ltd,Rekha Jhunjhunwala,individual,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Tata Elxsi Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Elxsi Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Elxsi Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Investment Corporation Ltd,Tata Sons Private Limited,corporate,True,69.750187,69.750187,0.0
+Tata Investment Corporation Ltd,Ewart Investments Limited,corporate,True,1.593249,1.593249,0.0
+Tata Investment Corporation Ltd,Life Insurance Corporation Of India,corporate,False,0.133127,0.133127,0.0
+Tata Investment Corporation Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.080388,0.080388,0.0
+Tata Investment Corporation Ltd,Icici Prudential Value Fund,corporate,False,0.045958,0.045958,0.0
+Tata Investment Corporation Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.034235,0.034235,0.0
+Tata Investment Corporation Ltd,Nahar Retail Trading Services Limited,corporate,True,0.03,0.03,0.0
+Tata Investment Corporation Ltd,Sbi Nifty 50 Etf,corporate,False,0.024898,0.024898,0.0
+Tata Investment Corporation Ltd,Kotak Flexicap Fund,corporate,False,0.023577,0.023577,0.0
+Tata Investment Corporation Ltd,NPS TRUST A/C,corporate,False,0.022765,0.022765,0.0
+Tata Investment Corporation Ltd,Franklin India Flexi Cap Fund,corporate,False,0.01727,0.01727,0.0
+Tata Investment Corporation Ltd,"Acacia Partners, Lp",corporate,False,0.011832,0.011832,0.0
+Tata Investment Corporation Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.009946,0.009946,0.0
+Tata Investment Corporation Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.008867,0.008867,0.0
+Tata Investment Corporation Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.008003,0.008003,0.0
+Tata Investment Corporation Ltd,Uti Nifty 50 Etf,corporate,False,0.007636,0.007636,0.0
+Tata Investment Corporation Ltd,SBI Life Insurance Co. Ltd,corporate,False,0.00522,0.00522,0.0
+Tata Investment Corporation Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.004669,0.004669,0.0
+Tata Investment Corporation Ltd,Tata Industries Limited,corporate,True,0.003136,0.003136,0.0
+Tata Investment Corporation Ltd,Siddhartha Yog,individual,False,0.002718,0.002718,0.0
+Tata Investment Corporation Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,0.001554,0.001554,0.0
+Tata Investment Corporation Ltd,Rujuvalika Investments Limited,corporate,True,0.000422,0.000422,0.0
+Tata Investment Corporation Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,4.4e-05,4.4e-05,0.0
+Tata Investment Corporation Ltd,Nippon Life India Trustee Ltd,corporate,False,4.3e-05,4.3e-05,0.0
+Tata Investment Corporation Ltd,Rekha Jhunjhunwala,individual,False,2.7e-05,2.7e-05,0.0
+Tata Investment Corporation Ltd,Kotak Midcap Fund,corporate,False,1.7e-05,1.7e-05,0.0
+Tata Investment Corporation Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,1.4e-05,1.4e-05,0.0
+Tata Investment Corporation Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,1.2e-05,1.2e-05,0.0
+Tata Investment Corporation Ltd,Tmf Holdings Limited,corporate,True,1e-05,1e-05,0.0
+Tata Investment Corporation Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1e-05,1e-05,0.0
+Tata Investment Corporation Ltd,DSP Midcap Fund,corporate,False,1e-05,1e-05,0.0
+Tata Investment Corporation Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,8e-06,8e-06,0.0
+Tata Investment Corporation Ltd,Vanguard Total International Stock Index Fund,corporate,False,8e-06,8e-06,0.0
+Tata Investment Corporation Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Investment Corporation Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Investment Corporation Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Investment Corporation Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Motors Ltd,Tata Sons Private Limited,corporate,True,40.372023,40.371861,0.000163
+Tata Motors Ltd,Life Insurance Corporation Of India,corporate,False,4.290908,4.290907,0.0
+Tata Motors Ltd,Icici Prudential Value Fund,corporate,False,3.572157,3.572156,1e-06
+Tata Motors Ltd,SBI Large Cap Fund,corporate,False,2.76,2.76,0.0
+Tata Motors Ltd,Tata Industries Limited,corporate,True,1.960039,1.960039,0.0
+Tata Motors Ltd,Rekha Jhunjhunwala,individual,False,1.32,1.32,0.0
+Tata Motors Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,1.25,1.25,0.0
+Tata Motors Ltd,Governement of Singapore,corporate,False,1.02,1.02,0.0
+Tata Motors Ltd,Ewart Investments Limited,corporate,True,0.094839,0.094835,4e-06
+Tata Motors Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.004864,0.004861,3e-06
+Tata Motors Ltd,Kotak Flexicap Fund,corporate,False,0.001426,0.001426,1e-06
+Tata Motors Ltd,"Acacia Partners, Lp",corporate,False,0.000716,0.000715,0.0
+Tata Motors Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000313,0.000313,0.0
+Tata Motors Ltd,NPS TRUST A/C,corporate,False,0.000214,0.000214,0.0
+Tata Motors Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000162,0.000162,0.0
+Tata Motors Ltd,Nahar Retail Trading Services Limited,corporate,True,9.1e-05,9.1e-05,0.0
+Tata Motors Ltd,Sbi Nifty 50 Etf,corporate,False,8e-05,8e-05,0.0
+Tata Motors Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,3.3e-05,3.3e-05,0.0
+Tata Motors Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,2.9e-05,2.9e-05,0.0
+Tata Motors Ltd,Uti Nifty 50 Etf,corporate,False,2.5e-05,2.5e-05,0.0
+Tata Motors Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,2.4e-05,2.4e-05,0.0
+Tata Motors Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.7e-05,1.7e-05,0.0
+Tata Motors Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1.4e-05,1.4e-05,0.0
+Tata Motors Ltd,Siddhartha Yog,individual,False,8e-06,8e-06,0.0
+Tata Motors Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,5e-06,5e-06,0.0
+Tata Motors Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,2e-06,2e-06,0.0
+Tata Motors Ltd,Nippon Life India Trustee Ltd,corporate,False,2e-06,2e-06,0.0
+Tata Motors Ltd,Rujuvalika Investments Limited,corporate,True,1e-06,1e-06,0.0
+Tata Motors Ltd,Kotak Midcap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Motors Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,1e-06,1e-06,0.0
+Tata Motors Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,1e-06,1e-06,0.0
+Tata Motors Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1e-06,1e-06,0.0
+Tata Motors Ltd,DSP Midcap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Motors Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Motors Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Motors Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Tata Motors Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Tata Sons Private Limited,corporate,True,40.353975,40.353823,0.000153
+Tata Motors Passenger Vehicles Ltd,Life Insurance Corporation Of India,corporate,False,4.7509,4.7509,0.0
+Tata Motors Passenger Vehicles Ltd,Icici Prudential Value Fund,corporate,False,2.860141,2.860141,0.0
+Tata Motors Passenger Vehicles Ltd,Sbi Nifty 50 Etf,corporate,False,2.270079,2.270079,0.0
+Tata Motors Passenger Vehicles Ltd,Tata Industries Limited,corporate,True,1.960023,1.960023,0.0
+Tata Motors Passenger Vehicles Ltd,Rekha Jhunjhunwala,individual,False,1.33,1.33,0.0
+Tata Motors Passenger Vehicles Ltd,Ewart Investments Limited,corporate,True,0.094791,0.094787,3e-06
+Tata Motors Passenger Vehicles Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000312,0.000312,0.0
+Tata Motors Passenger Vehicles Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.000241,0.000241,0.0
+Tata Motors Passenger Vehicles Ltd,NPS TRUST A/C,corporate,False,0.000213,0.000213,0.0
+Tata Motors Passenger Vehicles Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000162,0.000162,0.0
+Tata Motors Passenger Vehicles Ltd,Nahar Retail Trading Services Limited,corporate,True,9e-05,9e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Kotak Flexicap Fund,corporate,False,7.1e-05,7.1e-05,0.0
+Tata Motors Passenger Vehicles Ltd,"Acacia Partners, Lp",corporate,False,3.6e-05,3.5e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,3.2e-05,3.2e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,2.9e-05,2.9e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Uti Nifty 50 Etf,corporate,False,2.5e-05,2.5e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,2.4e-05,2.4e-05,0.0
+Tata Motors Passenger Vehicles Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.6e-05,1.6e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1.4e-05,1.4e-05,0.0
+Tata Motors Passenger Vehicles Ltd,Siddhartha Yog,individual,False,8e-06,8e-06,0.0
+Tata Motors Passenger Vehicles Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,5e-06,5e-06,0.0
+Tata Motors Passenger Vehicles Ltd,Rujuvalika Investments Limited,corporate,True,1e-06,1e-06,0.0
+Tata Motors Passenger Vehicles Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Motors Passenger Vehicles Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,Tata Sons Private Limited,corporate,True,45.748066,45.747957,0.000109
+Tata Power Company Ltd,Life Insurance Corporation Of India,corporate,False,5.008086,5.008085,1e-06
+Tata Power Company Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,2.090003,2.090003,0.0
+Tata Power Company Ltd,NPS TRUST A/C,corporate,False,1.45,1.45,0.0
+Tata Power Company Ltd,Franklin India Flexi Cap Fund,corporate,False,1.1,1.1,0.0
+Tata Power Company Ltd,Tata Industries Limited,corporate,True,0.141083,0.141083,0.0
+Tata Power Company Ltd,Ewart Investments Limited,corporate,True,0.075613,0.075611,2e-06
+Tata Power Company Ltd,Sbi Nifty 50 Etf,corporate,False,0.04873,0.048729,1e-06
+Tata Power Company Ltd,Icici Prudential Value Fund,corporate,False,0.028433,0.028433,1e-06
+Tata Power Company Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.025884,0.025884,0.0
+Tata Power Company Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.023076,0.023076,0.0
+Tata Power Company Ltd,Uti Nifty 50 Etf,corporate,False,0.017828,0.017827,0.0
+Tata Power Company Ltd,Rujuvalika Investments Limited,corporate,True,0.001099,0.001099,0.0
+Tata Power Company Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.000172,0.000172,0.0
+Tata Power Company Ltd,Rekha Jhunjhunwala,individual,False,7.1e-05,7.1e-05,0.0
+Tata Power Company Ltd,Nahar Retail Trading Services Limited,corporate,True,6.4e-05,6.4e-05,0.0
+Tata Power Company Ltd,Kotak Flexicap Fund,corporate,False,5.1e-05,5.1e-05,0.0
+Tata Power Company Ltd,Tmf Holdings Limited,corporate,True,2.7e-05,2.7e-05,0.0
+Tata Power Company Ltd,"Acacia Partners, Lp",corporate,False,2.5e-05,2.5e-05,0.0
+Tata Power Company Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,1.7e-05,1.7e-05,0.0
+Tata Power Company Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.1e-05,1.1e-05,0.0
+Tata Power Company Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1e-05,1e-05,0.0
+Tata Power Company Ltd,Siddhartha Yog,individual,False,6e-06,6e-06,0.0
+Tata Power Company Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,3e-06,3e-06,0.0
+Tata Power Company Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Power Company Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Power Company Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,Tata Sons Private Limited,corporate,True,32.214491,32.214321,0.00017
+Tata Steel Ltd,Life Insurance Corporation Of India,corporate,False,6.391259,6.391259,0.0
+Tata Steel Ltd,Sbi Nifty 50 Etf,corporate,False,3.990009,3.990009,0.0
+Tata Steel Ltd,Icici Prudential Value Fund,corporate,False,2.322707,2.322707,0.0
+Tata Steel Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,2.12,2.12,0.0
+Tata Steel Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,1.89,1.89,0.0
+Tata Steel Ltd,Uti Nifty 50 Etf,corporate,False,1.460003,1.460003,0.0
+Tata Steel Ltd,Ewart Investments Limited,corporate,True,0.185851,0.185847,4e-06
+Tata Steel Ltd,Rujuvalika Investments Limited,corporate,True,0.09,0.09,0.0
+Tata Steel Ltd,Tata Industries Limited,corporate,True,0.088634,0.088634,0.0
+Tata Steel Ltd,Rekha Jhunjhunwala,individual,False,0.005853,0.005853,0.0
+Tata Steel Ltd,Tmf Holdings Limited,corporate,True,0.002195,0.002195,0.0
+Tata Steel Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.000279,0.000279,0.0
+Tata Steel Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000119,0.000119,0.0
+Tata Steel Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000103,0.000103,0.0
+Tata Steel Ltd,Kotak Flexicap Fund,corporate,False,8.2e-05,8.2e-05,0.0
+Tata Steel Ltd,NPS TRUST A/C,corporate,False,7.9e-05,7.9e-05,0.0
+Tata Steel Ltd,Franklin India Flexi Cap Fund,corporate,False,6e-05,6e-05,0.0
+Tata Steel Ltd,"Acacia Partners, Lp",corporate,False,4.1e-05,4.1e-05,0.0
+Tata Steel Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,2.8e-05,2.8e-05,0.0
+Tata Steel Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.8e-05,1.8e-05,0.0
+Tata Steel Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1.6e-05,1.6e-05,0.0
+Tata Steel Ltd,Tata International Limited,corporate,True,1e-05,1e-05,0.0
+Tata Steel Ltd,Siddhartha Yog,individual,False,9e-06,9e-06,0.0
+Tata Steel Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,5e-06,5e-06,0.0
+Tata Steel Ltd,SBI Large Cap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Steel Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Steel Ltd,Governement of Singapore,corporate,False,1e-06,1e-06,0.0
+Tata Steel Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Steel Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,Tata Sons Private Limited,corporate,True,23.00153,23.001429,0.000102
+Tata Technologies Ltd,Life Insurance Corporation Of India,corporate,False,3.884319,3.884318,0.0
+Tata Technologies Ltd,Tata Enterprises Overseas Limited,corporate,False,1.74,1.74,0.0
+Tata Technologies Ltd,Icici Prudential Value Fund,corporate,False,1.525741,1.525741,0.0
+Tata Technologies Ltd,Kotak Mahindra Trustee Co Ltd A/C Kotak Multicap Fund,corporate,False,1.51,1.51,0.0
+Tata Technologies Ltd,Sbi Nifty 50 Etf,corporate,False,1.210873,1.210873,0.0
+Tata Technologies Ltd,Patrick Raymon Mcgoldrick,individual,False,1.13,1.13,0.0
+Tata Technologies Ltd,Tata Industries Limited,corporate,True,1.045516,1.045516,0.0
+Tata Technologies Ltd,Rekha Jhunjhunwala,individual,False,0.709446,0.709446,0.0
+Tata Technologies Ltd,Tmf Holdings Limited,corporate,True,0.080776,0.080776,0.0
+Tata Technologies Ltd,Ewart Investments Limited,corporate,True,0.051138,0.051136,2e-06
+Tata Technologies Ltd,Tata International Limited,corporate,True,0.000368,0.000368,0.0
+Tata Technologies Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.000294,0.000294,0.0
+Tata Technologies Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000198,0.000198,0.0
+Tata Technologies Ltd,NPS TRUST A/C,corporate,False,0.000135,0.000135,0.0
+Tata Technologies Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000103,0.000103,0.0
+Tata Technologies Ltd,Kotak Flexicap Fund,corporate,False,8.6e-05,8.6e-05,0.0
+Tata Technologies Ltd,Nahar Retail Trading Services Limited,corporate,True,5.9e-05,5.9e-05,0.0
+Tata Technologies Ltd,SBI Large Cap Fund,corporate,False,5.1e-05,5.1e-05,0.0
+Tata Technologies Ltd,"Acacia Partners, Lp",corporate,False,4.3e-05,4.3e-05,0.0
+Tata Technologies Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,2.3e-05,2.3e-05,0.0
+Tata Technologies Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,2.1e-05,2.1e-05,0.0
+Tata Technologies Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,2e-05,2e-05,0.0
+Tata Technologies Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,1.9e-05,1.9e-05,0.0
+Tata Technologies Ltd,Governement of Singapore,corporate,False,1.9e-05,1.9e-05,0.0
+Tata Technologies Ltd,Uti Nifty 50 Etf,corporate,False,1.6e-05,1.6e-05,0.0
+Tata Technologies Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.3e-05,1.3e-05,0.0
+Tata Technologies Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1.2e-05,1.2e-05,0.0
+Tata Technologies Ltd,Siddhartha Yog,individual,False,5e-06,5e-06,0.0
+Tata Technologies Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,3e-06,3e-06,0.0
+Tata Technologies Ltd,Rujuvalika Investments Limited,corporate,True,1e-06,1e-06,0.0
+Tata Technologies Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Technologies Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Tata Teleservices Limited,corporate,True,48.3,48.3,0.0
+Tata Teleservices (Maharashtra) Ltd,Tata Sons Private Limited,corporate,True,22.544574,22.544468,0.000107
+Tata Teleservices (Maharashtra) Ltd,Life Insurance Corporation Of India,corporate,False,0.324535,0.324524,1.1e-05
+Tata Teleservices (Maharashtra) Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.135437,0.135432,5e-06
+Tata Teleservices (Maharashtra) Ltd,NPS TRUST A/C,corporate,False,0.093963,0.09396,3e-06
+Tata Teleservices (Maharashtra) Ltd,Franklin India Flexi Cap Fund,corporate,False,0.071282,0.07128,2e-06
+Tata Teleservices (Maharashtra) Ltd,Tata Industries Limited,corporate,True,0.009142,0.009142,0.0
+Tata Teleservices (Maharashtra) Ltd,Ewart Investments Limited,corporate,True,0.0049,0.0049,0.0
+Tata Teleservices (Maharashtra) Ltd,Sbi Nifty 50 Etf,corporate,False,0.003158,0.003158,0.0
+Tata Teleservices (Maharashtra) Ltd,Icici Prudential Value Fund,corporate,False,0.001843,0.001842,0.0
+Tata Teleservices (Maharashtra) Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.001677,0.001677,0.0
+Tata Teleservices (Maharashtra) Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.001495,0.001495,0.0
+Tata Teleservices (Maharashtra) Ltd,Uti Nifty 50 Etf,corporate,False,0.001155,0.001155,0.0
+Tata Teleservices (Maharashtra) Ltd,Rujuvalika Investments Limited,corporate,True,7.1e-05,7.1e-05,0.0
+Tata Teleservices (Maharashtra) Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,1.1e-05,1.1e-05,0.0
+Tata Teleservices (Maharashtra) Ltd,Rekha Jhunjhunwala,individual,False,5e-06,5e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,Nahar Retail Trading Services Limited,corporate,True,4e-06,4e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,Kotak Flexicap Fund,corporate,False,3e-06,3e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,Tmf Holdings Limited,corporate,True,2e-06,2e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,"Acacia Partners, Lp",corporate,False,2e-06,2e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,1e-06,1e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,SBI Life Insurance Co. Ltd,corporate,False,1e-06,1e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,1e-06,1e-06,0.0
+Tata Teleservices (Maharashtra) Ltd,Siddhartha Yog,individual,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Tata Teleservices (Maharashtra) Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Tejas Networks Ltd,Panatone Finvest Limited,corporate,True,53.33,53.33,0.0
+Tejas Networks Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,2.89,2.89,0.0
+Titan Company Ltd,Tamilnadu Industrial Development Corporation Ltd,corporate,True,27.88,27.88,0.0
+Titan Company Ltd,Tata Sons Private Limited,corporate,True,22.806008,22.804679,0.001329
+Titan Company Ltd,Rekha Jhunjhunwala,individual,False,4.240001,4.240001,0.0
+Titan Company Ltd,Life Insurance Corporation Of India,corporate,False,2.172898,2.172896,2e-06
+Titan Company Ltd,Sbi Nifty 50 Etf,corporate,False,1.800524,1.800524,0.0
+Titan Company Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,1.730168,1.730168,0.0
+Titan Company Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,1.260033,1.260033,0.0
+Titan Company Ltd,Uti Nifty 50 Etf,corporate,False,1.110161,1.110161,0.0
+Titan Company Ltd,Ewart Investments Limited,corporate,True,0.59354,0.593516,2.4e-05
+Titan Company Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.145836,0.14576,7.6e-05
+Titan Company Ltd,Icici Prudential Value Fund,corporate,False,0.063835,0.063802,3.3e-05
+Titan Company Ltd,Piem Hotels Limited,corporate,True,0.05,0.05,0.0
+Titan Company Ltd,Kotak Flexicap Fund,corporate,False,0.042772,0.04275,2.2e-05
+Titan Company Ltd,"Acacia Partners, Lp",corporate,False,0.021465,0.021454,1.1e-05
+Titan Company Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.000721,0.00072,1e-06
+Titan Company Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000631,0.000631,0.0
+Titan Company Ltd,Tata Industries Limited,corporate,True,0.000534,0.000534,0.0
+Titan Company Ltd,NPS TRUST A/C,corporate,False,0.000479,0.000479,0.0
+Titan Company Ltd,Franklin India Flexi Cap Fund,corporate,False,0.000363,0.000363,0.0
+Titan Company Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000209,0.000209,0.0
+Titan Company Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.000187,0.000186,0.0
+Titan Company Ltd,SBI Life Insurance Co. Ltd,corporate,False,0.000138,0.000138,0.0
+Titan Company Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,9.8e-05,9.8e-05,0.0
+Titan Company Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,7.3e-05,7.3e-05,0.0
+Titan Company Ltd,Nippon Life India Trustee Ltd,corporate,False,7.2e-05,7.2e-05,0.0
+Titan Company Ltd,Siddhartha Yog,individual,False,5.7e-05,5.7e-05,0.0
+Titan Company Ltd,Kotak Midcap Fund,corporate,False,2.9e-05,2.9e-05,0.0
+Titan Company Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,2.4e-05,2.4e-05,0.0
+Titan Company Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,2e-05,2e-05,0.0
+Titan Company Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1.7e-05,1.7e-05,0.0
+Titan Company Ltd,DSP Midcap Fund,corporate,False,1.6e-05,1.6e-05,0.0
+Titan Company Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,1.3e-05,1.3e-05,0.0
+Titan Company Ltd,Vanguard Total International Stock Index Fund,corporate,False,1.3e-05,1.3e-05,0.0
+Titan Company Ltd,Rujuvalika Investments Limited,corporate,True,9e-06,9e-06,0.0
+Titan Company Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Titan Company Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Titan Company Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Titan Company Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Titan Company Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+Trent Ltd,Tata Sons Private Limited,corporate,True,35.436576,35.434475,0.002101
+Trent Ltd,Siddhartha Yog,individual,False,4.53,4.53,0.0
+Trent Ltd,Life Insurance Corporation Of India,corporate,False,3.035624,3.03562,4e-06
+Trent Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,2.59,2.59,0.0
+Trent Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,2.371405,2.371404,1e-06
+Trent Ltd,Sbi Nifty 50 Etf,corporate,False,2.131012,2.131011,1e-06
+Trent Ltd,SBI Life Insurance Co. Ltd,corporate,False,1.760178,1.760178,0.0
+Trent Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,1.690299,1.690299,0.0
+Trent Ltd,Uti Nifty 50 Etf,corporate,False,1.310293,1.310293,0.0
+Trent Ltd,Ewart Investments Limited,corporate,True,0.348232,0.348184,4.8e-05
+Trent Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.003443,0.003441,2e-06
+Trent Ltd,Icici Prudential Value Fund,corporate,False,0.001968,0.001967,1e-06
+Trent Ltd,Nahar Retail Trading Services Limited,corporate,True,0.001285,0.001284,1e-06
+Trent Ltd,Kotak Flexicap Fund,corporate,False,0.00101,0.001009,1e-06
+Trent Ltd,NPS TRUST A/C,corporate,False,0.000975,0.000974,1e-06
+Trent Ltd,Franklin India Flexi Cap Fund,corporate,False,0.00074,0.000739,1e-06
+Trent Ltd,"Acacia Partners, Lp",corporate,False,0.000507,0.000506,0.0
+Trent Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000426,0.000426,0.0
+Trent Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.00038,0.00038,0.0
+Trent Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.0002,0.0002,0.0
+Trent Ltd,Tata Industries Limited,corporate,True,0.000134,0.000134,0.0
+Trent Ltd,Rujuvalika Investments Limited,corporate,True,1.8e-05,1.8e-05,0.0
+Trent Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,2e-06,2e-06,0.0
+Trent Ltd,Nippon Life India Trustee Ltd,corporate,False,2e-06,2e-06,0.0
+Trent Ltd,Rekha Jhunjhunwala,individual,False,1e-06,1e-06,0.0
+Trent Ltd,Kotak Midcap Fund,corporate,False,1e-06,1e-06,0.0
+Trent Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,1e-06,1e-06,0.0
+Trent Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,1e-06,1e-06,0.0
+Trent Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Trent Ltd,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+Trent Ltd,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+Trent Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+Trent Ltd,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Trent Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Trent Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Trent Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Trent Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,Tata Sons Private Limited,corporate,True,10.98854,10.988305,0.000235
+TRF Ltd-$,Roopa Corporate Services Pvt. Ltd,corporate,False,2.84,2.84,0.0
+TRF Ltd-$,Life Insurance Corporation Of India,corporate,False,2.180094,2.180058,3.5e-05
+TRF Ltd-$,Guttikonda Vara Lakshmi,individual,False,2.12,2.12,0.0
+TRF Ltd-$,Litton System Inc,corporate,False,1.98,1.98,0.0
+TRF Ltd-$,Chetan Gopaldas Cholera,individual,False,1.45,1.45,0.0
+TRF Ltd-$,Sbi Nifty 50 Etf,corporate,False,1.361014,1.360992,2.2e-05
+TRF Ltd-$,Ravi Shankaran,individual,False,1.19,1.19,0.0
+TRF Ltd-$,O.P.J Financial Services (P) Ltd,corporate,False,1.09,1.09,0.0
+TRF Ltd-$,Investor Education and Protection Fund Authority,corporate,False,1.08,1.08,0.0
+TRF Ltd-$,Icici Prudential Value Fund,corporate,False,0.792288,0.792275,1.3e-05
+TRF Ltd-$,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.723144,0.723132,1.2e-05
+TRF Ltd-$,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.644689,0.644679,1e-05
+TRF Ltd-$,Uti Nifty 50 Etf,corporate,False,0.498015,0.498007,8e-06
+TRF Ltd-$,Ewart Investments Limited,corporate,True,0.063395,0.063392,2e-06
+TRF Ltd-$,Tata Industries Limited,corporate,True,0.050234,0.050233,0.0
+TRF Ltd-$,Rujuvalika Investments Limited,corporate,True,0.030699,0.030699,0.0
+TRF Ltd-$,Rekha Jhunjhunwala,individual,False,0.001996,0.001996,0.0
+TRF Ltd-$,Tmf Holdings Limited,corporate,True,0.000749,0.000749,0.0
+TRF Ltd-$,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,9.5e-05,9.5e-05,0.0
+TRF Ltd-$,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,4e-05,4e-05,0.0
+TRF Ltd-$,Nahar Retail Trading Services Limited,corporate,True,3.5e-05,3.5e-05,0.0
+TRF Ltd-$,Kotak Flexicap Fund,corporate,False,2.8e-05,2.8e-05,0.0
+TRF Ltd-$,NPS TRUST A/C,corporate,False,2.7e-05,2.7e-05,0.0
+TRF Ltd-$,Franklin India Flexi Cap Fund,corporate,False,2e-05,2e-05,0.0
+TRF Ltd-$,"Acacia Partners, Lp",corporate,False,1.4e-05,1.4e-05,0.0
+TRF Ltd-$,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,9e-06,9e-06,0.0
+TRF Ltd-$,SBI Life Insurance Co. Ltd,corporate,False,6e-06,6e-06,0.0
+TRF Ltd-$,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,5e-06,5e-06,0.0
+TRF Ltd-$,Tata International Limited,corporate,True,3e-06,3e-06,0.0
+TRF Ltd-$,Siddhartha Yog,individual,False,3e-06,3e-06,0.0
+TRF Ltd-$,Icici Prudential Balanced Advantage Fund,corporate,False,2e-06,2e-06,0.0
+TRF Ltd-$,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,Governement of Singapore,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,Nippon Life India Trustee Ltd,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,Kotak Midcap Fund,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,Tata AIA Life Insurance Co Ltd,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,SBI LARGE & MIDCAP FUND,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,DSP Midcap Fund,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,ICICI Prudential Life Insurance Company Limited,corporate,False,0.0,0.0,0.0
+TRF Ltd-$,Vanguard Total International Stock Index Fund,corporate,False,0.0,0.0,0.0
+Tube Investments of India Ltd,AMBADI INVESTMENTS LIMITED,corporate,True,35.63,35.63,0.0
+Tube Investments of India Ltd,"SMALLCAP WORLD FUND, INC",corporate,False,4.31,4.31,0.0
+Tube Investments of India Ltd,NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND,corporate,False,3.84,3.84,0.0
+Tube Investments of India Ltd,MOTILAL OSWAL NIFTY MIDCAP 100 ETF,corporate,False,2.29,2.29,0.0
+Tube Investments of India Ltd,Life Insurance Corporation Of India,corporate,False,1.85,1.85,0.0
+Tube Investments of India Ltd,DSP FLEXI CAP FUND,corporate,False,1.18,1.18,0.0
+Tube Investments of India Ltd,FRANKLIN ASIAN EQUITY FUND,corporate,False,1.16,1.16,0.0
+Tube Investments of India Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,1.09,1.09,0.0
+Tube Investments of India Ltd,UTI NIFTY500 SHARIAH INDEX FUND,corporate,False,1.09,1.09,0.0
+Tube Investments of India Ltd,NPS TRUST- A/C HDFC PENSION FUND MANAGEMENT LIMITE,corporate,False,1.02,1.02,0.0
+Tube Investments of India Ltd,M A M ARUNACHALAM,individual,True,0.44,0.44,0.0
+Tube Investments of India Ltd,ARUN ALAGAPPAN,individual,True,0.39,0.39,0.0
+Tube Investments of India Ltd,MURUGAPPA EDUCATIONAL AND MEDICAL FOUNDATION,corporate,True,0.38,0.38,0.0
+Tube Investments of India Ltd,V ARUNACHALAM,individual,True,0.38,0.38,0.0
+Tube Investments of India Ltd,M.A.ALAGAPPAN,individual,True,0.37,0.37,0.0
+Tube Investments of India Ltd,Lakshmi Ramaswamy Family Trust,corporate,True,0.36,0.36,0.0
+Tube Investments of India Ltd,V NARAYANAN,individual,True,0.35,0.35,0.0
+Tube Investments of India Ltd,A VENKATACHALAM,individual,True,0.3,0.3,0.0
+Tube Investments of India Ltd,LAKSHMI CHOCKALINGAM,individual,True,0.29,0.29,0.0
+Tube Investments of India Ltd,Shambho Trust,corporate,True,0.29,0.29,0.0
+Tube Investments of India Ltd,M A MURUGAPPAN HOLDINGS LLP,corporate,True,0.28,0.28,0.0
+Tube Investments of India Ltd,Saraswathi Trust,corporate,True,0.28,0.28,0.0
+Tube Investments of India Ltd,Meenakshi Murugappan Family Trust,corporate,True,0.26,0.26,0.0
+Tube Investments of India Ltd,M M Muthiah Family Trust,corporate,True,0.25,0.25,0.0
+Tube Investments of India Ltd,M M Veerappan Family Trust,corporate,True,0.24,0.24,0.0
+Tube Investments of India Ltd,M V Muthiah Family Trust,corporate,True,0.24,0.24,0.0
+Tube Investments of India Ltd,M V Subramanian Family Trust,corporate,True,0.24,0.24,0.0
+Tube Investments of India Ltd,ARUN VENKATACHALAM,individual,True,0.23,0.23,0.0
+Tube Investments of India Ltd,M A ALAGAPPAN HOLDINGS PRIVATE LIMITED,corporate,True,0.23,0.23,0.0
+Tube Investments of India Ltd,AR LAKSHMI ACHI TRUST,corporate,True,0.2,0.2,0.0
+Tube Investments of India Ltd,M M Venkatachalam Family Trust,corporate,True,0.2,0.2,0.0
+Tube Investments of India Ltd,MEYYAMMAI VENKATACHALAM,individual,True,0.19,0.19,0.0
+Tube Investments of India Ltd,VALLI ANNAMALAI,individual,True,0.19,0.19,0.0
+Tube Investments of India Ltd,M M MURUGAPPAN HUF,individual,True,0.18,0.18,0.0
+Tube Investments of India Ltd,Lakshmi Venkatachalam Family Trust,corporate,True,0.17,0.17,0.0
+Tube Investments of India Ltd,R.MUTHATHA,individual,True,0.17,0.17,0.0
+Tube Investments of India Ltd,M.M.MUTHIAH RESEARCH FOUNDATION,corporate,True,0.15,0.15,0.0
+Tube Investments of India Ltd,M M Muthiah HUF,individual,True,0.14,0.14,0.0
+Tube Investments of India Ltd,SIGAPI ARUNACHALAM,individual,True,0.12,0.12,0.0
+Tube Investments of India Ltd,Arun Murugappan Children's Trust,corporate,True,0.11,0.11,0.0
+Tube Investments of India Ltd,M A Alagappan Grand Children Trust,corporate,True,0.11,0.11,0.0
+Tube Investments of India Ltd,Murugappan Arunachalam Children Trust,corporate,True,0.11,0.11,0.0
+Tube Investments of India Ltd,M M Murugappan Family Trust,corporate,True,0.1,0.1,0.0
+Tube Investments of India Ltd,M M MURUGAPPAN,individual,True,0.09,0.09,0.0
+Tube Investments of India Ltd,M V SUBBIAH HUF,individual,True,0.09,0.09,0.0
+Tube Investments of India Ltd,M A Murugappan HUF,individual,True,0.08,0.08,0.0
+Tube Investments of India Ltd,M A ALAGAPPAN HUF,individual,True,0.07,0.07,0.0
+Tube Investments of India Ltd,M V SUBBIAH,individual,True,0.07,0.07,0.0
+Tube Investments of India Ltd,A M MEYYAMMAI,individual,True,0.04,0.04,0.0
+Tube Investments of India Ltd,A M M VELLAYAN SONS P LTD,corporate,True,0.02,0.02,0.0
+Tube Investments of India Ltd,M V SEETHA SUBBIAH,individual,True,0.02,0.02,0.0
+Tube Investments of India Ltd,DHRUV M ARUNACHALAM,individual,True,0.01,0.01,0.0
+Tube Investments of India Ltd,M V Seetha Subbiah Benefit Trust,corporate,True,0.01,0.01,0.0
+Tube Investments of India Ltd,PRANAV ALAGAPPAN,individual,True,0.01,0.01,0.0
+Tube Investments of India Ltd,Valli Subbiah Benefit Trust,corporate,True,0.01,0.01,0.0
+Tube Investments of India Ltd,VALLIAMMAI MURUGAPPAN,individual,True,0.01,0.01,0.0
+UltraTech Cement Ltd,Birla Group Holdings Private Limited,corporate,True,14.79018,14.766235,0.023945
+UltraTech Cement Ltd,IGH Holdings Private Limited,corporate,True,4.180917,4.173894,0.007022
+UltraTech Cement Ltd,Life Insurance Corporation Of India,corporate,False,3.835434,3.828984,0.00645
+UltraTech Cement Ltd,LICI NEW ENDOWMENT PLUS-SECURED FUND,corporate,False,3.01,3.01,0.0
+UltraTech Cement Ltd,ICICI PRUDENTIAL SENSEX ETF,corporate,False,2.58,2.58,0.0
+UltraTech Cement Ltd,NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT,corporate,False,2.57,2.57,0.0
+UltraTech Cement Ltd,P.T. Indo Bharat Rayon,corporate,True,2.445129,2.442329,0.0028
+UltraTech Cement Ltd,SBI ARBITRAGE OPPORTUNITIES FUND,corporate,False,1.73,1.73,0.0
+UltraTech Cement Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,1.422401,1.420009,0.002392
+UltraTech Cement Ltd,KOTAK MAHINDRA TRUSTEE CO LTD A/C KOTAK NIFTY 100,corporate,False,1.25,1.25,0.0
+UltraTech Cement Ltd,Sbi Nifty 50 Etf,corporate,False,0.964622,0.963,0.001622
+UltraTech Cement Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,0.820832,0.819452,0.00138
+UltraTech Cement Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.809588,0.808227,0.001361
+UltraTech Cement Ltd,Shamyak Investment Private Limited,corporate,False,0.803966,0.802614,0.001352
+UltraTech Cement Ltd,Padmavati Investment Private Limited,corporate,True,0.799137,0.798316,0.000821
+UltraTech Cement Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.711687,0.710938,0.00075
+UltraTech Cement Ltd,Theleme Master Fund Limited,corporate,False,0.65779,0.656684,0.001106
+UltraTech Cement Ltd,ICICI Prudential Nifty ETF,corporate,False,0.567836,0.566881,0.000955
+UltraTech Cement Ltd,Thai Rayon Public Company Limited,corporate,True,0.46355,0.462888,0.000662
+UltraTech Cement Ltd,Anatole Investments Pte Ltd,corporate,True,0.371061,0.370437,0.000624
+UltraTech Cement Ltd,Kumar Mangalam Birla,individual,True,0.357881,0.357632,0.000249
+UltraTech Cement Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.233167,0.232921,0.000246
+UltraTech Cement Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.182979,0.182786,0.000193
+UltraTech Cement Ltd,P T Sunrise Bumi Textiles,corporate,True,0.160515,0.160329,0.000186
+UltraTech Cement Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,0.118791,0.118592,0.0002
+UltraTech Cement Ltd,Birla Institute of Technology and Science,corporate,True,0.113504,0.113363,0.00014
+UltraTech Cement Ltd,P T Elegant Textile Industry,corporate,True,0.099739,0.099622,0.000117
+UltraTech Cement Ltd,Governement of Singapore,corporate,False,0.07531,0.075184,0.000127
+UltraTech Cement Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.071616,0.071495,0.00012
+UltraTech Cement Ltd,Rajashree Birla,individual,True,0.055842,0.055765,7.7e-05
+UltraTech Cement Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,0.038366,0.038301,6.5e-05
+UltraTech Cement Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,0.031545,0.031492,5.3e-05
+UltraTech Cement Ltd,Renuka Ventures Limited,corporate,True,0.022489,0.022451,3.8e-05
+UltraTech Cement Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.020746,0.020711,3.5e-05
+UltraTech Cement Ltd,Vasavadatta Bajaj,individual,True,0.011532,0.011513,1.9e-05
+UltraTech Cement Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.008551,0.008542,9e-06
+UltraTech Cement Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.006489,0.006478,1.1e-05
+UltraTech Cement Ltd,Neerja Birla,individual,True,0.005906,0.005896,1e-05
+UltraTech Cement Ltd,Advaitesha Birla,individual,True,0.005622,0.005613,9e-06
+UltraTech Cement Ltd,Ananyashree Birla,individual,True,0.005622,0.005613,9e-06
+UltraTech Cement Ltd,Aryaman Vikram Birla,individual,True,0.005622,0.005613,9e-06
+UltraTech Cement Ltd,Birla Consultants Limited,corporate,True,0.005622,0.005613,9e-06
+UltraTech Cement Ltd,Birla Industrial Finance India Limited,corporate,True,0.005622,0.005613,9e-06
+UltraTech Cement Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.003656,0.003652,4e-06
+UltraTech Cement Ltd,CANARA ROBECO MUTUAL FUND A/C CANARA ROBECO LARGE AND MID CAP FUND,corporate,False,0.001482,0.001482,0.0
+UltraTech Cement Ltd,INVESCO INDIA FOCUSED FUND,corporate,False,0.0013,0.0013,0.0
+UltraTech Cement Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Elss Tax Saver Fund,corporate,False,0.001067,0.001067,0.0
+UltraTech Cement Ltd,Bandhan Small Cap Fund,corporate,False,0.000996,0.000996,0.0
+UltraTech Cement Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.000824,0.000824,0.0
+UltraTech Cement Ltd,Birla Corporation Limited,corporate,False,0.000819,0.000819,0.0
+UltraTech Cement Ltd,Quant Mutual Fund - Quant Multi Cap Fund,corporate,False,0.000787,0.000787,0.0
+UltraTech Cement Ltd,HITESH SATISHCHANDRA DOSHI,individual,False,0.000769,0.000769,0.0
+UltraTech Cement Ltd,Goldman Sachs Funds - Goldman Sachs India Equity Portfolio,corporate,False,0.000708,0.000708,0.0
+UltraTech Cement Ltd,Hsbc Mutual Fund - Hsbc Value Fund,corporate,False,0.000506,0.000506,0.0
+UltraTech Cement Ltd,Hitesh Ramji Javeri,individual,False,0.000339,0.000339,0.0
+UltraTech Cement Ltd,Harsha Hitesh Javeri,individual,False,0.000252,0.000252,0.0
+UltraTech Cement Ltd,Zen Securities Ltd,corporate,False,0.000227,0.000227,0.0
+UltraTech Cement Ltd,Larsin Enterprises Corp,corporate,False,0.000206,0.000206,0.0
+UltraTech Cement Ltd,Malingos International Holdings Limited,corporate,False,0.000206,0.000206,0.0
+UltraTech Cement Ltd,Icici Prudential Smallcap Fund,corporate,False,0.000197,0.000197,0.0
+UltraTech Cement Ltd,Investor Education And Protection Fund Authority Ministry Of Corporate Affairs,corporate,False,0.000154,0.000154,0.0
+UltraTech Cement Ltd,Ramesh Chimanlal Shah,individual,False,0.000128,0.000128,0.0
+UltraTech Cement Ltd,French Wilbert Ltd,corporate,False,0.000114,0.000114,0.0
+UltraTech Cement Ltd,BIRLA EDUCATION TRUST,corporate,True,3.4e-05,3.4e-05,0.0
+UltraTech Cement Ltd,B. K. Birla Foundation,corporate,True,7e-06,7e-06,0.0
+Vodafone Idea Ltd,Department of Investment and Public Asset Management,corporate,False,49.0,49.0,0.0
+Vodafone Idea Ltd,EURO PACIFIC SECURITIES LTD,corporate,True,5.16,5.16,0.0
+Vodafone Idea Ltd,ORIANA INVESTMENTS PTE LTD,corporate,True,4.05,4.05,0.0
+Vodafone Idea Ltd,PRIME METALS LTD,corporate,True,2.54,2.54,0.0
+Vodafone Idea Ltd,MOBILVEST,corporate,True,1.55,1.55,0.0
+Vodafone Idea Ltd,VODAFONE TELECOMMUNICATIONS (INDIA) LIMITED,corporate,True,1.5,1.5,0.0
+Vodafone Idea Ltd,TRANS CRYSTAL LTD,corporate,True,1.35,1.35,0.0
+Vodafone Idea Ltd,OMEGA TELECOM HOLDINGS PRIVATE LIMITED,corporate,True,1.26,1.26,0.0
+Vodafone Idea Ltd,Birla Group Holdings Private Limited,corporate,True,1.251044,1.249595,0.00145
+Vodafone Idea Ltd,KOTAK MAHINDRA TRUSTEE CO LTD A/C KOTAK NIFTY MIDCAP 150 MOMENTUM 50 INDEX FUND,corporate,False,1.04,1.04,0.0
+Vodafone Idea Ltd,ASIAN TELECOMMUNICATIONS INVESTMENTS (MAURITIUS) LIMITED,corporate,True,0.9,0.9,0.0
+Vodafone Idea Ltd,ELAINE INVESTMENTS PTE LTD,corporate,True,0.79,0.79,0.0
+Vodafone Idea Ltd,AL-AMIN INVESTMENTS LTD,corporate,True,0.75,0.75,0.0
+Vodafone Idea Ltd,IGH Holdings Private Limited,corporate,True,0.713495,0.712934,0.000561
+Vodafone Idea Ltd,USHA MARTIN TELEMATICS LIMITED,corporate,True,0.65,0.65,0.0
+Vodafone Idea Ltd,CC II (MAURITIUS) INC,corporate,True,0.41,0.41,0.0
+Vodafone Idea Ltd,Life Insurance Corporation Of India,corporate,False,0.241539,0.241133,0.000406
+Vodafone Idea Ltd,Kumar Mangalam Birla,individual,True,0.098533,0.098519,1.4e-05
+Vodafone Idea Ltd,P.T. Indo Bharat Rayon,corporate,True,0.09445,0.094291,0.000159
+Vodafone Idea Ltd,"Citibank N.A. New York, NYADR Department",corporate,False,0.078234,0.078102,0.000132
+Vodafone Idea Ltd,Sbi Nifty 50 Etf,corporate,False,0.068315,0.0682,0.000115
+Vodafone Idea Ltd,Padmavati Investment Private Limited,corporate,True,0.061157,0.061108,4.8e-05
+Vodafone Idea Ltd,THE PUNJAB PRODUCE AND TRADING CO PVT LTD,corporate,False,0.055864,0.05582,4.4e-05
+Vodafone Idea Ltd,GAGANDEEP CREDIT CAPITAL PVT LTD,corporate,False,0.045147,0.045071,7.6e-05
+Vodafone Idea Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.044528,0.044453,7.5e-05
+Vodafone Idea Ltd,Shamyak Investment Private Limited,corporate,False,0.044219,0.044145,7.4e-05
+Vodafone Idea Ltd,Theleme Master Fund Limited,corporate,False,0.036179,0.036118,6.1e-05
+Vodafone Idea Ltd,"Morgan Guaranty Trust Company Of New York, Asdepositary",corporate,False,0.034387,0.034329,5.8e-05
+Vodafone Idea Ltd,ICICI Prudential Nifty ETF,corporate,False,0.031232,0.031179,5.3e-05
+Vodafone Idea Ltd,Governement of Singapore,corporate,False,0.0218,0.021764,3.7e-05
+Vodafone Idea Ltd,Thai Rayon Public Company Limited,corporate,True,0.021646,0.021609,3.6e-05
+Vodafone Idea Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,0.020731,0.020696,3.5e-05
+Vodafone Idea Ltd,Anatole Investments Pte Ltd,corporate,True,0.020409,0.020375,3.4e-05
+Vodafone Idea Ltd,GWALIOR WEBBING COMPANY PRIVATE LIMITED,corporate,False,0.018302,0.018288,1.4e-05
+Vodafone Idea Ltd,PRAKASH EDUCATIONAL SOCIETY,corporate,True,0.014349,0.014337,1.1e-05
+Vodafone Idea Ltd,Icici Prudential Large & Mid Cap Fund,corporate,False,0.011106,0.011087,1.9e-05
+Vodafone Idea Ltd,Birla Institute of Technology and Science,corporate,True,0.01099,0.010971,1.8e-05
+Vodafone Idea Ltd,Aditya Birla Sun Life Trustee Private Limited A/C - Aditya Birla Sun Life Large Cap Fund,corporate,False,0.009131,0.009116,1.5e-05
+Vodafone Idea Ltd,P T Sunrise Bumi Textiles,corporate,True,0.006945,0.006933,1.2e-05
+Vodafone Idea Ltd,TRUSTEE HOLDING SHARES UNDER THE SCHEME OF MERGER OF HIL/IGCL/IGFL ON BEHALF OF HINDALCO,corporate,True,0.006005,0.005995,1e-05
+Vodafone Idea Ltd,P T Elegant Textile Industry,corporate,True,0.004369,0.004361,7e-06
+Vodafone Idea Ltd,Rajashree Birla,individual,True,0.002721,0.002716,5e-06
+Vodafone Idea Ltd,Renuka Ventures Limited,corporate,True,0.001237,0.001235,2e-06
+Vodafone Idea Ltd,Vasavadatta Bajaj,individual,True,0.000701,0.0007,1e-06
+Vodafone Idea Ltd,BIRLA EDUCATIONAL INSTITUTION,corporate,True,0.00067,0.000669,1e-06
+Vodafone Idea Ltd,Aditya Vikram Kumarmangalam Birla Huf,individual,True,0.000556,0.000555,1e-06
+Vodafone Idea Ltd,Neerja Birla,individual,True,0.000391,0.000391,1e-06
+Vodafone Idea Ltd,Advaitesha Birla,individual,True,0.000309,0.000309,1e-06
+Vodafone Idea Ltd,Ananyashree Birla,individual,True,0.000309,0.000309,1e-06
+Vodafone Idea Ltd,Aryaman Vikram Birla,individual,True,0.000309,0.000309,1e-06
+Vodafone Idea Ltd,Birla Consultants Limited,corporate,True,0.000309,0.000309,1e-06
+Vodafone Idea Ltd,Birla Industrial Finance India Limited,corporate,True,0.000309,0.000309,1e-06
+Vodafone Idea Ltd,ESSEL MINING & INDUSTRIES LTD,corporate,True,0.000287,0.000287,0.0
+Voltas Ltd,Tata Sons Private Limited,corporate,True,28.773031,28.771498,0.001533
+Voltas Ltd,Life Insurance Corporation Of India,corporate,False,7.727514,7.727511,3e-06
+Voltas Ltd,NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT,corporate,False,5.79,5.79,0.0
+Voltas Ltd,Nippon Life India Trustee Ltd,corporate,False,5.73,5.73,0.0
+Voltas Ltd,Kotak Midcap Fund,corporate,False,2.29,2.29,0.0
+Voltas Ltd,SBI Life Insurance Co. Ltd,corporate,False,2.260157,2.260157,0.0
+Voltas Ltd,HDFC LIFE INSURANCE COMPANY LIMITED,corporate,False,1.92,1.92,0.0
+Voltas Ltd,Tata AIA Life Insurance Co Ltd,corporate,False,1.61,1.61,0.0
+Voltas Ltd,SBI LARGE & MIDCAP FUND,corporate,False,1.36,1.36,0.0
+Voltas Ltd,DSP Midcap Fund,corporate,False,1.28,1.28,0.0
+Voltas Ltd,ICICI Prudential Life Insurance Company Limited,corporate,False,1.02,1.02,0.0
+Voltas Ltd,Vanguard Total International Stock Index Fund,corporate,False,1.02,1.02,0.0
+Voltas Ltd,Ewart Investments Limited,corporate,True,0.628045,0.62801,3.5e-05
+Voltas Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund,corporate,False,0.002494,0.002493,1e-06
+Voltas Ltd,Life Insurance Corporation Of India - P & Gs Fund,corporate,False,0.002422,0.00242,2e-06
+Voltas Ltd,NPS TRUST A/C,corporate,False,0.001701,0.0017,1e-06
+Voltas Ltd,Icici Prudential Value Fund,corporate,False,0.001404,0.001403,1e-06
+Voltas Ltd,Franklin India Flexi Cap Fund,corporate,False,0.00129,0.00129,0.0
+Voltas Ltd,Nahar Retail Trading Services Limited,corporate,True,0.000904,0.000903,1e-06
+Voltas Ltd,Sbi Nifty 50 Etf,corporate,False,0.000784,0.000784,1e-06
+Voltas Ltd,Kotak Flexicap Fund,corporate,False,0.00071,0.00071,1e-06
+Voltas Ltd,"Acacia Partners, Lp",corporate,False,0.000356,0.000356,0.0
+Voltas Ltd,Hdfc Trustee Company Limited -Hdfc Flexi Cap Fund,corporate,False,0.000318,0.000317,0.0
+Voltas Ltd,Nps Trust- A/C Lic Pension Fund Scheme - State Govt,corporate,False,0.000283,0.000283,0.0
+Voltas Ltd,Uti Nifty 50 Etf,corporate,False,0.000242,0.000242,0.0
+Voltas Ltd,Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt,corporate,False,0.000241,0.000241,0.0
+Voltas Ltd,Tata Industries Limited,corporate,True,0.000193,0.000193,0.0
+Voltas Ltd,Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund,corporate,False,0.000141,0.000141,0.0
+Voltas Ltd,Siddhartha Yog,individual,False,8.2e-05,8.2e-05,0.0
+Voltas Ltd,Icici Prudential Balanced Advantage Fund,corporate,False,4.7e-05,4.7e-05,0.0
+Voltas Ltd,Rujuvalika Investments Limited,corporate,True,1.3e-05,1.3e-05,0.0
+Voltas Ltd,Rekha Jhunjhunwala,individual,False,1e-06,1e-06,0.0
+Voltas Ltd,Tmf Holdings Limited,corporate,True,0.0,0.0,0.0
+Voltas Ltd,Tata International Limited,corporate,True,0.0,0.0,0.0
+Voltas Ltd,SBI Large Cap Fund,corporate,False,0.0,0.0,0.0
+Voltas Ltd,HDFC Trustee Company Ltd./HDFC Large Cap Fund,corporate,False,0.0,0.0,0.0
+Voltas Ltd,Governement of Singapore,corporate,False,0.0,0.0,0.0

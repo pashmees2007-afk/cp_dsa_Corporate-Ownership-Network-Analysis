@@ -12,7 +12,8 @@ Follows `CP_Implementation_Plan.docx`.
 | 3. Entity resolution | **Done** |
 | 4. Graph construction and chain traversal | **Done** — first end-to-end build |
 | 5. Cycle and structure detection | **Done** |
-| 6–8 | Not started |
+| 6. Cross-holding and control metrics | **Done** |
+| 7–8 | Not started |
 
 ### Phase 1 deliverable
 
@@ -66,6 +67,17 @@ python -m ownership.structure          # print and write the anomaly report
 pip install -r requirements-dev.txt    # NetworkX, for the verification tests only
 ```
 
+### Phase 6 deliverable
+
+- Control-concentration metrics per company and per family: [`data/control_metrics.json`](data/control_metrics.json). Family stake (mean): Tata 42.5%, Aditya Birla 35.5%, Murugappa 34.4%.
+- Exact integrated stakes through cross-holdings, from stake matrices of the circular groups summed by repeated multiplication: [`ownership/control.py`](ownership/control.py), [`ownership/matrix.py`](ownership/matrix.py); every owner–company pair in [`data/integrated_ownership.csv`](data/integrated_ownership.csv). Loops add at most 0.055 percentage points to any company.
+- Chains stored as trees rooted at beneficial owners: [`ownership/forest.py`](ownership/forest.py).
+- Method and findings: [`docs/control.md`](docs/control.md).
+
+```
+python -m ownership.control     # family table + data files
+```
+
 ## Reproducing
 
 ```
@@ -76,4 +88,4 @@ python scripts/p1_fetch.py public
 python scripts/p1_build_dataset.py    # writes data/ownership_relations.csv
 ```
 
-Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–5 use only the Python 3.11 standard library; NetworkX is used only by the tests.
+Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–6 use only the Python 3.11 standard library; NetworkX and NumPy are used only by the tests (`requirements-dev.txt`).
