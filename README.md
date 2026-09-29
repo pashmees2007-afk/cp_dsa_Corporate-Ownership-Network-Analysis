@@ -3,6 +3,8 @@
 Course project (Data Structures and Algorithms) — Pashmee Salunkhe, Roll No. 17.
 Follows `CP_Implementation_Plan.docx`.
 
+**Project report: [`docs/report.md`](docs/report.md)** — results, evaluation against the plan's five criteria, complexity analysis with measured data.
+
 ## Status
 
 | Phase | Status |
@@ -14,7 +16,7 @@ Follows `CP_Implementation_Plan.docx`.
 | 5. Cycle and structure detection | **Done** |
 | 6. Cross-holding and control metrics | **Done** |
 | 7. Interface and visualisation | **Done** — `streamlit run app.py` |
-| 8 | Not started |
+| 8. Evaluation and documentation | **Done** — [project report](docs/report.md) |
 
 ### Phase 1 deliverable
 
@@ -88,6 +90,12 @@ python -m ownership.control     # family table + data files
 - Works offline (vis-network inlined). Screenshots and design notes: [`docs/app.md`](docs/app.md).
 
 ![Company view](docs/img/company_view.png)
+
+### Phase 8 deliverable
+
+- Project report with the complexity analysis and measured data: [`docs/report.md`](docs/report.md).
+- Correctness: every algorithm agrees with NetworkX / NumPy on the real graph and synthetic graphs up to 5,000 nodes, including all 313,822 real ownership chains: [`data/verification.json`](data/verification.json) (`python -m ownership.verify`).
+- Scalability: all O(V + E) algorithms measure a log-log slope of 1.04–1.12 from 100 to 10,000 nodes; adjacency list vs matrix at 5,000 nodes: 113× less memory, ~3,100× faster BFS. [`data/benchmark.json`](data/benchmark.json) (`python -m ownership.benchmark`).
 
 ## Reproducing
 

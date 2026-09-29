@@ -1,2 +1,3 @@
-networkx>=3.0   # tests only: cross-checks the hand-written graph algorithms
-numpy>=1.24     # tests only: cross-checks the hand-written matrix computations
+networkx>=3.0     # tests and ownership.verify: cross-checks the hand-written graph algorithms
+numpy>=1.24       # tests and ownership.verify: cross-checks the hand-written matrix computations
+matplotlib>=3.7   # ownership.benchmark: report figures
