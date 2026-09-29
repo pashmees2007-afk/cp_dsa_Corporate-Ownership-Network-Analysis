@@ -1,0 +1,230 @@
+{
+  "sizes": [
+    {
+      "n": 100,
+      "V": 100,
+      "E": 236,
+      "companies": 11,
+      "build": 0.000211682999633922,
+      "dfs": 5.6042999858618714e-05,
+      "tarjan": 8.021999974516802e-05,
+      "components": 5.86989999646903e-05,
+      "bfs": 8.828454528239407e-06,
+      "chains_time": 0.0002935840002464829,
+      "chains": 279,
+      "chain_entities": 683,
+      "scc_sizes": [
+        4
+      ],
+      "integrated": 5.113981817637316e-05,
+      "mem_list_bytes": 41168,
+      "mem_list_lean_bytes": 11008,
+      "bfs_list_one": 1.902900021377718e-05,
+      "mem_matrix_bytes": 100128,
+      "bfs_matrix_one": 0.00030727700004717917
+    },
+    {
+      "n": 250,
+      "V": 250,
+      "E": 583,
+      "companies": 28,
+      "build": 0.0005333559997779957,
+      "dfs": 0.0001353339998786396,
+      "tarjan": 0.00019908100011889474,
+      "components": 0.0001538330002404109,
+      "bfs": 1.2147550000918272e-05,
+      "chains_time": 0.000596843000039371,
+      "chains": 561,
+      "chain_entities": 1274,
+      "scc_sizes": [
+        7
+      ],
+      "integrated": 0.00012089829999695212,
+      "mem_list_bytes": 96656,
+      "mem_list_lean_bytes": 21536,
+      "bfs_list_one": 5.111900009069359e-05,
+      "mem_matrix_bytes": 566656,
+      "bfs_matrix_one": 0.0018559020004431659
+    },
+    {
+      "n": 500,
+      "V": 500,
+      "E": 1177,
+      "companies": 57,
+      "build": 0.0011670379999486613,
+      "dfs": 0.0002777740000965423,
+      "tarjan": 0.0003934709998247854,
+      "components": 0.0003382019999662589,
+      "bfs": 1.5565349985990907e-05,
+      "chains_time": 0.001106106999941403,
+      "chains": 1065,
+      "chain_entities": 2369,
+      "scc_sizes": [
+        6
+      ],
+      "integrated": 0.0002687731999913012,
+      "mem_list_bytes": 195568,
+      "mem_list_lean_bytes": 78784,
+      "bfs_list_one": 7.331300002988428e-05,
+      "mem_matrix_bytes": 2203956,
+      "bfs_matrix_one": 0.006116525999914302
+    },
+    {
+      "n": 1000,
+      "V": 1000,
+      "E": 2332,
+      "companies": 114,
+      "build": 0.002329377000023669,
+      "dfs": 0.0005569149998336798,
+      "tarjan": 0.0007726120002189418,
+      "components": 0.0006554399997185101,
+      "bfs": 2.994179999404878e-05,
+      "chains_time": 0.0023186779999377904,
+      "chains": 2104,
+      "chain_entities": 4634,
+      "scc_sizes": [
+        6,
+        4,
+        3
+      ],
+      "integrated": 0.0005432821500107821,
+      "mem_list_bytes": 393640,
+      "mem_list_lean_bytes": 164248,
+      "bfs_list_one": 0.0001301209999837738,
+      "mem_matrix_bytes": 8663572,
+      "bfs_matrix_one": 0.0217210329997215
+    },
+    {
+      "n": 2500,
+      "V": 2500,
+      "E": 5823,
+      "companies": 285,
+      "build": 0.005761711000104697,
+      "dfs": 0.001513167000211979,
+      "tarjan": 0.0023752400002194918,
+      "components": 0.00186955700019098,
+      "bfs": 8.992509999643517e-05,
+      "chains_time": 0.006104877000325359,
+      "chains": 5409,
+      "chain_entities": 12131,
+      "scc_sizes": [
+        27,
+        5
+      ],
+      "integrated": 0.0013953798499869662,
+      "mem_list_bytes": 945568,
+      "mem_list_lean_bytes": 453944,
+      "bfs_list_one": 0.0002771139998003491,
+      "mem_matrix_bytes": 53535188,
+      "bfs_matrix_one": 0.2345671649995893
+    },
+    {
+      "n": 5000,
+      "V": 5000,
+      "E": 11608,
+      "companies": 570,
+      "build": 0.013854657000138104,
+      "dfs": 0.0034134809998249693,
+      "tarjan": 0.004878481000105239,
+      "components": 0.004575404999741295,
+      "bfs": 0.00021400094999535213,
+      "chains_time": 0.01133737000009205,
+      "chains": 10675,
+      "chain_entities": 23847,
+      "scc_sizes": [
+        77
+      ],
+      "integrated": 0.0029073676499820067,
+      "mem_list_bytes": 1892664,
+      "mem_list_lean_bytes": 1022992,
+      "bfs_list_one": 0.0008385040000575827,
+      "mem_matrix_bytes": 213318484,
+      "bfs_matrix_one": 2.6362631239999246
+    },
+    {
+      "n": 10000,
+      "V": 10000,
+      "E": 23282,
+      "companies": 1140,
+      "build": 0.02704958300000726,
+      "dfs": 0.0068012179999641376,
+      "tarjan": 0.009423637000054441,
+      "components": 0.01043137700025909,
+      "bfs": 0.00035566290000588197,
+      "chains_time": 0.025450876999911998,
+      "chains": 21807,
+      "chain_entities": 49180,
+      "scc_sizes": [
+        37,
+        33,
+        5
+      ],
+      "integrated": 0.00592930160000833,
+      "mem_list_bytes": 3794048,
+      "mem_list_lean_bytes": 2166688,
+      "bfs_list_one": 0.0016564170000492595,
+      "mem_matrix_bytes_estimated": 800000000
+    }
+  ],
+  "fits": {
+    "build": {
+      "x": "V+E",
+      "loglog_slope": 1.06,
+      "ns_per_element": 809.9,
+      "r2_linear": 0.9978
+    },
+    "dfs": {
+      "x": "V+E",
+      "loglog_slope": 1.055,
+      "ns_per_element": 203.1,
+      "r2_linear": 0.9985
+    },
+    "tarjan": {
+      "x": "V+E",
+      "loglog_slope": 1.053,
+      "ns_per_element": 284.7,
+      "r2_linear": 0.9991
+    },
+    "components": {
+      "x": "V+E",
+      "loglog_slope": 1.124,
+      "ns_per_element": 300.9,
+      "r2_linear": 0.9895
+    },
+    "bfs": {
+      "x": "V+E",
+      "loglog_slope": 0.868,
+      "ns_per_element": 11.1,
+      "r2_linear": 0.989
+    },
+    "integrated": {
+      "x": "V+E",
+      "loglog_slope": 1.041,
+      "ns_per_element": 176.9,
+      "r2_linear": 0.9996
+    },
+    "chains": {
+      "x": "entities in output chains",
+      "loglog_slope": 1.032,
+      "ns_per_element": 509.0,
+      "r2_linear": 0.9983
+    },
+    "bfs_matrix_one": {
+      "x": "V",
+      "loglog_slope": 2.249
+    },
+    "bfs_list_one": {
+      "x": "V+E",
+      "loglog_slope": 0.95
+    },
+    "mem_matrix": {
+      "x": "V",
+      "loglog_slope": 1.963
+    },
+    "mem_list": {
+      "x": "V+E",
+      "loglog_slope": 0.987
+    }
+  },
+  "machine_note": "single run on the development container; absolute times vary by machine"
+}

@@ -1,0 +1,4 @@
+# Phases 1-6 need only the Python 3.11 standard library.
+# Phase 7 app (streamlit run app.py):
+streamlit>=1.40
+pyvis>=0.3.2

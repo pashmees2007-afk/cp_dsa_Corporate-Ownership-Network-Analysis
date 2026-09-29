@@ -1,0 +1,120 @@
+{
+  "name_variants": 664,
+  "distinct_match_keys": 420,
+  "entities": 405,
+  "entities_by_type": {
+    "individual": 129,
+    "corporate": 276
+  },
+  "listed_entities": 46,
+  "capacity_rules": {
+    "as_filed": 613,
+    "huf": 14,
+    "karta_capacity": 4,
+    "behalf_of": 10,
+    "trustee_of": 11,
+    "karta_of": 11,
+    "partner_of": 1
+  },
+  "merges": {
+    "truncation": 2,
+    "fuzzy": 13
+  },
+  "fuzzy_comparisons": {
+    "prefix_blocking": 646,
+    "all_pairs": 49974
+  },
+  "merged_pairs": [
+    {
+      "reason": "truncation",
+      "entity_type": "corporate",
+      "a": "nippon life india trustee ltd ac nippon india mul",
+      "b": "nippon life india trustee ltd ac nippon india multi cap fund"
+    },
+    {
+      "reason": "truncation",
+      "entity_type": "corporate",
+      "a": "nps trust ac uti pension fund limited scheme stat",
+      "b": "nps trust ac uti pension fund limited scheme state govt"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "arun murugappan childirens trust",
+      "b": "arun murugappan children trust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "arun murugappan childirens trust",
+      "b": "arun murugappan childrens trust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "arun murugappan children trust",
+      "b": "arun murugappan childrentrust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "arun murugappan childrens trust",
+      "b": "arun murugappan childrenstrust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "governement of singapore",
+      "b": "government of singapore"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "investor education and protection fund",
+      "b": "investor educaton and protection fund"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "ma alagappan grand children trust",
+      "b": "ma alagappan grandchildren trust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "murugappan arunachalam children trust",
+      "b": "murugappan arunachalam chldren trust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "murugappan arunachalam children trust",
+      "b": "murugappanarunachalamchildrentrust"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "corporate",
+      "a": "vikram holding",
+      "b": "vikram holdings"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "individual",
+      "a": "kumar mangalam birla",
+      "b": "kumarmangalam birla"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "individual",
+      "a": "lakshmi chocka lingam",
+      "b": "lakshmi chockalingam"
+    },
+    {
+      "reason": "fuzzy",
+      "entity_type": "individual",
+      "a": "vedhika meyyammai arunachalam",
+      "b": "vedika meyyammai arunachalam"
+    }
+  ],
+  "multi_variant_entities": 134
+}
