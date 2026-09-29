@@ -20,6 +20,7 @@ from .chains import MIN_EFFECTIVE, iter_chains, ownership_chains, ultimate_owner
 from .graph import OwnershipGraph
 from .ingest import read_records
 from .resolve import build_index
+from .structure import bfs_levels, circular_groups
 
 ROOT = Path(__file__).resolve().parent.parent
 DATASET = ROOT / "data" / "ownership_relations.csv"
@@ -98,9 +99,18 @@ def describe(p, query, top=10, min_effective=MIN_EFFECTIVE, out=sys.stdout):
         else:
             print("\nNo chain reaches a natural person: every chain ends at an entity whose own "
                   "owners are not in the dataset.", file=out)
+    if owners:
+        levels = bfs_levels(g, entity.id)
+        ent = owners[0][0]
+        print(f"Controller: {g.nodes[ent].name}, {levels[ent]} ownership layer{'s' if levels[ent] > 1 else ''} "
+              f"away (BFS minimum)", file=out)
+    group = next((c for c in circular_groups(g) if entity.id in c), None)
+    if group:
+        others = [g.nodes[n].name for n in group if n != entity.id]
+        print(f"\nPart of a circular-holding group of {len(group)} companies with: {', '.join(others)}", file=out)
     circular = [c for c in chains if c.end == "circular"]
     if circular:
-        print(f"\nCircular holdings on {len(circular)} chain(s), e.g.:\n       {format_chain(g, circular[0])}",
+        print(f"Circular holdings on {len(circular)} chain(s), e.g.:\n       {format_chain(g, circular[0])}",
               file=out)
     return chains
 

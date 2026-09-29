@@ -1,0 +1,1 @@
+networkx>=3.0   # tests only: cross-checks the hand-written graph algorithms

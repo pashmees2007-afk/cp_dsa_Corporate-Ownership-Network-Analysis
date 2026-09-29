@@ -1,0 +1,1361 @@
+{
+  "summary": {
+    "circular_groups": 4,
+    "companies_in_circular_groups": 18,
+    "back_edges_found": 19,
+    "acyclic": false,
+    "indirectly_controlled_companies": 9,
+    "control_depth_distribution": {
+      "1": 37,
+      "2": 9
+    },
+    "ownership_depth_distribution": {
+      "1": 4,
+      "2": 13,
+      "3": 9,
+      "4": 16,
+      "5": 4
+    },
+    "components_all_edges": [
+      403,
+      2
+    ],
+    "families_promoter_edges": 4,
+    "entities_outside_families": 157
+  },
+  "circular_holdings": [
+    {
+      "id": 1,
+      "size": 11,
+      "members": [
+        "Tata Capital Ltd",
+        "Tata Chemicals Ltd",
+        "Tata Consumer Products Ltd",
+        "Tata Investment Corporation Ltd",
+        "Tata Motors Ltd",
+        "Tata Motors Passenger Vehicles Ltd",
+        "Tata Power Company Ltd",
+        "Tata Steel Ltd",
+        "Titan Company Ltd",
+        "Trent Ltd",
+        "Voltas Ltd"
+      ],
+      "groups": [
+        "Tata"
+      ],
+      "internal_edges": 39,
+      "max_internal_stake_pct": 5.97,
+      "all_internal_stakes_below_0_01_pct": false,
+      "strongest_edges": [
+        {
+          "holder": "Tata Investment Corporation Ltd",
+          "held": "Tata Chemicals Ltd",
+          "stake_pct": 5.97
+        },
+        {
+          "holder": "Tata Investment Corporation Ltd",
+          "held": "Tata Consumer Products Ltd",
+          "stake_pct": 4.65
+        },
+        {
+          "holder": "Tata Investment Corporation Ltd",
+          "held": "Trent Ltd",
+          "stake_pct": 4.28
+        },
+        {
+          "holder": "Tata Investment Corporation Ltd",
+          "held": "Voltas Ltd",
+          "stake_pct": 3.01
+        },
+        {
+          "holder": "Tata Investment Corporation Ltd",
+          "held": "Titan Company Ltd",
+          "stake_pct": 2.01
+        }
+      ],
+      "mutual_holdings": [
+        {
+          "pair": [
+            "Tata Chemicals Ltd",
+            "Tata Investment Corporation Ltd"
+          ],
+          "stakes_pct": [
+            0.87,
+            5.97
+          ],
+          "loop_stake_pct": 0.0519
+        },
+        {
+          "pair": [
+            "Tata Consumer Products Ltd",
+            "Tata Investment Corporation Ltd"
+          ],
+          "stakes_pct": [
+            0.29,
+            4.65
+          ],
+          "loop_stake_pct": 0.0135
+        },
+        {
+          "pair": [
+            "Tata Investment Corporation Ltd",
+            "Tata Power Company Ltd"
+          ],
+          "stakes_pct": [
+            0.21,
+            1.57
+          ],
+          "loop_stake_pct": 0.0033
+        },
+        {
+          "pair": [
+            "Tata Investment Corporation Ltd",
+            "Trent Ltd"
+          ],
+          "stakes_pct": [
+            4.28,
+            0.06
+          ],
+          "loop_stake_pct": 0.0026
+        },
+        {
+          "pair": [
+            "Tata Investment Corporation Ltd",
+            "Tata Steel Ltd"
+          ],
+          "stakes_pct": [
+            0.34,
+            0.45
+          ],
+          "loop_stake_pct": 0.0015
+        },
+        {
+          "pair": [
+            "Tata Chemicals Ltd",
+            "Titan Company Ltd"
+          ],
+          "stakes_pct": [
+            1.56,
+            0.0
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "pair": [
+            "Tata Motors Passenger Vehicles Ltd",
+            "Tata Steel Ltd"
+          ],
+          "stakes_pct": [
+            0.44,
+            0.0
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "pair": [
+            "Tata Capital Ltd",
+            "Tata Chemicals Ltd"
+          ],
+          "stakes_pct": [
+            0.0,
+            0.08
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "pair": [
+            "Tata Capital Ltd",
+            "Tata Consumer Products Ltd"
+          ],
+          "stakes_pct": [
+            0.0,
+            0.01
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "pair": [
+            "Tata Capital Ltd",
+            "Tata Power Company Ltd"
+          ],
+          "stakes_pct": [
+            0.0,
+            0.05
+          ],
+          "loop_stake_pct": 0.0
+        }
+      ],
+      "back_edges_found": 15,
+      "example_cycles": [
+        {
+          "cycle": [
+            "Tata Consumer Products Ltd",
+            "Tata Investment Corporation Ltd",
+            "Tata Consumer Products Ltd"
+          ],
+          "loop_stake_pct": 0.0135
+        },
+        {
+          "cycle": [
+            "Tata Investment Corporation Ltd",
+            "Trent Ltd",
+            "Tata Investment Corporation Ltd"
+          ],
+          "loop_stake_pct": 0.0026
+        },
+        {
+          "cycle": [
+            "Tata Chemicals Ltd",
+            "Titan Company Ltd",
+            "Tata Chemicals Ltd"
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "cycle": [
+            "Tata Chemicals Ltd",
+            "Titan Company Ltd",
+            "Tata Consumer Products Ltd",
+            "Tata Investment Corporation Ltd",
+            "Tata Chemicals Ltd"
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "cycle": [
+            "Tata Chemicals Ltd",
+            "Titan Company Ltd",
+            "Tata Consumer Products Ltd",
+            "Tata Investment Corporation Ltd",
+            "Voltas Ltd",
+            "Tata Chemicals Ltd"
+          ],
+          "loop_stake_pct": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "size": 3,
+      "members": [
+        "Carborundum Universal Ltd",
+        "Cholamandalam Financial Holdings Ltd",
+        "EID Parry India Ltd"
+      ],
+      "groups": [
+        "Murugappa"
+      ],
+      "internal_edges": 4,
+      "max_internal_stake_pct": 0.0,
+      "all_internal_stakes_below_0_01_pct": true,
+      "strongest_edges": [
+        {
+          "holder": "Carborundum Universal Ltd",
+          "held": "Cholamandalam Financial Holdings Ltd",
+          "stake_pct": 0.0
+        },
+        {
+          "holder": "Carborundum Universal Ltd",
+          "held": "EID Parry India Ltd",
+          "stake_pct": 0.0
+        },
+        {
+          "holder": "Cholamandalam Financial Holdings Ltd",
+          "held": "Carborundum Universal Ltd",
+          "stake_pct": 0.0
+        },
+        {
+          "holder": "EID Parry India Ltd",
+          "held": "Carborundum Universal Ltd",
+          "stake_pct": 0.0
+        }
+      ],
+      "mutual_holdings": [
+        {
+          "pair": [
+            "Carborundum Universal Ltd",
+            "Cholamandalam Financial Holdings Ltd"
+          ],
+          "stakes_pct": [
+            0.0,
+            0.0
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "pair": [
+            "Carborundum Universal Ltd",
+            "EID Parry India Ltd"
+          ],
+          "stakes_pct": [
+            0.0,
+            0.0
+          ],
+          "loop_stake_pct": 0.0
+        }
+      ],
+      "back_edges_found": 2,
+      "example_cycles": [
+        {
+          "cycle": [
+            "Cholamandalam Financial Holdings Ltd",
+            "Carborundum Universal Ltd",
+            "Cholamandalam Financial Holdings Ltd"
+          ],
+          "loop_stake_pct": 0.0
+        },
+        {
+          "cycle": [
+            "Carborundum Universal Ltd",
+            "EID Parry India Ltd",
+            "Carborundum Universal Ltd"
+          ],
+          "loop_stake_pct": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "size": 2,
+      "members": [
+        "Grasim Industries Ltd",
+        "Hindalco Industries Ltd"
+      ],
+      "groups": [
+        "Aditya Birla"
+      ],
+      "internal_edges": 2,
+      "max_internal_stake_pct": 4.29,
+      "all_internal_stakes_below_0_01_pct": false,
+      "strongest_edges": [
+        {
+          "holder": "Hindalco Industries Ltd",
+          "held": "Grasim Industries Ltd",
+          "stake_pct": 4.29
+        },
+        {
+          "holder": "Grasim Industries Ltd",
+          "held": "Hindalco Industries Ltd",
+          "stake_pct": 3.92
+        }
+      ],
+      "mutual_holdings": [
+        {
+          "pair": [
+            "Grasim Industries Ltd",
+            "Hindalco Industries Ltd"
+          ],
+          "stakes_pct": [
+            3.92,
+            4.29
+          ],
+          "loop_stake_pct": 0.1682
+        }
+      ],
+      "back_edges_found": 1,
+      "example_cycles": [
+        {
+          "cycle": [
+            "Hindalco Industries Ltd",
+            "Grasim Industries Ltd",
+            "Hindalco Industries Ltd"
+          ],
+          "loop_stake_pct": 0.1682
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "size": 2,
+      "members": [
+        "Indian Hotels Company Ltd",
+        "Oriental Hotels Ltd"
+      ],
+      "groups": [
+        "Tata"
+      ],
+      "internal_edges": 2,
+      "max_internal_stake_pct": 28.54,
+      "all_internal_stakes_below_0_01_pct": false,
+      "strongest_edges": [
+        {
+          "holder": "Indian Hotels Company Ltd",
+          "held": "Oriental Hotels Ltd",
+          "stake_pct": 28.54
+        },
+        {
+          "holder": "Oriental Hotels Ltd",
+          "held": "Indian Hotels Company Ltd",
+          "stake_pct": 0.06
+        }
+      ],
+      "mutual_holdings": [
+        {
+          "pair": [
+            "Indian Hotels Company Ltd",
+            "Oriental Hotels Ltd"
+          ],
+          "stakes_pct": [
+            28.54,
+            0.06
+          ],
+          "loop_stake_pct": 0.0171
+        }
+      ],
+      "back_edges_found": 1,
+      "example_cycles": [
+        {
+          "cycle": [
+            "Indian Hotels Company Ltd",
+            "Oriental Hotels Ltd",
+            "Indian Hotels Company Ltd"
+          ],
+          "loop_stake_pct": 0.0171
+        }
+      ]
+    }
+  ],
+  "deep_chains": [
+    {
+      "company": "NACL Industries Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 99,
+      "ownership_depth": 4,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 11.409,
+      "control_depth": 2,
+      "dominant_route_layers": 3,
+      "dominant_route": [
+        "NACL Industries Ltd",
+        "Coromandel International Ltd",
+        "EID Parry India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Automobile Corporation of Goa Ltd-$",
+      "group": "Tata",
+      "owners_reachable": 59,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 19.7612,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Automobile Corporation of Goa Ltd-$",
+        "Tata Motors Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Benares Hotels Ltd",
+      "group": "Tata",
+      "owners_reachable": 124,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 18.2379,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Benares Hotels Ltd",
+        "Indian Hotels Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "CG Power and Industrial Solutions Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 108,
+      "ownership_depth": 4,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 20.0561,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "CG Power and Industrial Solutions Ltd",
+        "Tube Investments of India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Nelco Ltd",
+      "group": "Tata",
+      "owners_reachable": 56,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 22.889,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Nelco Ltd",
+        "Tata Power Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Oriental Hotels Ltd",
+      "group": "Tata",
+      "owners_reachable": 104,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 11.4178,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Oriental Hotels Ltd",
+        "Indian Hotels Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Rallis India Ltd",
+      "group": "Tata",
+      "owners_reachable": 54,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 19.844,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Rallis India Ltd",
+        "Tata Chemicals Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "TRF Ltd-$",
+      "group": "Tata",
+      "owners_reachable": 59,
+      "ownership_depth": 5,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 10.9865,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "TRF Ltd-$",
+        "Tata Steel Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Technologies Ltd",
+      "group": "Tata",
+      "owners_reachable": 55,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 22.9948,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Tata Technologies Ltd",
+        "Tata Motors Passenger Vehicles Ltd",
+        "Tata Sons Private Limited"
+      ]
+    }
+  ],
+  "control_depth": [
+    {
+      "company": "Aditya Birla Capital Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 52,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 22.115,
+      "control_depth": 1,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Aditya Birla Capital Ltd",
+        "Grasim Industries Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Aditya Birla Fashion and Retail Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 56,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 21.9101,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Aditya Birla Fashion and Retail Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Aditya Birla Lifestyle Brands Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 56,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 20.049,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Aditya Birla Lifestyle Brands Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Aditya Birla Real Estate Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 18,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 18.3216,
+      "control_depth": 1,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Aditya Birla Real Estate Ltd",
+        "Pilani Investment and Industries Corporation Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Automobile Corporation of Goa Ltd-$",
+      "group": "Tata",
+      "owners_reachable": 59,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 19.7612,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Automobile Corporation of Goa Ltd-$",
+        "Tata Motors Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Automotive Stampings and Assemblies Ltd",
+      "group": "Tata",
+      "owners_reachable": 1,
+      "ownership_depth": 1,
+      "controller": "Tata AutoComp Systems Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 75.0,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Automotive Stampings and Assemblies Ltd",
+        "Tata AutoComp Systems Limited"
+      ]
+    },
+    {
+      "company": "Benares Hotels Ltd",
+      "group": "Tata",
+      "owners_reachable": 124,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 18.2379,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Benares Hotels Ltd",
+        "Indian Hotels Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Carborundum Universal Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 86,
+      "ownership_depth": 2,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 29.43,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Carborundum Universal Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Century Enka Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 34,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 17.8072,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Century Enka Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "CG Power and Industrial Solutions Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 108,
+      "ownership_depth": 4,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 20.0561,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "CG Power and Industrial Solutions Ltd",
+        "Tube Investments of India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Cholamandalam Financial Holdings Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 86,
+      "ownership_depth": 3,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 37.69,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Cholamandalam Financial Holdings Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Cholamandalam Investment and Finance Company Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 101,
+      "ownership_depth": 2,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 20.4456,
+      "control_depth": 1,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Cholamandalam Investment and Finance Company Ltd",
+        "Cholamandalam Financial Holdings Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Coromandel International Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 94,
+      "ownership_depth": 3,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 21.2538,
+      "control_depth": 1,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Coromandel International Ltd",
+        "EID Parry India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "EID Parry India Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 86,
+      "ownership_depth": 3,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 38.24,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "EID Parry India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Grasim Industries Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 47,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 25.2356,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Grasim Industries Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Hindalco Industries Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 47,
+      "ownership_depth": 2,
+      "controller": "IGH Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 15.8403,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Hindalco Industries Ltd",
+        "IGH Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Indian Hotels Company Ltd",
+      "group": "Tata",
+      "owners_reachable": 104,
+      "ownership_depth": 3,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 36.8219,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Indian Hotels Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Jay Shree Tea & Industries Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 31,
+      "ownership_depth": 2,
+      "controller": "JAYASHREE FINVEST PRIVATE LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 23.09,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Jay Shree Tea & Industries Ltd",
+        "JAYASHREE FINVEST PRIVATE LIMITED"
+      ]
+    },
+    {
+      "company": "Kartik Investments Trust Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 94,
+      "ownership_depth": 2,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 42.4803,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Kartik Investments Trust Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "NACL Industries Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 99,
+      "ownership_depth": 4,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 11.409,
+      "control_depth": 2,
+      "dominant_route_layers": 3,
+      "dominant_route": [
+        "NACL Industries Ltd",
+        "Coromandel International Ltd",
+        "EID Parry India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Nelco Ltd",
+      "group": "Tata",
+      "owners_reachable": 56,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 22.889,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Nelco Ltd",
+        "Tata Power Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Oriental Hotels Ltd",
+      "group": "Tata",
+      "owners_reachable": 104,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 11.4178,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Oriental Hotels Ltd",
+        "Indian Hotels Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Pilani Investment and Industries Corporation Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 7,
+      "ownership_depth": 1,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 34.7,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Pilani Investment and Industries Corporation Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Rallis India Ltd",
+      "group": "Tata",
+      "owners_reachable": 54,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 19.844,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Rallis India Ltd",
+        "Tata Chemicals Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Shanthi Gears Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 104,
+      "ownership_depth": 4,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 25.1149,
+      "control_depth": 1,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Shanthi Gears Ltd",
+        "Tube Investments of India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "Tata Capital Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 3,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 80.2381,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Capital Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Chemicals Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 3,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 36.0537,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Chemicals Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Communications Ltd",
+      "group": "Tata",
+      "owners_reachable": 8,
+      "ownership_depth": 1,
+      "controller": "Panatone Finvest Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 44.79,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Communications Ltd",
+        "Panatone Finvest Limited"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services Ltd",
+      "group": "Tata",
+      "owners_reachable": 53,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 71.7606,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Consultancy Services Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Consumer Products Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 3,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 31.9116,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Consumer Products Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Elxsi Ltd",
+      "group": "Tata",
+      "owners_reachable": 53,
+      "ownership_depth": 5,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 43.3798,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Elxsi Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Investment Corporation Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 69.7429,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Investment Corporation Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Motors Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 3,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 40.3615,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Motors Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Motors Passenger Vehicles Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 40.3455,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Motors Passenger Vehicles Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Power Company Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 45.7413,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Power Company Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Steel Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 32.209,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Steel Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Technologies Ltd",
+      "group": "Tata",
+      "owners_reachable": 55,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 22.9948,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "Tata Technologies Ltd",
+        "Tata Motors Passenger Vehicles Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tata Teleservices (Maharashtra) Ltd",
+      "group": "Tata",
+      "owners_reachable": 54,
+      "ownership_depth": 5,
+      "controller": "Tata Teleservices Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 48.3,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tata Teleservices (Maharashtra) Ltd",
+        "Tata Teleservices Limited"
+      ]
+    },
+    {
+      "company": "Tejas Networks Ltd",
+      "group": "Tata",
+      "owners_reachable": 2,
+      "ownership_depth": 1,
+      "controller": "Panatone Finvest Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 53.33,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tejas Networks Ltd",
+        "Panatone Finvest Limited"
+      ]
+    },
+    {
+      "company": "Titan Company Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 4,
+      "controller": "Tamilnadu Industrial Development Corporation Ltd",
+      "controller_type": "corporate",
+      "controller_effective_pct": 27.88,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Titan Company Ltd",
+        "Tamilnadu Industrial Development Corporation Ltd"
+      ]
+    },
+    {
+      "company": "Trent Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 5,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 35.4245,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Trent Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "TRF Ltd-$",
+      "group": "Tata",
+      "owners_reachable": 59,
+      "ownership_depth": 5,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 10.9865,
+      "control_depth": 2,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "TRF Ltd-$",
+        "Tata Steel Ltd",
+        "Tata Sons Private Limited"
+      ]
+    },
+    {
+      "company": "Tube Investments of India Ltd",
+      "group": "Murugappa",
+      "owners_reachable": 99,
+      "ownership_depth": 3,
+      "controller": "AMBADI INVESTMENTS LIMITED",
+      "controller_type": "corporate",
+      "controller_effective_pct": 35.63,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Tube Investments of India Ltd",
+        "AMBADI INVESTMENTS LIMITED"
+      ]
+    },
+    {
+      "company": "UltraTech Cement Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 76,
+      "ownership_depth": 2,
+      "controller": "Birla Group Holdings Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 14.7491,
+      "control_depth": 1,
+      "dominant_route_layers": 2,
+      "dominant_route": [
+        "UltraTech Cement Ltd",
+        "Grasim Industries Ltd",
+        "Birla Group Holdings Private Limited"
+      ]
+    },
+    {
+      "company": "Vodafone Idea Ltd",
+      "group": "Aditya Birla",
+      "owners_reachable": 62,
+      "ownership_depth": 2,
+      "controller": "Department of Investment and Public Asset Management",
+      "controller_type": "corporate",
+      "controller_effective_pct": 49.0,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Vodafone Idea Ltd",
+        "Department of Investment and Public Asset Management"
+      ]
+    },
+    {
+      "company": "Voltas Ltd",
+      "group": "Tata",
+      "owners_reachable": 51,
+      "ownership_depth": 4,
+      "controller": "Tata Sons Private Limited",
+      "controller_type": "corporate",
+      "controller_effective_pct": 28.7552,
+      "control_depth": 1,
+      "dominant_route_layers": 1,
+      "dominant_route": [
+        "Voltas Ltd",
+        "Tata Sons Private Limited"
+      ]
+    }
+  ],
+  "families": [
+    {
+      "id": 1,
+      "size": 97,
+      "listed_companies": [
+        "Automobile Corporation of Goa Ltd-$",
+        "Benares Hotels Ltd",
+        "Indian Hotels Company Ltd",
+        "Nelco Ltd",
+        "Oriental Hotels Ltd",
+        "Rallis India Ltd",
+        "TRF Ltd-$",
+        "Tata Capital Ltd",
+        "Tata Chemicals Ltd",
+        "Tata Communications Ltd",
+        "Tata Consultancy Services Ltd",
+        "Tata Consumer Products Ltd",
+        "Tata Elxsi Ltd",
+        "Tata Investment Corporation Ltd",
+        "Tata Motors Ltd",
+        "Tata Motors Passenger Vehicles Ltd",
+        "Tata Power Company Ltd",
+        "Tata Steel Ltd",
+        "Tata Technologies Ltd",
+        "Tata Teleservices (Maharashtra) Ltd",
+        "Tejas Networks Ltd",
+        "Titan Company Ltd",
+        "Trent Ltd",
+        "Voltas Ltd"
+      ],
+      "groups": {
+        "Tata": 24
+      },
+      "natural_persons": 51
+    },
+    {
+      "id": 2,
+      "size": 86,
+      "listed_companies": [
+        "CG Power and Industrial Solutions Ltd",
+        "Carborundum Universal Ltd",
+        "Cholamandalam Financial Holdings Ltd",
+        "Cholamandalam Investment and Finance Company Ltd",
+        "Coromandel International Ltd",
+        "EID Parry India Ltd",
+        "Kartik Investments Trust Ltd",
+        "NACL Industries Ltd",
+        "Shanthi Gears Ltd",
+        "Tube Investments of India Ltd"
+      ],
+      "groups": {
+        "Murugappa": 10
+      },
+      "natural_persons": 43
+    },
+    {
+      "id": 3,
+      "size": 63,
+      "listed_companies": [
+        "Aditya Birla Capital Ltd",
+        "Aditya Birla Fashion and Retail Ltd",
+        "Aditya Birla Lifestyle Brands Ltd",
+        "Aditya Birla Real Estate Ltd",
+        "Century Enka Ltd",
+        "Grasim Industries Ltd",
+        "Hindalco Industries Ltd",
+        "Jay Shree Tea & Industries Ltd",
+        "Pilani Investment and Industries Corporation Ltd",
+        "UltraTech Cement Ltd",
+        "Vodafone Idea Ltd"
+      ],
+      "groups": {
+        "Aditya Birla": 11
+      },
+      "natural_persons": 10
+    },
+    {
+      "id": 4,
+      "size": 2,
+      "listed_companies": [
+        "Automotive Stampings and Assemblies Ltd"
+      ],
+      "groups": {
+        "Tata": 1
+      },
+      "natural_persons": 0
+    }
+  ]
+}

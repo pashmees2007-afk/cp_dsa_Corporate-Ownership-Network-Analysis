@@ -11,7 +11,8 @@ Follows `CP_Implementation_Plan.docx`.
 | 2. Ingestion and parsing module | **Done** |
 | 3. Entity resolution | **Done** |
 | 4. Graph construction and chain traversal | **Done** — first end-to-end build |
-| 5–8 | Not started |
+| 5. Cycle and structure detection | **Done** |
+| 6–8 | Not started |
 
 ### Phase 1 deliverable
 
@@ -54,6 +55,17 @@ python -m ownership.query "tata steel"
 python -m ownership.query --report     # regenerate the chain files
 ```
 
+### Phase 5 deliverable
+
+- Anomaly report: [`data/anomaly_report.json`](data/anomaly_report.json) — 4 circular-holding groups covering 18 companies (including an 11-company Tata cluster), 9 indirectly controlled companies, and 4 corporate families recovered from promoter holdings.
+- Algorithms: [`ownership/structure.py`](ownership/structure.py) — DFS back edges, Tarjan's SCC, BFS control depth, component labelling; all cross-checked against NetworkX in the tests.
+- Findings: [`docs/structure.md`](docs/structure.md).
+
+```
+python -m ownership.structure          # print and write the anomaly report
+pip install -r requirements-dev.txt    # NetworkX, for the verification tests only
+```
+
 ## Reproducing
 
 ```
@@ -64,4 +76,4 @@ python scripts/p1_fetch.py public
 python scripts/p1_build_dataset.py    # writes data/ownership_relations.csv
 ```
 
-Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–4 use only the Python 3.11 standard library.
+Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–5 use only the Python 3.11 standard library; NetworkX is used only by the tests.
