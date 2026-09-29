@@ -300,7 +300,8 @@ class EntityIndex:
 
     def lookup(self, query, limit=5):
         """Entities for a free-text query: exact key match first, then keys
-        starting with the query, then near matches. For the Phase 7 search box."""
+        starting with the query, then near matches of the whole name or of
+        its start. For the Phase 7 search box."""
         key = match_key(holding_entity(query).name) or match_key(query)
         found, seen = [], set()
 
@@ -319,8 +320,9 @@ class EntityIndex:
         radius = max(1, int(len(key) * CANDIDATE_RADIUS))
         near = []
         for trie in tries:
-            near.extend(trie.within(key, radius))
-        for _, ent, _ in sorted(near, key=lambda t: t[2]):
+            near.extend(trie.within(key, radius))           # the whole name, misspelt
+            near.extend(trie.prefix_within(key, radius))    # the start of a name, misspelt
+        for _, ent, _ in sorted(near, key=lambda t: (t[2], len(t[0]))):
             add(ent)
         return found[:limit]
 

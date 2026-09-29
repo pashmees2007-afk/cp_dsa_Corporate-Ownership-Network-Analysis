@@ -1,10 +1,11 @@
 """Phase 3 - character trie over canonical entity names.
 
-Supports the three lookups entity resolution needs:
+Supports the lookups entity resolution and the app's search box need:
 
     exact       get(key)                 O(m)                   m = key length
     prefix      with_prefix(prefix)      O(m + size of output)
     near-match  within(word, k)          every key at Levenshtein distance <= k
+    fuzzy pref. prefix_within(word, k)   every key with a prefix within distance k
 
 `within` walks the trie depth-first carrying one row of the edit-distance
 table per node (Hanov's method). Keys sharing a prefix share the rows for that
@@ -91,3 +92,35 @@ class Trie:
                 stack.extend((c, cc, row) for cc, c in node.children.items())
         out.sort(key=lambda t: (t[2], t[0]))
         return out
+
+    def prefix_within(self, word, k):
+        """[(key, value, distance)] for every key that has a prefix within
+        Levenshtein distance k of `word` ("hindalko" finds "hindalco
+        industries"). distance is the best over the key's prefixes. Same
+        row-per-node walk as within(): a node whose last cell is <= k is a
+        matching prefix, and every key below it matches."""
+        best = {}
+
+        def collect(start, d):
+            stack = [start]
+            while stack:
+                node = stack.pop()
+                if node.key is not None and d < best.get(node.key, (k + 1,))[0]:
+                    best[node.key] = (d, node.value)
+                stack.extend(node.children.values())
+
+        first = list(range(len(word) + 1))
+        if first[-1] <= k:
+            collect(self.root, first[-1])
+        stack = [(child, ch, first) for ch, child in self.root.children.items()]
+        while stack:
+            node, ch, prev = stack.pop()
+            row = [prev[0] + 1]
+            for j in range(1, len(word) + 1):
+                row.append(min(row[j - 1] + 1, prev[j] + 1, prev[j - 1] + (word[j - 1] != ch)))
+            self.cells += len(word)
+            if row[-1] <= k:
+                collect(node, row[-1])
+            if min(row) <= k:
+                stack.extend((c, cc, row) for cc, c in node.children.items())
+        return sorted(((key, v, d) for key, (d, v) in best.items()), key=lambda t: (t[2], len(t[0]), t[0]))

@@ -13,7 +13,8 @@ Follows `CP_Implementation_Plan.docx`.
 | 4. Graph construction and chain traversal | **Done** — first end-to-end build |
 | 5. Cycle and structure detection | **Done** |
 | 6. Cross-holding and control metrics | **Done** |
-| 7–8 | Not started |
+| 7. Interface and visualisation | **Done** — `streamlit run app.py` |
+| 8 | Not started |
 
 ### Phase 1 deliverable
 
@@ -78,6 +79,16 @@ pip install -r requirements-dev.txt    # NetworkX, for the verification tests on
 python -m ownership.control     # family table + data files
 ```
 
+### Phase 7 deliverable
+
+- The app: `pip install -r requirements.txt` then `streamlit run app.py`. It has three views:
+  - **Company:** any name in any spelling → ranked chains, ultimate owners, and an interactive ownership graph with circular holdings highlighted.
+  - **Owner:** everything an owner such as Tata Sons reaches.
+  - **Anomalies:** the dashboard of circular holdings, deep chains and family control.
+- Works offline (vis-network inlined). Screenshots and design notes: [`docs/app.md`](docs/app.md).
+
+![Company view](docs/img/company_view.png)
+
 ## Reproducing
 
 ```
@@ -88,4 +99,4 @@ python scripts/p1_fetch.py public
 python scripts/p1_build_dataset.py    # writes data/ownership_relations.csv
 ```
 
-Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–6 use only the Python 3.11 standard library; NetworkX and NumPy are used only by the tests (`requirements-dev.txt`).
+Raw responses (`data/raw/promoter`, `pro129`, `public`, `pub129`) are git-ignored; the commands above regenerate them. Phases 1–6 use only the Python 3.11 standard library. The Phase 7 app needs Streamlit and PyVis (`requirements.txt`); NetworkX and NumPy are used only by the tests (`requirements-dev.txt`).
