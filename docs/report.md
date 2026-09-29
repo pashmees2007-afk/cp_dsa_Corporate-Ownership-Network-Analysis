@@ -284,6 +284,8 @@ The analysis gives a clear answer for these three groups:
 - **The loops don't hide control.** The cross-holdings between listed companies are real and extensive (an 11-company Tata cluster), but far too weak to hide control.
 - **Opacity comes from the data's edge, not its depth.** What stops a chain before it reaches the people behind these groups is the unlisted holding company whose owners are not disclosed in these filings, not the depth of layering.
 
+The viva presentation is [`presentation.html`](presentation.html): a single self-contained page; open it in a browser and press **Present**.
+
 ## 11. Reproducing
 
 ```

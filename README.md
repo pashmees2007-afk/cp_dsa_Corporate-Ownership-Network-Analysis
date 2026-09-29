@@ -94,6 +94,7 @@ python -m ownership.control     # family table + data files
 ### Phase 8 deliverable
 
 - Project report with the complexity analysis and measured data: [`docs/report.md`](docs/report.md).
+- Presentation (14 slides, self-contained HTML; open it in a browser and press **Present**, arrow keys to move): [`docs/presentation.html`](docs/presentation.html).
 - Correctness: every algorithm agrees with NetworkX / NumPy on the real graph and synthetic graphs up to 5,000 nodes, including all 313,822 real ownership chains: [`data/verification.json`](data/verification.json) (`python -m ownership.verify`).
 - Scalability: all O(V + E) algorithms measure a log-log slope of 1.04–1.12 from 100 to 10,000 nodes; adjacency list vs matrix at 5,000 nodes: 113× less memory, ~3,100× faster BFS. [`data/benchmark.json`](data/benchmark.json) (`python -m ownership.benchmark`).
 
