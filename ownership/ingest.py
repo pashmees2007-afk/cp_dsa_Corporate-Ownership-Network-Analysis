@@ -42,7 +42,8 @@ from .normalise import normalise_name
 
 # The five fields the plan's schema requires; the rest are Phase 1 provenance.
 REQUIRED = ("holder_name", "held_name", "stake_pct", "filing_date", "entity_type")
-OPTIONAL = ("holder_role", "shares_held", "held_scrip_code", "as_on_date", "group")
+OPTIONAL = ("holder_role", "shares_held", "held_scrip_code", "as_on_date", "group",
+            "holder_cin", "held_cin")
 ENTITY_TYPES = ("corporate", "individual")
 _CONTROL = re.compile(r"[\x00-\x1f\x7f]")
 
@@ -67,6 +68,8 @@ class OwnershipRecord:
     held_scrip_code: str | None = None
     as_on_date: date | None = None
     group: str | None = None
+    holder_cin: str | None = None    # Corporate Identity Numbers, when a source carries them
+    held_cin: str | None = None
 
 
 @dataclass(frozen=True, slots=True)
@@ -155,6 +158,8 @@ def _parse_row(cells, line):
         held_scrip_code=opt["held_scrip_code"],
         as_on_date=_parse_date(opt["as_on_date"], "as_on_date") if opt["as_on_date"] else None,
         group=opt["group"],
+        holder_cin=opt["holder_cin"].upper() if opt["holder_cin"] else None,
+        held_cin=opt["held_cin"].upper() if opt["held_cin"] else None,
     )
 
 

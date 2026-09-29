@@ -1,0 +1,507 @@
+{
+  "pairs": 100,
+  "positives": 26,
+  "by_band": {
+    "<0.25": 25,
+    "0.25-0.5": 25,
+    "0.5-0.75": 25,
+    ">=0.75": 25
+  },
+  "configs": {
+    "phase2_normalisation_only": {
+      "tp": 7,
+      "fp": 0,
+      "fn": 19,
+      "tn": 74,
+      "precision": 1.0,
+      "recall": 0.269,
+      "f1": 0.424,
+      "errors": [
+        {
+          "type": "false_negative",
+          "name_a": "Murugappan Arunachalam Children Trust(Sigappi Arunachalam,MAM Arunachalam, AM Meyammai are Trustees",
+          "name_b": "Sigappi Arunachalam SigappiArun,MAMArunachalam&AMMeyyammaiholdsshares-Murug.Arun.ChildrenTrust",
+          "note": "garbled filing; trustees Sigappi Arunachalam, MAM Arunachalam, AM Meyyammai holding for Murugappan Arunachalam Children Trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Muthatha Ramanathan",
+          "name_b": "Muthatha Ramanathan (Legal heir of Late UMAYAL.R)",
+          "note": "same person; the note says how she came to hold the shares"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M V SUBBIAH, trustee of Saraswathi Trust",
+          "name_b": "Saraswathi Trust (M V Subbiah, S Vellayan & M V Seetha Subbiah, Trustees holds shares for Trust)",
+          "note": "trustee acting for the trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Valli Subbiah Benefit Trust (S Vellayan & M V Subbiah hold shares on behalf of the Trust)",
+          "name_b": "Valli Subbiah Benefit Trust (Subbiah Vellayan & M V Subbiah holds shares on behalf of Trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Shambho Trust (M V Subbiah & S Vellayan hold shares on behalf of the Trust)",
+          "name_b": "Shambho Trust (M V Subbiah and S Vellayan hold shares)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M V Subramanian Family Trust (M M Venkatachalam & M V Subramanian, Trustees holds shares for Trust)",
+          "name_b": "MV SUBRAMANIAN FAMILY TRUST (Mr. MM Venkatachalam & MV Subramanian hold shares on behalf of trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Saraswathi Trust (M V Subbiah, S Vellayan & M V Seetha Subbiah are trustees of the trust)",
+          "name_b": "Saraswathi Trust (M V Subbiah, S Vellayan, M V Seetha Subbiah holds shares on behalf of Trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M V Subramanian Family Trust (M M Venkatachalam & M V Subramanian hold shares on behalf of Trust)",
+          "name_b": "M V Subramanian Family Trust (M M Venkatachalam & M V Subramanian, Trustees holds shares for Trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Saraswathi Trust (M V Subbiah, S Vellayan & M V Seetha Subbiah are trustees of the trust)",
+          "name_b": "Saraswathi Trust (M V Subbiah, S Vellayan & M V Seetha Subbiah, Trustees holds shares for Trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND",
+          "name_b": "AXIS MUTUAL FUND TRUSTEE LTD. A/C (Through Multiple Schemes)",
+          "note": "both are the fund-level account of Axis Mutual Fund Trustee, not a specific scheme"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Saraswathi Trust (M V Subbiah, S Vellayan & M V Seetha Subbiah are trustees of the trust)",
+          "name_b": "Saraswathi Trust (M V Subbiah, S Vellayan and M V Seetha Subbiah hold shares)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M.A.Alagappan Grand Children Trust (Arun Alagappan & A A Alagammai holds shares on behalf of Trust)",
+          "name_b": "MA.Alagappan Grand Children Trust (Arun Alagappan & AA Alagammai, Trustees holds shares for Trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Arun Murugappan Children's Trust (MAM Arunachalam & Sigappi Arunachalam hold on behalf of trust)",
+          "name_b": "MAM ARUNACHALAM(MAM A & S Arunachalam hold on behalf of Arun Murugappan Children's Trust)",
+          "note": "trustees holding on behalf of the trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Valli Subbiah Benefit Trust (Subbiah Vellayan & M.V.Subbiah, Trustees holds shares for Trust)",
+          "name_b": "Valli Subbiah Benefit Trust (Subbiah Vellayan and M V Subbiah holds shares)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "Shambho Trust (M V Subbiah & S Vellayan hold shares on behalf of the Trust)",
+          "name_b": "Shambho Trust (M V Subbiah and S Vellayan holds shares on behalf of Trust)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M V Seetha Subbiah Benefit Trust (M V Subbiah & S Vellayan, Trustees holds shares for Trust)",
+          "name_b": "M V Seetha Subbiah Benefit Trust (M V Subbiah & Subbiah Vellayan holds shares)",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M M Veerappan Family Trust (M M Murugappan & Meenakshi Murugappan holds shares on behalf of Trust)",
+          "name_b": "M M Veerappan Family Trust - M M Murugappan & Meenkashi Murugappan holds shares on behalf of Trust",
+          "note": "typo Meenkashi in the trustee note"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M M MURUGAPPAN (M M Murugappan & Meenakshi Murugappan holds on behalf of M M Veerappan Family Trust)",
+          "name_b": "M M Veerappan Family Trust (M M Murugappan & Meenakshi Murugappan holds shares on behalf of Trust)",
+          "note": "trustees holding on behalf of the trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "M V Seetha Subbiah Benefit Trust (M V Subbiah & Subbiah Vellayan holds shares on behalf of Trust)",
+          "name_b": "M V Seetha Subbiah Benefit Trust (M V Subbiah & Subbiah Vellayan holds shares)",
+          "note": ""
+        }
+      ],
+      "entities": 506
+    },
+    "+ capacity_rules": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "tn": 74,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "errors": [
+        {
+          "type": "false_negative",
+          "name_a": "Murugappan Arunachalam Children Trust(Sigappi Arunachalam,MAM Arunachalam, AM Meyammai are Trustees",
+          "name_b": "Sigappi Arunachalam SigappiArun,MAMArunachalam&AMMeyyammaiholdsshares-Murug.Arun.ChildrenTrust",
+          "note": "garbled filing; trustees Sigappi Arunachalam, MAM Arunachalam, AM Meyyammai holding for Murugappan Arunachalam Children Trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND",
+          "name_b": "AXIS MUTUAL FUND TRUSTEE LTD. A/C (Through Multiple Schemes)",
+          "note": "both are the fund-level account of Axis Mutual Fund Trustee, not a specific scheme"
+        }
+      ],
+      "entities": 420
+    },
+    "+ truncation": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "tn": 74,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "errors": [
+        {
+          "type": "false_negative",
+          "name_a": "Murugappan Arunachalam Children Trust(Sigappi Arunachalam,MAM Arunachalam, AM Meyammai are Trustees",
+          "name_b": "Sigappi Arunachalam SigappiArun,MAMArunachalam&AMMeyyammaiholdsshares-Murug.Arun.ChildrenTrust",
+          "note": "garbled filing; trustees Sigappi Arunachalam, MAM Arunachalam, AM Meyyammai holding for Murugappan Arunachalam Children Trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND",
+          "name_b": "AXIS MUTUAL FUND TRUSTEE LTD. A/C (Through Multiple Schemes)",
+          "note": "both are the fund-level account of Axis Mutual Fund Trustee, not a specific scheme"
+        }
+      ],
+      "entities": 418
+    },
+    "+ fuzzy, whole-key threshold 0.8": {
+      "tp": 24,
+      "fp": 10,
+      "fn": 2,
+      "tn": 64,
+      "precision": 0.706,
+      "recall": 0.923,
+      "f1": 0.8,
+      "errors": [
+        {
+          "type": "false_negative",
+          "name_a": "Murugappan Arunachalam Children Trust(Sigappi Arunachalam,MAM Arunachalam, AM Meyammai are Trustees",
+          "name_b": "Sigappi Arunachalam SigappiArun,MAMArunachalam&AMMeyyammaiholdsshares-Murug.Arun.ChildrenTrust",
+          "note": "garbled filing; trustees Sigappi Arunachalam, MAM Arunachalam, AM Meyyammai holding for Murugappan Arunachalam Children Trust"
+        },
+        {
+          "type": "false_positive",
+          "name_a": "QUANT MUTUAL FUND - QUANT SMALL CAP FUND",
+          "name_b": "Quant Mutual Fund - Quant Mid Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "Quant Mutual Fund - Quant Multi Cap Fund",
+          "name_b": "Quant Mutual Fund - Quant Small Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT",
+          "name_b": "Nps Trust A/C Uti Pension Fund Limited-Scheme State Govt",
+          "note": ""
+        },
+        {
+          "type": "false_negative",
+          "name_a": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND",
+          "name_b": "AXIS MUTUAL FUND TRUSTEE LTD. A/C (Through Multiple Schemes)",
+          "note": "both are the fund-level account of Axis Mutual Fund Trustee, not a specific scheme"
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS Trust- A/C SBI Pension Fund Scheme - State Govt",
+          "name_b": "Nps Trust- A/C Lic Pension Fund Scheme - State Govt",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT",
+          "name_b": "Nps Trust- A/C Lic Pension Fund Scheme - State Govt",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Multi Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT",
+          "name_b": "NPS Trust A/c UTI Pension Fund Limited-Scheme Stat",
+          "note": "central-government vs state-government scheme"
+        },
+        {
+          "type": "false_positive",
+          "name_a": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+          "note": ""
+        }
+      ],
+      "entities": 386
+    },
+    "+ fuzzy, whole-key threshold 0.9": {
+      "tp": 24,
+      "fp": 7,
+      "fn": 2,
+      "tn": 67,
+      "precision": 0.774,
+      "recall": 0.923,
+      "f1": 0.842,
+      "errors": [
+        {
+          "type": "false_negative",
+          "name_a": "Murugappan Arunachalam Children Trust(Sigappi Arunachalam,MAM Arunachalam, AM Meyammai are Trustees",
+          "name_b": "Sigappi Arunachalam SigappiArun,MAMArunachalam&AMMeyyammaiholdsshares-Murug.Arun.ChildrenTrust",
+          "note": "garbled filing; trustees Sigappi Arunachalam, MAM Arunachalam, AM Meyyammai holding for Murugappan Arunachalam Children Trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND",
+          "name_b": "AXIS MUTUAL FUND TRUSTEE LTD. A/C (Through Multiple Schemes)",
+          "note": "both are the fund-level account of Axis Mutual Fund Trustee, not a specific scheme"
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS Trust- A/C SBI Pension Fund Scheme - State Govt",
+          "name_b": "Nps Trust- A/C Lic Pension Fund Scheme - State Govt",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS TRUST- A/C SBI PENSION FUND SCHEME - STATE GOVT",
+          "name_b": "Nps Trust- A/C Lic Pension Fund Scheme - State Govt",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Multi Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT",
+          "name_b": "NPS Trust A/c UTI Pension Fund Limited-Scheme Stat",
+          "note": "central-government vs state-government scheme"
+        },
+        {
+          "type": "false_positive",
+          "name_a": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+          "note": ""
+        },
+        {
+          "type": "false_positive",
+          "name_a": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA MULTI CAP FUND",
+          "name_b": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+          "note": ""
+        }
+      ],
+      "entities": 398
+    },
+    "+ fuzzy, token check (full method)": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "tn": 74,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "errors": [
+        {
+          "type": "false_negative",
+          "name_a": "Murugappan Arunachalam Children Trust(Sigappi Arunachalam,MAM Arunachalam, AM Meyammai are Trustees",
+          "name_b": "Sigappi Arunachalam SigappiArun,MAMArunachalam&AMMeyyammaiholdsshares-Murug.Arun.ChildrenTrust",
+          "note": "garbled filing; trustees Sigappi Arunachalam, MAM Arunachalam, AM Meyyammai holding for Murugappan Arunachalam Children Trust"
+        },
+        {
+          "type": "false_negative",
+          "name_a": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND",
+          "name_b": "AXIS MUTUAL FUND TRUSTEE LTD. A/C (Through Multiple Schemes)",
+          "note": "both are the fund-level account of Axis Mutual Fund Trustee, not a specific scheme"
+        }
+      ],
+      "entities": 405
+    }
+  },
+  "token_threshold_sweep": {
+    "0.6": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "fuzzy_merges_full_dataset": [
+        "arun murugappan childirens trust = arun murugappan children trust",
+        "arun murugappan childirens trust = arun murugappan childrens trust",
+        "arun murugappan children trust = arun murugappan childrentrust",
+        "arun murugappan childrens trust = arun murugappan childrenstrust",
+        "governement of singapore = government of singapore",
+        "investor education and protection fund = investor educaton and protection fund",
+        "ma alagappan grand children trust = ma alagappan grandchildren trust",
+        "ma alagappan holdings = ma murugappan holdings",
+        "murugappan arunachalam children trust = murugappan arunachalam chldren trust",
+        "murugappan arunachalam children trust = murugappanarunachalamchildrentrust",
+        "vikram holding = vikram holdings",
+        "kumar mangalam birla = kumarmangalam birla",
+        "lakshmi chocka lingam = lakshmi chockalingam",
+        "ma alagappan huf = ma murugappan huf",
+        "vedhika meyyammai arunachalam = vedika meyyammai arunachalam"
+      ]
+    },
+    "0.7": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "fuzzy_merges_full_dataset": [
+        "arun murugappan childirens trust = arun murugappan children trust",
+        "arun murugappan childirens trust = arun murugappan childrens trust",
+        "arun murugappan children trust = arun murugappan childrentrust",
+        "arun murugappan childrens trust = arun murugappan childrenstrust",
+        "governement of singapore = government of singapore",
+        "investor education and protection fund = investor educaton and protection fund",
+        "ma alagappan grand children trust = ma alagappan grandchildren trust",
+        "murugappan arunachalam children trust = murugappan arunachalam chldren trust",
+        "murugappan arunachalam children trust = murugappanarunachalamchildrentrust",
+        "vikram holding = vikram holdings",
+        "kumar mangalam birla = kumarmangalam birla",
+        "lakshmi chocka lingam = lakshmi chockalingam",
+        "vedhika meyyammai arunachalam = vedika meyyammai arunachalam"
+      ]
+    },
+    "0.8": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "fuzzy_merges_full_dataset": [
+        "arun murugappan childirens trust = arun murugappan children trust",
+        "arun murugappan childirens trust = arun murugappan childrens trust",
+        "arun murugappan children trust = arun murugappan childrentrust",
+        "arun murugappan childrens trust = arun murugappan childrenstrust",
+        "governement of singapore = government of singapore",
+        "investor education and protection fund = investor educaton and protection fund",
+        "ma alagappan grand children trust = ma alagappan grandchildren trust",
+        "murugappan arunachalam children trust = murugappan arunachalam chldren trust",
+        "murugappan arunachalam children trust = murugappanarunachalamchildrentrust",
+        "vikram holding = vikram holdings",
+        "kumar mangalam birla = kumarmangalam birla",
+        "lakshmi chocka lingam = lakshmi chockalingam",
+        "vedhika meyyammai arunachalam = vedika meyyammai arunachalam"
+      ]
+    },
+    "0.9": {
+      "tp": 24,
+      "fp": 0,
+      "fn": 2,
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "fuzzy_merges_full_dataset": [
+        "arun murugappan childirens trust = arun murugappan childrens trust",
+        "arun murugappan children trust = arun murugappan childrentrust",
+        "arun murugappan childrens trust = arun murugappan childrenstrust",
+        "arun murugappan childrenstrust = arun murugappan childrentrust",
+        "governement of singapore = government of singapore",
+        "ma alagappan grand children trust = ma alagappan grandchildren trust",
+        "murugappan arunachalam children trust = murugappanarunachalamchildrentrust",
+        "kumar mangalam birla = kumarmangalam birla",
+        "lakshmi chocka lingam = lakshmi chockalingam"
+      ]
+    }
+  },
+  "blocking": {
+    "all_pairs": {
+      "comparisons": 49974,
+      "matches": 15,
+      "seconds": 0.384
+    },
+    "trie_near_search": {
+      "edit_distance_cells": 12462664,
+      "matches": 15,
+      "seconds": 2.358
+    },
+    "prefix_blocking_1": {
+      "comparisons": 3534,
+      "matches": 15,
+      "seconds": 0.098,
+      "missed": []
+    },
+    "prefix_blocking_2": {
+      "comparisons": 959,
+      "matches": 15,
+      "seconds": 0.043,
+      "missed": []
+    },
+    "prefix_blocking_3": {
+      "comparisons": 646,
+      "matches": 15,
+      "seconds": 0.036,
+      "missed": []
+    },
+    "prefix_blocking_4": {
+      "comparisons": 602,
+      "matches": 14,
+      "seconds": 0.041,
+      "missed": [
+        "vedhika meyyammai arunachalam = vedika meyyammai arunachalam"
+      ]
+    },
+    "prefix_blocking_5": {
+      "comparisons": 569,
+      "matches": 14,
+      "seconds": 0.032,
+      "missed": [
+        "vedhika meyyammai arunachalam = vedika meyyammai arunachalam"
+      ]
+    },
+    "prefix_blocking_6": {
+      "comparisons": 305,
+      "matches": 13,
+      "seconds": 0.027,
+      "missed": [
+        "kumar mangalam birla = kumarmangalam birla",
+        "vedhika meyyammai arunachalam = vedika meyyammai arunachalam"
+      ]
+    }
+  }
+}

@@ -41,6 +41,7 @@ python -m unittest                    # run the tests
 | `holder_norm`, `held_norm` | `str` | Normalised names (section 3) |
 | `line` | `int` | Source line, so any record can be traced back to the file |
 | `holder_role`, `shares_held`, `held_scrip_code`, `as_on_date`, `group` | optional | Phase 1 provenance columns; `None` when the column is absent or empty |
+| `holder_cin`, `held_cin` | optional | Corporate Identity Numbers, upper-cased. Added in Phase 3, where a CIN overrides name matching; the BSE data has none |
 
 Only the plan's five schema fields are required columns. Column order does not matter and unknown columns are ignored, so files from other sources can be read if they carry those five.
 
